@@ -13,6 +13,9 @@ jobs:
       uses: ./.github/actions/build-push
     - name: Create CSV and Markdown
       run: |
+        gem install bundler
+        bundle install
+        bundle exec ruby get_bookmarks.rb
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add -f README.md bookmarks.csv
