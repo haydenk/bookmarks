@@ -9,5 +9,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - name: Build Docker Image
+    - name: Build & Publish
       uses: ./
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
