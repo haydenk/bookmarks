@@ -5,6 +5,5 @@ COPY entrypoint.sh ./
 RUN set -ex; \
     apk add build-base sqlite-dev; \
     gem install bundler; \
-    chmod +x entrypoint.sh; \
     bundle install
-ENTRYPOINT ["entrypoint.sh"]
+CMD ["sh", "entrypoint.sh"]
