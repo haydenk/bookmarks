@@ -10,6 +10,6 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Build and Create Bookmarks
-      uses: actions/build-push
+      uses: ./.github/actions/build-push
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
