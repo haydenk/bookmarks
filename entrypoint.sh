@@ -1,3 +1,5 @@
+#!/bin/sh
+
 bundle exec ruby get_bookmarks.rb
 git config --local user.email "action@github.com"
 git config --local user.name "GitHub Action"
