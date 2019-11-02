@@ -59,5 +59,6 @@ build-iPhoneSimulator/
 add_to_bookmarks/*
 !add_to_bookmarks/.gitignore
 *.csv
+README.md
 
 # End of https://www.gitignore.io/api/ruby
