@@ -1,4 +1,7 @@
 FROM ruby:2.6.5-alpine
-COPY . /
-RUN set -ex; apk add --no-cache build-base sqlite-dev;
-CMD ["/start.sh"]
+WORKDIR /github/workspace
+COPY Gemfile ./
+RUN set -ex; \
+    apk add build-base sqlite-dev; \
+    gem install bundler; \
+    bundle install
