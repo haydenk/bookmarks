@@ -6,4 +6,5 @@ ruby RUBY_VERSION
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem 'webloc', '~> 0.0.1'
+gem 'fastercsv', '~> 1.5', '>= 1.5.5'
 gem 'sqlite3', '~> 1.4', '>= 1.4.1'
