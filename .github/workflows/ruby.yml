@@ -11,6 +11,8 @@ jobs:
     - uses: actions/checkout@v1
     - name: Build
       uses: ./
+    - env: # Or as an environment variable
+        token: ${{ secrets.TOKEN }}
     - name: Commit
       run: |
         git config --local user.email "action@github.com"
@@ -18,5 +20,5 @@ jobs:
         git add -f README.md bookmarks.csv
         git commit -m "Add changes" -a
 
-        remote_repo="https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+        remote_repo="https://${GITHUB_ACTOR}:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
         git push "${remote_repo}" HEAD:master --follow-tags $_FORCE_OPTION
