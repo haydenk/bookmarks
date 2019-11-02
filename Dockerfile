@@ -6,4 +6,4 @@ RUN set -ex; \
     apk add build-base sqlite-dev; \
     gem install bundler; \
     bundle install
-CMD ["sh", "entrypoint.sh"]
+CMD ["bundle", "exec", "ruby", "get_bookmarks.rb"]
