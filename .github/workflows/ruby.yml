@@ -16,6 +16,8 @@ jobs:
       uses: ./
     - name: Commit
       run: |
+        ls -l
+        git branch
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add -f README.md bookmarks.csv
