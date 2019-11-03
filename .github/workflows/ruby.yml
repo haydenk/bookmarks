@@ -20,8 +20,8 @@ jobs:
         git branch
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add -f README.md bookmarks.csv
-        git commit -m "Add changes" -a
+        git --git-dir=.git --work-tree=build add --all
+        git --git-dir=.git --work-tree=build commit -m "Add changes" -a
 
         remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git push --force "${remote_repo}" HEAD:master --follow-tags $_FORCE_OPTION
+        git --git-dir=.git --work-tree=_site push --force "${remote_repo}" HEAD:master --follow-tags $_FORCE_OPTION

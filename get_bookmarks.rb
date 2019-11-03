@@ -5,7 +5,9 @@ require 'cgi'
 begin
   db = SQLite3::Database.new "bookmarks.db"
 
-  File.open('README.md', 'wb') do |file|
+  Dir.mkdir 'build'
+
+  File.open('build/README.md', 'wb') do |file|
     file << "[CSV](bookmarks.csv)\n\n"
     stm = db.prepare "SELECT title, url FROM bookmarks"
     stm.execute.each do |row|
@@ -15,7 +17,7 @@ begin
     end
   end
 
-  CSV.open('bookmarks.csv', 'wb') do |csv|
+  CSV.open('build/bookmarks.csv', 'wb') do |csv|
     csv << %w(id title url)
     stm = db.prepare "SELECT id, title, url FROM bookmarks"
     stm.execute.each { |row| csv << row }
