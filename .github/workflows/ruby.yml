@@ -1,4 +1,4 @@
-name: Ruby
+name: Bookmarks
 
 on:
   push:
@@ -12,16 +12,24 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+    - name: Install CI Dependencies
+      run: |
+        apt-get install -y build-essential libsqlite3-dev
+        gem install bundler
+        bundle install
     - name: Build
-      uses: ./
+      run: bundle exec ruby get_bookmarks.rb
     - name: Commit
       run: |
-        ls -l
-        git branch
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git --git-dir=.git --work-tree=build add --all
         git --git-dir=.git --work-tree=build commit -m "Add changes" -a
-
+    - name: Push
+      run: |
         remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
         git --git-dir=.git --work-tree=_site push --force "${remote_repo}" HEAD:master --follow-tags $_FORCE_OPTION
