@@ -1,0 +1,21 @@
+[tool.pdm]
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Hayden", email = "haydenk@users.noreply.github.com"},
+]
+dependencies = [
+    "python-magic~=0.4",
+    "jupyterlab~=3.6",
+    "nltk~=3.8",
+    "BeautifulSoup4~=4.12",
+]
+requires-python = ">=3.11"
+license = {text = "none"}
+
+[tool.pdm.scripts]
+parser = {call = "runner:run_parser"}
+load_csv = {call = "runner:csv_to_sqlite"}
