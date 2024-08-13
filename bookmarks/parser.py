@@ -6,6 +6,7 @@ from hashlib import sha256
 from os.path import splitext, basename
 from urllib.parse import urlparse
 
+import pylibmagic
 import magic
 
 
