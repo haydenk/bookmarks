@@ -21,5 +21,3 @@ where regexp_matches(url, '^https?\:\/\/');
 
 copy (select title, domain, url from bookmarks order by domain asc) to 'bookmarks.csv';
 
-.mode markdown
-select title, domain, url from bookmarks order by domain asc
