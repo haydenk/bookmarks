@@ -13,9 +13,11 @@
 * [airtable.com](#airtablecom)
 * [akamai.com](#akamaicom)
 * [akaricons.com](#akariconscom)
+* [akashgoswami.dev](#akashgoswamidev)
 * [alarauptown.com](#alarauptowncom)
 * [alex.dzyoba.com](#alexdzyobacom)
 * [alexkudlick.com](#alexkudlickcom)
+* [alfy.blog](#alfyblog)
 * [aliengearholsters.com](#aliengearholsterscom)
 * [allrecipes.com](#allrecipescom)
 * [amazon.com](#amazoncom)
@@ -33,13 +35,16 @@
 * [arc.tripl.ai](#arctriplai)
 * [architonic.com](#architoniccom)
 * [argusmedia.com](#argusmediacom)
+* [armotechusa.shop](#armotechusashop)
 * [arp242.net](#arp242net)
 * [arrow.apache.org](#arrowapacheorg)
 * [arrowheadtacticalapparel.com](#arrowheadtacticalapparelcom)
+* [aschmelyun.com](#aschmelyuncom)
 * [asus.com](#asuscom)
 * [athemes.com](#athemescom)
 * [atlas46.com](#atlas46com)
 * [atlassian.com](#atlassiancom)
+* [atomicvoyage.com](#atomicvoyagecom)
 * [auraoldtown.com](#auraoldtowncom)
 * [avi.im](#aviim)
 * [aviatorwallet.com](#aviatorwalletcom)
@@ -57,12 +62,15 @@
 * [beeflovingtexans.com](#beeflovingtexanscom)
 * [beemali.com](#beemalicom)
 * [behance.net](#behancenet)
+* [ben-mini.github.io](#ben-minigithubio)
 * [benhoyt.com](#benhoytcom)
 * [bernsteinbear.com](#bernsteinbearcom)
 * [best-recipes.foodzec.com](#best-recipesfoodzeccom)
 * [betterprogramming.pub](#betterprogrammingpub)
 * [beyouchair.com](#beyouchaircom)
+* [bigbeelittlebee.com](#bigbeelittlebeecom)
 * [bigocheatsheet.com](#bigocheatsheetcom)
+* [birddogs.com](#birddogscom)
 * [bitbucket.org](#bitbucketorg)
 * [bitsof.thisfieldwas.green](#bitsofthisfieldwasgreen)
 * [blog.appsignal.com](#blogappsignalcom)
@@ -93,19 +101,28 @@
 * [brellashieldoffer.com](#brellashieldoffercom)
 * [brightside.me](#brightsideme)
 * [brighttalk.com](#brighttalkcom)
+* [bruntworkwear.com](#bruntworkwearcom)
 * [bschaatsbergen.com](#bschaatsbergencom)
 * [buildwithhubs.co.uk](#buildwithhubscouk)
 * [bulletpointmountingsolutions.com](#bulletpointmountingsolutionscom)
+* [bulma.io](#bulmaio)
 * [bun.sh](#bunsh)
+* [busy-tag.com](#busy-tagcom)
+* [buttondown.com](#buttondowncom)
 * [buzzsprout.com](#buzzsproutcom)
 * [bwoff.medium.com](#bwoffmediumcom)
 * [c0de517e.blogspot.com](#c0de517eblogspotcom)
 * [c4labs.com](#c4labscom)
 * [cabelas.com](#cabelascom)
 * [cafedelites.com](#cafedelitescom)
+* [cal.com](#calcom)
 * [caldigit.com](#caldigitcom)
 * [caniuse.com](#caniusecom)
 * [capitolatstonebriar.com](#capitolatstonebriarcom)
+* [capsapparel.com](#capsapparelcom)
+* [carhartoutlet.store](#carhartoutletstore)
+* [carryproof.com](#carryproofcom)
+* [carsenclamp.com](#carsenclampcom)
 * [castel.dev](#casteldev)
 * [cato.org](#catoorg)
 * [cdc.gov](#cdcgov)
@@ -120,8 +137,10 @@
 * [code.visualstudio.com](#codevisualstudiocom)
 * [codeburst.io](#codeburstio)
 * [codejava.net](#codejavanet)
+* [codeopinion.com](#codeopinioncom)
 * [codepen.io](#codepenio)
 * [codingwithsam.com](#codingwithsamcom)
+* [cognitive-surplus.com](#cognitive-surpluscom)
 * [collinlp.org](#collinlporg)
 * [colormind.io](#colormindio)
 * [colourlovers.com](#colourloverscom)
@@ -133,13 +152,17 @@
 * [coreweave.com](#coreweavecom)
 * [cortland.com](#cortlandcom)
 * [costco.ca](#costcoca)
+* [craft-minds.com](#craft-mindscom)
+* [criquetshirts.com](#criquetshirtscom)
 * [cs193p.sites.stanford.edu](#cs193psitesstanfordedu)
 * [csc.service-now.com](#cscservice-nowcom)
 * [css-tricks.com](#css-trickscom)
+* [cssgridgenerator.io](#cssgridgeneratorio)
 * [cssportal.com](#cssportalcom)
 * [cyancraigranch.com](#cyancraigranchcom)
 * [d2-lang.com](#d2-langcom)
 * [daan.fyi](#daanfyi)
+* [dailykairos.com](#dailykairoscom)
 * [daisyui.com](#daisyuicom)
 * [dallasnews.com](#dallasnewscom)
 * [dallasobserver.com](#dallasobservercom)
@@ -151,9 +174,11 @@
 * [dataquest.io](#dataquestio)
 * [datasciencedegree.wisconsin.edu](#datasciencedegreewisconsinedu)
 * [davidwalsh.name](#davidwalshname)
+* [dayfortyone.com](#dayfortyonecom)
 * [dbdiagram.io](#dbdiagramio)
 * [dbu.edu](#dbuedu)
 * [dbushell.com](#dbushellcom)
+* [deals.getairmoto.com](#dealsgetairmotocom)
 * [decipherzone.com](#decipherzonecom)
 * [defman.me](#defmanme)
 * [delish.com](#delishcom)
@@ -162,6 +187,7 @@
 * [dequeuniversity.com](#dequeuniversitycom)
 * [deriklima.com](#deriklimacom)
 * [desiringgod.org](#desiringgodorg)
+* [deskboardbuddy.com](#deskboardbuddycom)
 * [dev.to](#devto)
 * [devapi.libertysoftware.com](#devapilibertysoftwarecom)
 * [developer.apple.com](#developerapplecom)
@@ -174,6 +200,7 @@
 * [discoveryattherealm.com](#discoveryattherealmcom)
 * [discoverycastlehills.com](#discoverycastlehillscom)
 * [discuss.hotwired.dev](#discusshotwireddev)
+* [displate.com](#displatecom)
 * [doc.pytest.org](#docpytestorg)
 * [docker.com](#dockercom)
 * [docs.ansible.com](#docsansiblecom)
@@ -194,13 +221,17 @@
 * [drewdevault.com](#drewdevaultcom)
 * [drfrankenstein.co.uk](#drfrankensteincouk)
 * [dschep.github.io](#dschepgithubio)
+* [duderobe.com](#duderobecom)
+* [dukecannon.com](#dukecannoncom)
 * [dzone.com](#dzonecom)
 * [earthly.dev](#earthlydev)
 * [earthroamer.com](#earthroamercom)
 * [eastlineresidences.com](#eastlineresidencescom)
+* [eff.org](#efforg)
 * [elastic.co](#elasticco)
 * [elgato.com](#elgatocom)
 * [elmforktx.com](#elmforktxcom)
+* [elory.co](#eloryco)
 * [en.wikipedia.org](#enwikipediaorg)
 * [engadget.com](#engadgetcom)
 * [engage.so](#engageso)
@@ -217,12 +248,15 @@
 * [figma.com](#figmacom)
 * [fletcherscornydogs.com](#fletcherscornydogscom)
 * [foldnfly.com](#foldnflycom)
+* [fooddy24h.blogspot.com](#fooddy24hblogspotcom)
 * [foodnetwork.com](#foodnetworkcom)
 * [forbes.com](#forbescom)
 * [forgejo.org](#forgejoorg)
 * [forums.att.com](#forumsattcom)
 * [forums.macrumors.com](#forumsmacrumorscom)
+* [foureditors.com](#foureditorscom)
 * [foxhound.systems](#foxhoundsystems)
+* [fractaledmind.github.io](#fractaledmindgithubio)
 * [frame.work](#framework)
 * [freek.dev](#freekdev)
 * [ft.com](#ftcom)
@@ -258,6 +292,7 @@
 * [go.dev](#godev)
 * [go.factor75.com](#gofactor75com)
 * [gocolonial.com](#gocolonialcom)
+* [godlybible.com](#godlybiblecom)
 * [godspeedapp.com](#godspeedappcom)
 * [golangcode.com](#golangcodecom)
 * [golden-star-donuts.edan.io](#golden-star-donutsedanio)
@@ -269,6 +304,7 @@
 * [grafana.com](#grafanacom)
 * [grantballmer.github.io](#grantballmergithubio)
 * [greatfon.com](#greatfoncom)
+* [grillrescue.com](#grillrescuecom)
 * [griplocked.com](#griplockedcom)
 * [grovemade.com](#grovemadecom)
 * [gtdist.com](#gtdistcom)
@@ -280,7 +316,9 @@
 * [hackingwithswift.com](#hackingwithswiftcom)
 * [hacks.mozilla.org](#hacksmozillaorg)
 * [hakibenita.com](#hakibenitacom)
+* [halfdaytravel.com](#halfdaytravelcom)
 * [handsontable.com](#handsontablecom)
+* [hanksbelts.com](#hanksbeltscom)
 * [haveibeenpwned.com](#haveibeenpwnedcom)
 * [haydenjames.io](#haydenjamesio)
 * [healeycodes.com](#healeycodescom)
@@ -314,6 +352,8 @@
 * [ihorbobak.com](#ihorbobakcom)
 * [iism.org](#iismorg)
 * [imgur.com](#imgurcom)
+* [incase.com](#incasecom)
+* [indiegogo.com](#indiegogocom)
 * [infoworld.com](#infoworldcom)
 * [inngest.com](#inngestcom)
 * [inspirationtexas.com](#inspirationtexascom)
@@ -321,6 +361,7 @@
 * [instantclick.io](#instantclickio)
 * [interactivepython.org](#interactivepythonorg)
 * [intermix.io](#intermixio)
+* [ipdx.co](#ipdxco)
 * [isapplesiliconready.com](#isapplesiliconreadycom)
 * [it-tools.tech](#it-toolstech)
 * [itinyhouses.com](#itinyhousescom)
@@ -329,6 +370,7 @@
 * [ivanderevianko.com](#ivandereviankocom)
 * [iwantmyreal.name](#iwantmyrealname)
 * [jackrutorial.com](#jackrutorialcom)
+* [jarosz.dev](#jaroszdev)
 * [java-examples.com](#java-examplescom)
 * [javadevcentral.com](#javadevcentralcom)
 * [javascript.plainenglish.io](#javascriptplainenglishio)
@@ -345,17 +387,23 @@
 * [josh-handon.medium.com](#josh-handonmediumcom)
 * [joshwcomeau.com](#joshwcomeaucom)
 * [journal.stuffwithstuff.com](#journalstuffwithstuffcom)
+* [joybos.com](#joyboscom)
 * [jpkleemans.medium.com](#jpkleemansmediumcom)
 * [jsonvisio.com](#jsonvisiocom)
 * [jspenguin2017.github.io](#jspenguin2017githubio)
 * [kablock.com](#kablockcom)
+* [karelite.com](#karelitecom)
 * [karizma-preview.netlify.app](#karizma-previewnetlifyapp)
 * [kb.vmware.com](#kbvmwarecom)
 * [kinsteadmckinney.com](#kinsteadmckinneycom)
 * [kit.svelte.dev](#kitsveltedev)
+* [kmtools.com](#kmtoolscom)
 * [knhash.in](#knhashin)
 * [kopilov-vlad.medium.com](#kopilov-vladmediumcom)
 * [kotlinlang.org](#kotlinlangorg)
+* [kregtool.com](#kregtoolcom)
+* [kuxiu.co](#kuxiuco)
+* [lackofimagination.org](#lackofimaginationorg)
 * [lakefs.io](#lakefsio)
 * [laptopwithlinux.com](#laptopwithlinuxcom)
 * [laravel.com](#laravelcom)
@@ -366,6 +414,7 @@
 * [leetcode.com](#leetcodecom)
 * [legacynorthapts.securecafe.com](#legacynorthaptssecurecafecom)
 * [lenovo.com](#lenovocom)
+* [letsjelly.com](#letsjellycom)
 * [levelup.gitconnected.com](#levelupgitconnectedcom)
 * [libraries.io](#librariesio)
 * [lifetimeleather.com](#lifetimeleathercom)
@@ -379,6 +428,7 @@
 * [lisp-univ-etc.blogspot.com](#lisp-univ-etcblogspotcom)
 * [litter-robot.com](#litter-robotcom)
 * [littlemaninmyhead.wordpress.com](#littlemaninmyheadwordpresscom)
+* [littlestplanet.com](#littlestplanetcom)
 * [liveatbrady.com](#liveatbradycom)
 * [livecodestream.dev](#livecodestreamdev)
 * [lmpixels.com](#lmpixelscom)
@@ -386,14 +436,18 @@
 * [lonestarlandpartners.com](#lonestarlandpartnerscom)
 * [looks.wtf](#lookswtf)
 * [loom.com](#loomcom)
+* [lowes.com](#lowescom)
+* [lowstresslife.store](#lowstresslifestore)
 * [lucasfcosta.com](#lucasfcostacom)
 * [luminousmen.com](#luminousmencom)
+* [m.sakerplus.com](#msakerpluscom)
 * [m.smartsaker.com](#msmartsakercom)
 * [macos-defaults.com](#macos-defaultscom)
 * [macosicons.com](#macosiconscom)
 * [madboa.com](#madboacom)
 * [madeincookware.com](#madeincookwarecom)
 * [magbak.com](#magbakcom)
+* [magneticbagcompany.com](#magneticbagcompanycom)
 * [mailcatcher.me](#mailcatcherme)
 * [mailtrap.io](#mailtrapio)
 * [manchesterstatethomas.com](#manchesterstatethomascom)
@@ -404,8 +458,10 @@
 * [markozivanovic.com](#markozivanoviccom)
 * [martinfowler.com](#martinfowlercom)
 * [maskedriderwinery.com](#maskedriderwinerycom)
+* [masterhowtolearn.com](#masterhowtolearncom)
 * [mathsisfun.com](#mathsisfuncom)
 * [matthewsetter.com](#matthewsettercom)
+* [maxbo.me](#maxbome)
 * [mdigi.tools](#mdigitools)
 * [mdxjs.com](#mdxjscom)
 * [medium.com](#mediumcom)
@@ -415,14 +471,17 @@
 * [menshealth.com](#menshealthcom)
 * [messermeister.com](#messermeistercom)
 * [meta.discourse.org](#metadiscourseorg)
+* [metmo.co.uk](#metmocouk)
 * [microcenter.com](#microcentercom)
 * [midship.ai](#midshipai)
 * [midwayurban.com](#midwayurbancom)
 * [mieleusa.com](#mieleusacom)
+* [mindjournals.com](#mindjournalscom)
 * [mis.ercot.com](#misercotcom)
 * [mises.org](#misesorg)
 * [mitelman.engineering](#mitelmanengineering)
 * [mmistakes.github.io](#mmistakesgithubio)
+* [mmmrecipes.com](#mmmrecipescom)
 * [monsterforever.com](#monsterforevercom)
 * [moviemania.io](#moviemaniaio)
 * [mtgjson.com](#mtgjsoncom)
@@ -436,23 +495,34 @@
 * [networkbrouhaha.com](#networkbrouhahacom)
 * [news.ycombinator.com](#newsycombinatorcom)
 * [newscatcherapi.com](#newscatcherapicom)
+* [newthingslab.com](#newthingslabcom)
+* [newtonsfirstclothing.com](#newtonsfirstclothingcom)
 * [niels-design.com](#niels-designcom)
 * [novelvid.com](#novelvidcom)
 * [npmjs.com](#npmjscom)
+* [ntietz.com](#ntietzcom)
+* [obsproject.com](#obsprojectcom)
+* [offer.dinosaurized.com](#offerdinosaurizedcom)
 * [officialtoolroll.com](#officialtoolrollcom)
 * [online-learning.harvard.edu](#online-learningharvardedu)
+* [oonogear.com](#oonogearcom)
 * [open-notify.org](#open-notifyorg)
 * [opensustain.tech](#opensustaintech)
 * [oreilly.com](#oreillycom)
 * [orionprosperlakes.com](#orionprosperlakescom)
+* [othemo.com](#othemocom)
+* [ourtruegod.com](#ourtruegodcom)
 * [overlandgrove.com](#overlandgrovecom)
+* [owickstrom.github.io](#owickstromgithubio)
 * [packaging.python.org](#packagingpythonorg)
 * [pages.awscloud.com](#pagesawscloudcom)
+* [paper-republic.com](#paper-republiccom)
 * [parkerplano.com](#parkerplanocom)
 * [pastebin.com](#pastebincom)
 * [patchbox.com](#patchboxcom)
 * [pcliquidations.com](#pcliquidationscom)
 * [pcpartpicker.com](#pcpartpickercom)
+* [pecosoutdoor.com](#pecosoutdoorcom)
 * [perfecto.io](#perfectoio)
 * [pewresearch.org](#pewresearchorg)
 * [photo.walgreens.com](#photowalgreenscom)
@@ -461,6 +531,7 @@
 * [pibox.io](#piboxio)
 * [pinkpen.net](#pinkpennet)
 * [pinterest.com](#pinterestcom)
+* [pipevise.com](#pipevisecom)
 * [pixabay.com](#pixabaycom)
 * [plano.gov](#planogov)
 * [plano.startingstrengthgyms.com](#planostartingstrengthgymscom)
@@ -470,11 +541,14 @@
 * [ponchooutdoors.com](#ponchooutdoorscom)
 * [postplanner.com](#postplannercom)
 * [poweredbycoffee.co.uk](#poweredbycoffeecouk)
+* [practiko.co](#practikoco)
 * [prepcision.com](#prepcisioncom)
+* [presale.getbrighter.co](#presalegetbrighterco)
 * [preview.themeforest.net](#previewthemeforestnet)
 * [prisma.io](#prismaio)
 * [prometheus.io](#prometheusio)
 * [pubag.nal.usda.gov](#pubagnalusdagov)
+* [pukingball.com](#pukingballcom)
 * [pydantic-docs.helpmanual.io](#pydantic-docshelpmanualio)
 * [pysnake.blogspot.com](#pysnakeblogspotcom)
 * [python-poetry.org](#python-poetryorg)
@@ -488,6 +562,7 @@
 * [rakks.com](#rakkscom)
 * [ranchesatrockcreek.com](#ranchesatrockcreekcom)
 * [rarehistoricalphotos.com](#rarehistoricalphotoscom)
+* [raycue.com](#raycuecom)
 * [rd.com](#rdcom)
 * [rds-tables.com](#rds-tablescom)
 * [reactionwheel.net](#reactionwheelnet)
@@ -499,10 +574,13 @@
 * [remix.run](#remixrun)
 * [remove.codes](#removecodes)
 * [repo.palemoon.org](#repopalemoonorg)
+* [repost.aws](#repostaws)
 * [reprap.org](#repraporg)
 * [resources.zaloni.com](#resourceszalonicom)
 * [revealjs.com](#revealjscom)
 * [rexegg.com](#rexeggcom)
+* [rhinousainc.com](#rhinousainccom)
+* [rhoback.com](#rhobackcom)
 * [ridgewallet.com](#ridgewalletcom)
 * [ripawoodworks.com](#ripawoodworkscom)
 * [risingracks.com](#risingrackscom)
@@ -510,9 +588,12 @@
 * [robinwieruch.de](#robinwieruchde)
 * [rubikscode.net](#rubikscodenet)
 * [rubyguides.com](#rubyguidescom)
+* [ryanmulligan.dev](#ryanmulligandev)
 * [sagrista.info](#sagristainfo)
+* [sakerplus.com](#sakerpluscom)
 * [sallysbakingaddiction.com](#sallysbakingaddictioncom)
 * [samsbuffalo.com](#samsbuffalocom)
+* [satechi.net](#satechinet)
 * [scotch.io](#scotchio)
 * [scrapfly.io](#scrapflyio)
 * [scrapingbee.com](#scrapingbeecom)
@@ -527,13 +608,20 @@
 * [selfh.st](#selfhst)
 * [semaphoreci.com](#semaphorecicom)
 * [semicolon.dev](#semicolondev)
+* [serremo.com](#serremocom)
 * [setapp.com](#setappcom)
 * [sgoel.dev](#sgoeldev)
+* [shadowfoam.com](#shadowfoamcom)
 * [shellhacks.com](#shellhackscom)
 * [shooterlube.com](#shooterlubecom)
+* [shop.intension-design.com](#shopintension-designcom)
+* [shop.yellowtec.com](#shopyellowteccom)
 * [shopify.com](#shopifycom)
 * [shopify.dev](#shopifydev)
 * [shopify.github.io](#shopifygithubio)
+* [shoprinova.com](#shoprinovacom)
+* [shopsmith.com](#shopsmithcom)
+* [showallegiance.com](#showallegiancecom)
 * [sideprojectsoftware.com](#sideprojectsoftwarecom)
 * [sidiocrate.com](#sidiocratecom)
 * [simplethread.com](#simplethreadcom)
@@ -545,10 +633,13 @@
 * [smarthomebeginner.com](#smarthomebeginnercom)
 * [smile.amazon.com](#smileamazoncom)
 * [smmry.com](#smmrycom)
+* [sohl-dickstein.github.io](#sohl-dicksteingithubio)
 * [sourcecodeexamples.net](#sourcecodeexamplesnet)
 * [sourcery.ai](#sourceryai)
 * [specsonline.com](#specsonlinecom)
 * [speedtest.net](#speedtestnet)
+* [spiralbible.com](#spiralbiblecom)
+* [spreadsheetscrafter.com](#spreadsheetscraftercom)
 * [spring.io](#springio)
 * [stackery.io](#stackeryio)
 * [stackify.com](#stackifycom)
@@ -566,8 +657,10 @@
 * [store.dji.com](#storedjicom)
 * [store.level1techs.com](#storelevel1techscom)
 * [strich.io](#strichio)
+* [strongermannation.com](#strongermannationcom)
 * [studioneat.com](#studioneatcom)
 * [stuffwebuyonline.com](#stuffwebuyonlinecom)
+* [stupidsimple.tools](#stupidsimpletools)
 * [subtask.co](#subtaskco)
 * [sunlightmedia.org](#sunlightmediaorg)
 * [support.apple.com](#supportapplecom)
@@ -575,14 +668,17 @@
 * [support.yubico.com](#supportyubicocom)
 * [svelte.dev](#sveltedev)
 * [swimm.io](#swimmio)
+* [swoptcleaning.com](#swoptcleaningcom)
 * [synoforum.com](#synoforumcom)
 * [sysdig.com](#sysdigcom)
 * [tachyonstemplates.com](#tachyonstemplatescom)
+* [tactilian.com](#tactiliancom)
 * [taleofknives.com](#taleofknivescom)
 * [talkncloud.com](#talkncloudcom)
 * [tanayagrawal.substack.com](#tanayagrawalsubstackcom)
 * [tangelainc.com](#tangelainccom)
 * [teamdatascience.com](#teamdatasciencecom)
+* [teatimewithnaomi.com](#teatimewithnaomicom)
 * [tecadmin.net](#tecadminnet)
 * [techcommunity.microsoft.com](#techcommunitymicrosoftcom)
 * [techiediaries.com](#techiediariescom)
@@ -620,6 +716,7 @@
 * [threeofwands.com](#threeofwandscom)
 * [threkk.medium.com](#threkkmediumcom)
 * [thuma.co](#thumaco)
+* [thursdayboots.com](#thursdaybootscom)
 * [tiktok.com](#tiktokcom)
 * [tints.dev](#tintsdev)
 * [tinyhousetalk.com](#tinyhousetalkcom)
@@ -627,6 +724,7 @@
 * [tomekw.com](#tomekwcom)
 * [toolbox.com](#toolboxcom)
 * [tooletries.com](#tooletriescom)
+* [tooltekt.com](#tooltektcom)
 * [toostreetz.com](#toostreetzcom)
 * [topbug.net](#topbugnet)
 * [towardsaws.com](#towardsawscom)
@@ -634,6 +732,7 @@
 * [towardsthecloud.com](#towardsthecloudcom)
 * [travel.state.gov](#travelstategov)
 * [trek10.com](#trek10com)
+* [trytacnation.com](#trytacnationcom)
 * [tsh.io](#tshio)
 * [turnkeylinux.org](#turnkeylinuxorg)
 * [tutorialspoint.com](#tutorialspointcom)
@@ -648,18 +747,23 @@
 * [upsolver.com](#upsolvercom)
 * [upstronge.com](#upstrongecom)
 * [urbancarryholsters.com](#urbancarryholsterscom)
+* [us.strauss.com](#usstrausscom)
 * [use-the-index-luke.com](#use-the-index-lukecom)
+* [usebruno.com](#usebrunocom)
 * [usemynotes.com](#usemynotescom)
 * [userbase.com](#userbasecom)
 * [users.ece.utexas.edu](#userseceutexasedu)
 * [utf9k.net](#utf9knet)
 * [utilityclick.com](#utilityclickcom)
+* [utteranc.es](#utterances)
 * [v1ce.co](#v1ceco)
 * [vaulteksafe.com](#vaulteksafecom)
 * [venthur.de](#venthurde)
+* [veriatravel.com](#veriatravelcom)
 * [veryicon.com](#veryiconcom)
 * [victorzhou.com](#victorzhoucom)
 * [vishnuch.tech](#vishnuchtech)
+* [visprex.com](#visprexcom)
 * [vivait.co.uk](#vivaitcouk)
 * [voltus.co](#voltusco)
 * [vrbo.com](#vrbocom)
@@ -674,6 +778,7 @@
 * [williams-sonoma.com](#williams-sonomacom)
 * [wilsonmar.github.io](#wilsonmargithubio)
 * [windowscentral.com](#windowscentralcom)
+* [wisestamp.com](#wisestampcom)
 * [wix.engineering](#wixengineering)
 * [wordssaysalot.hashnode.dev](#wordssaysalothashnodedev)
 * [workfromhomedesks.com](#workfromhomedeskscom)
@@ -689,7 +794,9 @@
 * [youneedabudget.com](#youneedabudgetcom)
 * [yous.be](#yousbe)
 * [youtube.com](#youtubecom)
+* [zammad.org](#zammadorg)
 * [zetcode.com](#zetcodecom)
+* [ziggy-lang.io](#ziggy-langio)
 * [zillow.com](#zillowcom)
 * [zinggrid.com](#zinggridcom)
 * [zooqle.com](#zooqlecom)
@@ -728,9 +835,9 @@
 ### active.com
 
 * [10 Awesome Road Bikes Under $1,500 | ACTIVE](https://www.active.com/cycling/articles/10-awesome-road-bikes-under-1-500/slide-7)
-* [Lose Weight Permanently in 14 Steps | ACTIVE](https://www.active.com/fitness/articles/lose-weight-permanently-in-14-steps?cmp=17N-DP10-BND10-SD60-DM10-T9-07082018-2153)
 * [The 5 Yoga Poses that Will Help You Lose Weight | ACTIVE](https://www.active.com/fitness/articles/the-5-yoga-poses-that-will-help-you-lose-weight)
 * [15 Easy Ways to Speed Up Your Metabolism | ACTIVE](https://www.active.com/fitness/articles/15-easy-ways-to-speed-up-your-metabolism/slide-12)
+* [Lose Weight Permanently in 14 Steps | ACTIVE](https://www.active.com/fitness/articles/lose-weight-permanently-in-14-steps?cmp=17N-DP10-BND10-SD60-DM10-T9-07082018-2153)
 
 
 [Back to Top]()
@@ -788,10 +895,16 @@
 
 
 [Back to Top]()
+### akashgoswami.dev
+
+* [Automating my -now page | Akash Goswami](https://akashgoswami.dev/posts/automating-my-now-page/)
+
+
+[Back to Top]()
 ### alarauptown.com
 
-* [Studio, 1 & 2 Bedroom Apartments in Dallas, TX | ALARA Uptown](https://www.alarauptown.com/floorplans)
 * [Uptown Dallas Apartments | ALARA Uptown Apartments](https://www.alarauptown.com/)
+* [Studio, 1 & 2 Bedroom Apartments in Dallas, TX | ALARA Uptown](https://www.alarauptown.com/floorplans)
 
 
 [Back to Top]()
@@ -804,6 +917,12 @@
 ### alexkudlick.com
 
 * [Building Modular Java Applications with Gradle](https://alexkudlick.com/blog/building-modular-java-applications-with-gradle/)
+
+
+[Back to Top]()
+### alfy.blog
+
+* [Smarter than 'Ctrl+F'- Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
 
 
 [Back to Top]()
@@ -821,56 +940,56 @@
 [Back to Top]()
 ### amazon.com
 
-* [Amazon.com- [Upgraded 2019] 1byone Digital Amplified Indoor HD TV Antenna 50-85 Miles Range, Amplifi…](https://www.amazon.com/dp/B00IF70QCW)
-* [Can-Do Clamp - Angle Clamps - Amazon.com](https://www.amazon.com/gp/product/B000LJNJNU/)
-* [Amazon.com-](https://www.amazon.com/stores/page/37FCC9AF-D241-45F9-ABE2-093A8A713D2A/)
-* [Amazon.com- Prosumer's Choice Dual-purpose Bamboo Stovetop Cover Workspace and Countertop Cutting Bo…](https://www.amazon.com/dp/B06W9JTV44)
-* [Amazon.com- ZimaBoard 832 Single Board Server Router X86 Single Board Computer Personal Cloud Network Attached Storage 4K Media Server Dual Gigabit Gateway - PCIe x4 SATA 6.0 Gb:s for HDD:SSD - Electronics](https://www.amazon.com/ZimaBoard-Computer-Personal-Network-Attached/dp/B0BKL7YPBQ)
+* [Amazon.com- GIGABYTE AERO 15 OLED YD - 15.6 UHD 4k AMOLED IPS, Intel Core i7, NVIDIA GeForce RTX 30](https://www.amazon.com/GIGABYTE-AERO-15-OLED-YD-73US624SP/dp/B093Z1JLHT)
+* [Amazon.com- AC Infinity Vented Cantilever 1U Universal Rack Shelf, 10-inch Deep, for 19-inch equipment racks](https://www.amazon.com/AC-Infinity-Cantilever-Universal-Heavy-Duty/dp/B01C9KYUG8/ref=pd_sbs_147_t_0/143-7294896-4653732)
+* [Amazon.com- GL.iNet GL-AR750S-Ext (Slate) Gigabit Travel AC VPN Router, 300Mbps(2.4G)+433Mbps(5G) Wi…](https://www.amazon.com/GL-iNet-GL-AR750S-Ext-pre-Installed-Cloudflare-Included/dp/B07GBXMBQF/ref=pd_bxgy_3/146-1710051-2126522)
+* [Amazon.com- for Raspberry Pi 4 Touch Screen with Case, 3.5 inch Touchscreen with Fan, 320x480 Monitor TFT LCD Game Display - Electronics](https://www.amazon.com/dp/B07WQW6H9S)
+* [Amazon.com- NoNo Bracket - Outside Mounted Blinds Curtain Rod Bracket Attachment (Satin Nickel) - Home & Kitchen](https://www.amazon.com/dp/B06XHBZRKT)
+* [Amazon.com- IRIS 30.6 Quart WEATHERTIGHT Storage Box, 6 Pack, Black - Everything Else](https://www.amazon.com/dp/B07QZP31XC)
+* [Amazon.com- Upgraded 2018 Wireless Bluetooth Karaoke - 6 Channel 750 Watt Home Audio Sound Power Ste…](https://www.amazon.com/dp/B078YJN2R4)
 * [Amazon.com- Supermicro SYS-E200-8D for Virtualization w- 6 Core Intel Xeon D (32GB DDR4 DIMM, 256GB …](https://www.amazon.com/dp/B07QRWCPJF)
+* [Amazon.com- Dell U3818DW UltraSharp 38-Inch Curved UltraWide Dual Monitor Bundle (2017 Model)- Indus…](https://www.amazon.com/Dell-U3818DW-UltraSharp-38-Inch-UltraWide/dp/B0749QG8SZ#feature-bullets-btf)
+* [Amazon.com- Marbrasse Plant Terrarium, Hydroponic Vases for Plants, Desktop Planter Propagation Stat…](https://www.amazon.com/gp/product/B07DQYMLKT/)
+* [Amazon.com- ViewSonic VA1655 15.6 Inch 1080p Portable IPS Monitor with Mobile Ergonomics, USB-C and Mini HDMI for Home and Office - Everything Else](https://www.amazon.com/Viewsonic-VA1655-15-6-Full-Monitor/dp/B087792CQT)
+* [Amazon.com- DHK 18 Inch Vintage Handmade Leather Messenger Bag Laptop Briefcase Computer Satchel bag…](https://www.amazon.com/dp/B075VSR5CZ)
+* [Amazon.com- Original Mem Retain Brand 9 Volt Battery Powered OBD ll Connector Vehicle Memory Saver R…](https://www.amazon.com/dp/B07KCN69LJ/ref=sspa_dk_detail_2?psc=1)
+* [Amazon.com- RAISING ELECTRONICS 27U Network Server Cabinet 600mm Deep Steel Structure-Ship from Cali…](https://www.amazon.com/Network-Cabinet-Aluminum-Structure-Ship-California/dp/B014LKXLUA)
+* [Amazon.com- VIOFO A119 V3 2K Dash Cam 2560x1440P Quad HD+ Car Dash Camera, Ultra Clear Night Vision,…](https://www.amazon.com/VIOFO-A119-1600P-Camera-Logger/dp/B07SRQH4R7)
+* [Amazon.com- IRIS USA UB Space Saving Unit with Adjustable Shelves, 6-Inch, Walnut Brown-White - Home…](https://www.amazon.com/dp/B074CSS63X)
+* [DEWALT Tool Box with Wheels, TSTAK, Deep Box (DWST17820) , Black, Deep Box With Wheels - - Amazon.com](https://www.amazon.com/gp/product/B01N1H4N5X/)
+* [Amazon.com- StarTech.com 8 Outlet Horizontal 1U Rack Mount PDU Power Strip for Network Server Racks …](https://www.amazon.com/StarTech-com-Horizontal-Rack-Mount-PDU/dp/B0035PS5AE/ref=pd_bxgy_img_1/142-0235166-4895077)
+* [Amazon.com- BlueDriver Bluetooth Pro OBD2 Car Scan Tool and Code Reader - Check Engine Light Vehicle…](https://www.amazon.com/dp/B00652G4TS)
+* [Amazon.com- [Upgraded 2019] 1byone Digital Amplified Indoor HD TV Antenna 50-85 Miles Range, Amplifi…](https://www.amazon.com/dp/B00IF70QCW)
+* [Startup Boards- Getting the Most Out of Your Board of Directors- Feld, Brad, Mahendra Ramsinghani- 9…](https://www.amazon.com/Startup-Boards-Getting-Board-Directors/dp/1118443667)
+* [Amazon.com- CalDigit Tuff Nano - Compact Rugged IP67 USB-C 3.2 Gen 2 10Gb-s External NVME SSD, Compa…](https://www.amazon.com/gp/product/B07TKZRXG1/ref=as_li_tl)
+* [Can-Do Clamp - Angle Clamps - Amazon.com](https://www.amazon.com/gp/product/B000LJNJNU/)
+* [Addalock the Original Portable Door Lock by Rishon Enterprises Inc. (1 Piece), for Home Security, Ap…](https://www.amazon.com/gp/product/B00186URTY/)
+* [Amazon.com - BLUETTI Portable Power Station AC200P 2000W 2000Wh Solar Generator 700W Max Solar Input…](https://www.amazon.com/dp/B08MZJW9Y5)
+* [Amazon.com-](https://www.amazon.com/stores/page/37FCC9AF-D241-45F9-ABE2-093A8A713D2A/)
+* [Amazon.com- ZimaBoard 832 Single Board Server Router X86 Single Board Computer Personal Cloud Network Attached Storage 4K Media Server Dual Gigabit Gateway - PCIe x4 SATA 6.0 Gb:s for HDD:SSD - Electronics](https://www.amazon.com/ZimaBoard-Computer-Personal-Network-Attached/dp/B0BKL7YPBQ)
+* [Amazon.com- RAISEVERN Unisex Ugly Christmas Sweatshirt Funny Design Pullover Sweater for Xmas Holida…](https://www.amazon.com/RAISEVERN-Christmas-Sweatshirt-Pullover-Sweater/dp/B07H9N2L5G/ref=pd_rhf_se_s_cp_0_5)
+* [Amazon.com- RAISEVERN Unisex Ugly Christmas Sweatshirt Funny Design Pullover Sweater for Xmas Holida…](https://www.amazon.com/RAISEVERN-Christmas-Sweatshirt-Pullover-Sweater/dp/B07H9N2L5G/ref=)
+* [Amazon.com- THINKWARE F70 Full HD 1080P Dash Cam with Wide Dynamic Range](https://www.amazon.com/dp/B07CV7PT55/ref=cm_sw_r_apan_glt_fabc_D2KPDGJCAM41MQN4S34P)
+* [Amazon.com- Foundations for Architecting Data Solutions- Managing Successful Data Projects (97814920…](https://www.amazon.com/Foundations-Architecting-Data-Solutions-Successful-dp-1492038741/dp/1492038741/ref=mt_other)
+* [Amazon.com- Travel Power Strip with USB - NTONPOWER 2 Outlets 3 USB Portable Desktop Charging Statio…](https://www.amazon.com/dp/B07G29DQM1)
+* [Amazon.com - Boorum & Pease BOR6718500R Record-Account Book, Green-red Cover, Record Rule, 12-1-2 x …](https://www.amazon.com/dp/B0006HXC84)
+* [Amazon.com- StarTech.com 1U Adjustable Vented Server Rack Mount Shelf - 250lbs - 19.5 to 38in Deep U…](https://www.amazon.com/dp/B008X3JHIC/ref=sspa_dk_detail_1)
 * [Amazon.com- HP Omen 16 Gaming Laptop 16.1” FHD IPS 144Hz Display AMD Octa-core Ryzen 7 5800H Process…](https://www.amazon.com/HP-Omen-16-Octa-core-Processor/dp/B09SB3W6M9)
 * [Amazon.com- Star Trek Next Generation 2021 Bluetooth Communicator Badge - TNG Bluetooth Combadge wit…](https://www.amazon.com/dp/B0777S47VQ)
-* [Amazon.com- Monoprice 133811 Desk Clamp Holder , Black - Electronics](https://www.amazon.com/dp/B07H47ZR1Q)
-* [Amazon.com - Spectrum Diversified Ashley Over-The-Cabinet-Door Grocery Installation Plastic Recyclin… 2](https://www.amazon.com/dp/B01J7ZA418)
-* [Amazon.com- Foundations for Architecting Data Solutions- Managing Successful Data Projects (97814920…](https://www.amazon.com/Foundations-Architecting-Data-Solutions-Successful-dp-1492038741/dp/1492038741/ref=mt_other)
-* [Amazon.com- StarTech.com 1U Adjustable Vented Server Rack Mount Shelf - 250lbs - 19.5 to 38in Deep U…](https://www.amazon.com/dp/B008X3JHIC/ref=sspa_dk_detail_1)
-* [Amazon.com- Original Mem Retain Brand 9 Volt Battery Powered OBD ll Connector Vehicle Memory Saver R…](https://www.amazon.com/dp/B07KCN69LJ/ref=sspa_dk_detail_2?psc=1)
-* [DEWALT Tool Box with Wheels, TSTAK, Deep Box (DWST17820) , Black, Deep Box With Wheels - - Amazon.com](https://www.amazon.com/gp/product/B01N1H4N5X/)
-* [Amazon.com- Marbrasse Plant Terrarium, Hydroponic Vases for Plants, Desktop Planter Propagation Stat…](https://www.amazon.com/gp/product/B07DQYMLKT/)
-* [Amazon.com- Stanley Quencher H2.0 FlowState Stainless Steel Vacuum Insulated Tumbler with Lid and Straw for Water, Iced Tea or Coffee, Smoothie and More, Cream , 40 oz - Home & Kitchen](https://www.amazon.com/Stanley-Quencher-FlowState-Stainless-Insulated/dp/B0BQZDYQB2/)
 * [Amazon.com- SIMPLIHOME Dylan SOLID WOOD Modern Industrial 60 inch Wide Home Office Desk, Writing Tab…](https://www.amazon.com/dp/B01MSTLN1K)
-* [Amazon.com- DHK 18 Inch Vintage Handmade Leather Messenger Bag Laptop Briefcase Computer Satchel bag…](https://www.amazon.com/dp/B075VSR5CZ)
-* [Addalock the Original Portable Door Lock by Rishon Enterprises Inc. (1 Piece), for Home Security, Ap…](https://www.amazon.com/gp/product/B00186URTY/)
-* [Amazon.com- IRIS 30.6 Quart WEATHERTIGHT Storage Box, 6 Pack, Black - Everything Else](https://www.amazon.com/dp/B07QZP31XC)
-* [Amazon.com- Travel Power Strip with USB - NTONPOWER 2 Outlets 3 USB Portable Desktop Charging Statio…](https://www.amazon.com/dp/B07G29DQM1)
-* [Amazon.com- M KITCHEN WORLD Silicone Spatula for Cooking 4 Pieces - Rubber Spatulas Heat Resistant, Baking Spatula Scraper, Spatula Set for Nonstick Cookware, Dishwasher Safe Kitchen Utensils for Mixing - Orange- Home & Kitchen](https://www.amazon.com/silicone-spatula-set-rubber-utensils/dp/B07C4MGL8N)
-* [Amazon.com- CalDigit Tuff Nano - Compact Rugged IP67 USB-C 3.2 Gen 2 10Gb-s External NVME SSD, Compa…](https://www.amazon.com/gp/product/B07TKZRXG1/ref=as_li_tl)
-* [Amazon.com- Vantrue S1 4k Hidden Dash Cam Built in GPS Speed, Dual 1080P Front and Rear Car Camera w…](https://www.amazon.com/Vantrue-Capacitor-Starvis-Parking-Detection/dp/B07SZNL2WT)
-* [Amazon.com- GIGABYTE AERO 15 OLED YD - 15.6 UHD 4k AMOLED IPS, Intel Core i7, NVIDIA GeForce RTX 30](https://www.amazon.com/GIGABYTE-AERO-15-OLED-YD-73US624SP/dp/B093Z1JLHT)
-* [Amazon.com- Supermicro SYS-E200-8D for Virtualization w- 6 Core Intel Xeon D (32GB DDR4 DIMM, 256GB …](https://www.amazon.com/dp/B07QQVPVW8)
-* [Amazon.com- GL.iNet GL-AR750S-Ext (Slate) Gigabit Travel AC VPN Router, 300Mbps(2.4G)+433Mbps(5G) Wi…](https://www.amazon.com/GL-iNet-GL-AR750S-Ext-pre-Installed-Cloudflare-Included/dp/B07GBXMBQF/ref=pd_bxgy_3/146-1710051-2126522)
-* [Amazon.com- ViewSonic VA1655 15.6 Inch 1080p Portable IPS Monitor with Mobile Ergonomics, USB-C and Mini HDMI for Home and Office - Everything Else](https://www.amazon.com/Viewsonic-VA1655-15-6-Full-Monitor/dp/B087792CQT)
-* [Amazon.com- RAISING ELECTRONICS 27U Network Server Cabinet 600mm Deep Steel Structure-Ship from Cali…](https://www.amazon.com/Network-Cabinet-Aluminum-Structure-Ship-California/dp/B014LKXLUA)
-* [Amazon.com- RAISEVERN Unisex Ugly Christmas Sweatshirt Funny Design Pullover Sweater for Xmas Holida…](https://www.amazon.com/RAISEVERN-Christmas-Sweatshirt-Pullover-Sweater/dp/B07H9N2L5G/ref=pd_rhf_se_s_cp_0_5)
-* [Amazon.com - BLUETTI Portable Power Station AC200P 2000W 2000Wh Solar Generator 700W Max Solar Input…](https://www.amazon.com/dp/B08MZJW9Y5)
 * [Amazon.com- BumpTEK (Extreme Edition - The Thickest, Toughest, All Rubber Front Bumper Guard, Front …](https://www.amazon.com/Plate-Pocket-BumpTek-Extreme-Protection/dp/B00GFR06U6/ref=pd_bxgy_2/138-9909823-8262224)
-* [Amazon.com - Boorum & Pease BOR6718500R Record-Account Book, Green-red Cover, Record Rule, 12-1-2 x …](https://www.amazon.com/dp/B0006HXC84)
-* [Amazon.com- VIOFO A119 V3 2K Dash Cam 2560x1440P Quad HD+ Car Dash Camera, Ultra Clear Night Vision,…](https://www.amazon.com/VIOFO-A119-1600P-Camera-Logger/dp/B07SRQH4R7)
-* [Amazon.com- Lenovo ThinkSystem ST250 Tower Server Bundle Including APC BR1500MS 1500VA UPS, Intel Xeon 3.3GHz CPU, 32GB DDR4 2666MHz RAM, 8TB HDD Storage, JBOD RAID - Electronics](https://www.amazon.com/dp/B07Z8C6H43)
-* [Amazon.com- StarTech.com 8 Outlet Horizontal 1U Rack Mount PDU Power Strip for Network Server Racks …](https://www.amazon.com/StarTech-com-Horizontal-Rack-Mount-PDU/dp/B0035PS5AE/ref=pd_bxgy_img_1/142-0235166-4895077)
-* [Amazon.com- IRIS USA UB Space Saving Unit with Adjustable Shelves, 6-Inch, Walnut Brown-White - Home…](https://www.amazon.com/dp/B074CSS63X)
-* [Amazon.com- for Raspberry Pi 4 Touch Screen with Case, 3.5 inch Touchscreen with Fan, 320x480 Monitor TFT LCD Game Display - Electronics](https://www.amazon.com/dp/B07WQW6H9S)
-* [Amazon.com- Dell U3818DW UltraSharp 38-Inch Curved UltraWide Dual Monitor Bundle (2017 Model)- Indus…](https://www.amazon.com/Dell-U3818DW-UltraSharp-38-Inch-UltraWide/dp/B0749QG8SZ)
-* [Amazon.com- THINKWARE F70 Full HD 1080P Dash Cam with Wide Dynamic Range](https://www.amazon.com/dp/B07CV7PT55/ref=cm_sw_r_apan_glt_fabc_D2KPDGJCAM41MQN4S34P)
-* [Amazon.com- NoNo Bracket - Outside Mounted Blinds Curtain Rod Bracket Attachment (Satin Nickel) - Home & Kitchen](https://www.amazon.com/dp/B06XHBZRKT)
-* [Amazon.com- Upgraded 2018 Wireless Bluetooth Karaoke - 6 Channel 750 Watt Home Audio Sound Power Ste…](https://www.amazon.com/dp/B078YJN2R4)
+* [Amazon.com- Stanley Quencher H2.0 FlowState Stainless Steel Vacuum Insulated Tumbler with Lid and Straw for Water, Iced Tea or Coffee, Smoothie and More, Cream , 40 oz - Home & Kitchen](https://www.amazon.com/Stanley-Quencher-FlowState-Stainless-Insulated/dp/B0BQZDYQB2/)
 * [Amazon.com- Boorum & Pease Special Laboratory Notebook, Record Ruled, Black, 300 Pages, 10-3-8 x 8](https://www.amazon.com/dp/B0006HXFJU)
-* [Amazon.com- Dell U3818DW UltraSharp 38-Inch Curved UltraWide Dual Monitor Bundle (2017 Model)- Indus…](https://www.amazon.com/Dell-U3818DW-UltraSharp-38-Inch-UltraWide/dp/B0749QG8SZ#feature-bullets-btf)
-* [Amazon.com- AC Infinity Vented Cantilever 1U Universal Rack Shelf, 10-inch Deep, for 19-inch equipment racks](https://www.amazon.com/AC-Infinity-Cantilever-Universal-Heavy-Duty/dp/B01C9KYUG8/ref=pd_sbs_147_t_0/143-7294896-4653732)
-* [Amazon.com- BlueDriver Bluetooth Pro OBD2 Car Scan Tool and Code Reader - Check Engine Light Vehicle…](https://www.amazon.com/dp/B00652G4TS)
-* [Startup Boards- Getting the Most Out of Your Board of Directors- Feld, Brad, Mahendra Ramsinghani- 9…](https://www.amazon.com/Startup-Boards-Getting-Board-Directors/dp/1118443667)
-* [Amazon.com - Jackery Portable Power Station Explorer 1000, 1002Wh Solar Generator (Solar Panel Optio…](https://www.amazon.com/dp/B083KBKJ8Q)
-* [Amazon.com- RAISEVERN Unisex Ugly Christmas Sweatshirt Funny Design Pullover Sweater for Xmas Holida…](https://www.amazon.com/RAISEVERN-Christmas-Sweatshirt-Pullover-Sweater/dp/B07H9N2L5G/ref=)
 * [Amazon.com - Anker Portable Power Station, PowerHouse II 400, 300W-388.8Wh, 110V AC Outlet-60W USB-C…](https://www.amazon.com/Anker-Portable-PowerHouse-Generator-Emergency/dp/B0899GZ3WR)
+* [Amazon.com - Spectrum Diversified Ashley Over-The-Cabinet-Door Grocery Installation Plastic Recyclin… 2](https://www.amazon.com/dp/B01J7ZA418)
+* [Amazon.com - Jackery Portable Power Station Explorer 1000, 1002Wh Solar Generator (Solar Panel Optio…](https://www.amazon.com/dp/B083KBKJ8Q)
+* [Amazon.com- Dell U3818DW UltraSharp 38-Inch Curved UltraWide Dual Monitor Bundle (2017 Model)- Indus…](https://www.amazon.com/Dell-U3818DW-UltraSharp-38-Inch-UltraWide/dp/B0749QG8SZ)
+* [Amazon.com- Monoprice 133811 Desk Clamp Holder , Black - Electronics](https://www.amazon.com/dp/B07H47ZR1Q)
+* [Amazon.com- Supermicro SYS-E200-8D for Virtualization w- 6 Core Intel Xeon D (32GB DDR4 DIMM, 256GB …](https://www.amazon.com/dp/B07QQVPVW8)
+* [Amazon.com- Vantrue S1 4k Hidden Dash Cam Built in GPS Speed, Dual 1080P Front and Rear Car Camera w…](https://www.amazon.com/Vantrue-Capacitor-Starvis-Parking-Detection/dp/B07SZNL2WT)
+* [Amazon.com- Prosumer's Choice Dual-purpose Bamboo Stovetop Cover Workspace and Countertop Cutting Bo…](https://www.amazon.com/dp/B06W9JTV44)
+* [Amazon.com- M KITCHEN WORLD Silicone Spatula for Cooking 4 Pieces - Rubber Spatulas Heat Resistant, Baking Spatula Scraper, Spatula Set for Nonstick Cookware, Dishwasher Safe Kitchen Utensils for Mixing - Orange- Home & Kitchen](https://www.amazon.com/silicone-spatula-set-rubber-utensils/dp/B07C4MGL8N)
+* [Amazon.com- Lenovo ThinkSystem ST250 Tower Server Bundle Including APC BR1500MS 1500VA UPS, Intel Xeon 3.3GHz CPU, 32GB DDR4 2666MHz RAM, 8TB HDD Storage, JBOD RAID - Electronics](https://www.amazon.com/dp/B07Z8C6H43)
 
 
 [Back to Top]()
@@ -912,8 +1031,8 @@
 [Back to Top]()
 ### apilist.fun
 
-* [A Collective List Of APIs, Go Build Something.](https://apilist.fun/?title=&category=Documents)
 * [A Collective List Of APIs, Go Build Something.](https://apilist.fun/?category=Documents)
+* [A Collective List Of APIs, Go Build Something.](https://apilist.fun/?title=&category=Documents)
 
 
 [Back to Top]()
@@ -961,6 +1080,12 @@
 
 
 [Back to Top]()
+### armotechusa.shop
+
+* [2-PACK Magnetic mount DEAL – ARMOTECH USA](https://armotechusa.shop/products/2-pack-magnetic-mount-deal)
+
+
+[Back to Top]()
 ### arp242.net
 
 * [How to end up with 500,000 commits in your log](https://www.arp242.net/500k-commits.html)
@@ -977,6 +1102,12 @@
 ### arrowheadtacticalapparel.com
 
 * [Arrowhead Tactical Apparel](https://arrowheadtacticalapparel.com/)
+
+
+[Back to Top]()
+### aschmelyun.com
+
+* [Getting my daily news from a dot matrix printer - Andrew Schmelyun](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
 
 
 [Back to Top]()
@@ -1002,6 +1133,12 @@
 ### atlassian.com
 
 * [How to store dotfiles | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/dotfiles)
+
+
+[Back to Top]()
+### atomicvoyage.com
+
+* [EleksMaker NK6 - Powered USB Hub with USB Data Ports and USB Ports – Atomic Voyage](https://atomicvoyage.com/products/eleksmaker-nk6)
 
 
 [Back to Top]()
@@ -1044,47 +1181,48 @@
 [Back to Top]()
 ### aws.amazon.com
 
-* [Learn AWS online with AWS Skill Builder | Digital Training | AWS](https://aws.amazon.com/training/digital/)
-* [AWS WAF - Web Application Firewall - Amazon Web Services (AWS)](https://aws.amazon.com/waf/)
-* [Under the hood- AWS Fargate data plane | Containers 2](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/)
-* [How we sped up AWS CloudFormation deployments with optimistic stabilization | AWS DevOps Blog](https://aws.amazon.com/blogs/devops/how-we-sped-up-aws-cloudformation-deployments-with-optimistic-stabilization/)
-* [Grant public read access to some objects in Amazon S3 bucket](https://aws.amazon.com/premiumsupport/knowledge-center/read-access-objects-s3-bucket/)
-* [Discovering and Deleting Incomplete Multipart Uploads to Lower Amazon S3 Costs | AWS Cloud Financial…](https://aws.amazon.com/blogs/aws-cloud-financial-management/discovering-and-deleting-incomplete-multipart-uploads-to-lower-amazon-s3-costs/)
-* [Uploading to Amazon S3 directly from a web or mobile application | AWS Compute Blog](https://aws.amazon.com/blogs/compute/uploading-to-amazon-s3-directly-from-a-web-or-mobile-application/)
-* [Getting Started With Amazon Kinesis Data Streams - Data Streaming Service - Amazon Web Services](https://aws.amazon.com/kinesis/data-streams/getting-started/)
-* [Top 5 posts published in 2021 on the AWS Infrastructure & Automation Blog | Infrastructure & Automat…](https://aws.amazon.com/blogs/infrastructure-and-automation/top-5-posts-2021-aws-ia-blog/)
-* [Toward a bastion-less world | Infrastructure & Automation](https://aws.amazon.com/blogs/infrastructure-and-automation/toward-a-bastion-less-world/)
-* [Emulate your test environment using a service virtualization on AWS | Infrastructure & Automation](https://aws.amazon.com/blogs/infrastructure-and-automation/emulate-test-environment-using-service-virtualization/)
-* [Writing AWS Lambda Functions in Clojure | AWS Compute Blog](https://aws.amazon.com/blogs/compute/clojure/)
-* [Building event-driven architectures with Amazon SNS FIFO | AWS Compute Blog](https://aws.amazon.com/blogs/compute/building-event-driven-architectures-with-amazon-sns-fifo/)
-* [Creating a single-table design with Amazon DynamoDB | AWS Compute Blog](https://aws.amazon.com/blogs/compute/creating-a-single-table-design-with-amazon-dynamodb/)
-* [New Course Helps Those in Machine Learning Roles Prepare for Certification](https://aws.amazon.com/about-aws/whats-new/2019/12/new-course-helps-those-in-machine-learning-roles-prepare-for-certification/)
-* [Amazon CloudFront now provides seven new data fields in access logs](https://aws.amazon.com/about-aws/whats-new/2019/12/cloudfront-detailed-logs/)
-* [Implementing Default Directory Indexes in Amazon S3-backed Amazon CloudFront Origins Using Lambda@Ed](https://aws.amazon.com/blogs/compute/implementing-default-directory-indexes-in-amazon-s3-backed-amazon-cloudfront-origins-using-lambdaedge/)
-* [Dual-stack IPv6 architectures for AWS and hybrid networks | Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/dual-stack-ipv6-architectures-for-aws-and-hybrid-networks/)
-* [Use CloudFront to serve HTTPS requests S3](https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-https-requests-s3/)
-* [Amazon Timestream](https://aws.amazon.com/timestream/)
-* [Now — AWS Step Functions Supports 200 AWS Services To Enable Easier Workflow Automation | AWS News B…](https://aws.amazon.com/blogs/aws/now-aws-step-functions-supports-200-aws-services-to-enable-easier-workflow-automation/)
-* [New – Port Forwarding Using AWS System Manager Session Manager | AWS News Blog](https://aws.amazon.com/blogs/aws/new-port-forwarding-using-aws-system-manager-sessions-manager/)
-* [Writing AWS Lambda Functions in Scala | AWS Compute Blog](https://aws.amazon.com/blogs/compute/writing-aws-lambda-functions-in-scala/)
-* [Introducing Amazon CloudFront KeyValueStore- A low-latency datastore for CloudFront Functions | AWS News Blog](https://aws.amazon.com/blogs/aws/introducing-amazon-cloudfront-keyvaluestore-a-low-latency-datastore-for-cloudfront-functions/)
-* [Architecture Icons](https://aws.amazon.com/architecture/icons/)
-* [Building well-architected serverless applications- Optimizing application performance – part 1 | AWS…](https://aws.amazon.com/blogs/compute/building-well-architected-serverless-applications-optimizing-application-performance-part-1/)
-* [Introducing Amazon EC2 I4i instances](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-i4i-instances/)
-* [Working with Lambda layers and extensions in container images | AWS Compute Blog](https://aws.amazon.com/blogs/compute/working-with-lambda-layers-and-extensions-in-container-images/)
-* [Introducing Amazon S3 Object Lambda – Use Your Code to Process Data as It Is Being Retrieved from S3…](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/)
-* [Optimizing AWS Lambda function performance for Java | AWS Compute Blog](https://aws.amazon.com/blogs/compute/optimizing-aws-lambda-function-performance-for-java/)
-* [Build an end-to-end attribute-based access control strategy with AWS SSO and Okta | AWS Security Blo…](https://aws.amazon.com/blogs/security/build-an-end-to-end-attribute-based-access-control-strategy-with-aws-sso-and-okta/)
-* [Building well-architected serverless applications- Regulating inbound request rates – part 1 | AWS C…](https://aws.amazon.com/blogs/compute/building-well-architected-serverless-applications-regulating-inbound-request-rates-part-1/)
 * [AWS CodeArtifact - Amazon Web Services](https://aws.amazon.com/codeartifact/)
+* [New Course Helps Those in Machine Learning Roles Prepare for Certification](https://aws.amazon.com/about-aws/whats-new/2019/12/new-course-helps-those-in-machine-learning-roles-prepare-for-certification/)
+* [Introducing Amazon CloudFront KeyValueStore- A low-latency datastore for CloudFront Functions | AWS News Blog](https://aws.amazon.com/blogs/aws/introducing-amazon-cloudfront-keyvaluestore-a-low-latency-datastore-for-cloudfront-functions/)
+* [Implementing Default Directory Indexes in Amazon S3-backed Amazon CloudFront Origins Using Lambda@Ed](https://aws.amazon.com/blogs/compute/implementing-default-directory-indexes-in-amazon-s3-backed-amazon-cloudfront-origins-using-lambdaedge/)
+* [Building event-driven architectures with Amazon SNS FIFO | AWS Compute Blog](https://aws.amazon.com/blogs/compute/building-event-driven-architectures-with-amazon-sns-fifo/)
+* [AWS WAF - Web Application Firewall - Amazon Web Services (AWS)](https://aws.amazon.com/waf/)
+* [Build an end-to-end attribute-based access control strategy with AWS SSO and Okta | AWS Security Blo…](https://aws.amazon.com/blogs/security/build-an-end-to-end-attribute-based-access-control-strategy-with-aws-sso-and-okta/)
+* [Grant public read access to some objects in Amazon S3 bucket](https://aws.amazon.com/premiumsupport/knowledge-center/read-access-objects-s3-bucket/)
+* [Architecture Icons](https://aws.amazon.com/architecture/icons/)
+* [Dual-stack IPv6 architectures for AWS and hybrid networks | Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/dual-stack-ipv6-architectures-for-aws-and-hybrid-networks/)
+* [Introducing Amazon EC2 I4i instances](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-i4i-instances/)
+* [Building well-architected serverless applications- Regulating inbound request rates – part 1 | AWS C…](https://aws.amazon.com/blogs/compute/building-well-architected-serverless-applications-regulating-inbound-request-rates-part-1/)
+* [Under the hood- AWS Fargate data plane | Containers 2](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/)
+* [Working with Lambda layers and extensions in container images | AWS Compute Blog](https://aws.amazon.com/blogs/compute/working-with-lambda-layers-and-extensions-in-container-images/)
 * [How to implement the principle of least privilege with CloudFormation StackSets | AWS Security Blog](https://aws.amazon.com/blogs/security/how-to-implement-the-principle-of-least-privilege-with-cloudformation-stacksets/)
+* [Now — AWS Step Functions Supports 200 AWS Services To Enable Easier Workflow Automation | AWS News B…](https://aws.amazon.com/blogs/aws/now-aws-step-functions-supports-200-aws-services-to-enable-easier-workflow-automation/)
+* [Optimizing AWS Lambda function performance for Java | AWS Compute Blog](https://aws.amazon.com/blogs/compute/optimizing-aws-lambda-function-performance-for-java/)
+* [How we sped up AWS CloudFormation deployments with optimistic stabilization | AWS DevOps Blog](https://aws.amazon.com/blogs/devops/how-we-sped-up-aws-cloudformation-deployments-with-optimistic-stabilization/)
+* [New – Port Forwarding Using AWS System Manager Session Manager | AWS News Blog](https://aws.amazon.com/blogs/aws/new-port-forwarding-using-aws-system-manager-sessions-manager/)
+* [Learn AWS online with AWS Skill Builder | Digital Training | AWS](https://aws.amazon.com/training/digital/)
+* [Building well-architected serverless applications- Optimizing application performance – part 1 | AWS…](https://aws.amazon.com/blogs/compute/building-well-architected-serverless-applications-optimizing-application-performance-part-1/)
+* [Toward a bastion-less world | Infrastructure & Automation](https://aws.amazon.com/blogs/infrastructure-and-automation/toward-a-bastion-less-world/)
+* [Use CloudFront to serve HTTPS requests S3](https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-https-requests-s3/)
+* [Writing AWS Lambda Functions in Scala | AWS Compute Blog](https://aws.amazon.com/blogs/compute/writing-aws-lambda-functions-in-scala/)
+* [Amazon CloudFront now provides seven new data fields in access logs](https://aws.amazon.com/about-aws/whats-new/2019/12/cloudfront-detailed-logs/)
+* [Introducing Amazon S3 Object Lambda – Use Your Code to Process Data as It Is Being Retrieved from S3…](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/)
+* [Uploading to Amazon S3 directly from a web or mobile application | AWS Compute Blog](https://aws.amazon.com/blogs/compute/uploading-to-amazon-s3-directly-from-a-web-or-mobile-application/)
+* [Top 5 posts published in 2021 on the AWS Infrastructure & Automation Blog | Infrastructure & Automat…](https://aws.amazon.com/blogs/infrastructure-and-automation/top-5-posts-2021-aws-ia-blog/)
+* [Getting Started With Amazon Kinesis Data Streams - Data Streaming Service - Amazon Web Services](https://aws.amazon.com/kinesis/data-streams/getting-started/)
+* [Creating a single-table design with Amazon DynamoDB | AWS Compute Blog](https://aws.amazon.com/blogs/compute/creating-a-single-table-design-with-amazon-dynamodb/)
+* [AWS Lambda now supports SnapStart for Python and .NET functions - AWS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-snapstart-python-net-functions/)
+* [Discovering and Deleting Incomplete Multipart Uploads to Lower Amazon S3 Costs | AWS Cloud Financial…](https://aws.amazon.com/blogs/aws-cloud-financial-management/discovering-and-deleting-incomplete-multipart-uploads-to-lower-amazon-s3-costs/)
+* [Amazon Timestream](https://aws.amazon.com/timestream/)
+* [Writing AWS Lambda Functions in Clojure | AWS Compute Blog](https://aws.amazon.com/blogs/compute/clojure/)
+* [Emulate your test environment using a service virtualization on AWS | Infrastructure & Automation](https://aws.amazon.com/blogs/infrastructure-and-automation/emulate-test-environment-using-service-virtualization/)
 
 
 [Back to Top]()
 ### aws.plainenglish.io
 
-* [I Processed 558k Transactions on AWS Lambda in 5 Minutes | by Mohamed Latfalla | AWS in Plain Englis…](https://aws.plainenglish.io/how-did-i-processed-half-a-million-transactions-in-aws-lambda-within-minutes-120c69d37ce5)
 * [8 Must-Know Tricks to Use AWS S3 More Effectively in Python | by Anna Geller | AWS in Plain English](https://aws.plainenglish.io/8-must-know-tricks-to-use-aws-s3-more-effectively-in-python-8413af7238eb)
+* [I Processed 558k Transactions on AWS Lambda in 5 Minutes | by Mohamed Latfalla | AWS in Plain Englis…](https://aws.plainenglish.io/how-did-i-processed-half-a-million-transactions-in-aws-lambda-within-minutes-120c69d37ce5)
 
 
 [Back to Top]()
@@ -1129,10 +1267,12 @@
 [Back to Top]()
 ### beeflovingtexans.com
 
-* [Beef & Sweet Potato Empanadas with Avocado Cream Sauce | Beef Loving Texans](https://beeflovingtexans.com/recipe/beef-sweet-potato-empanadas-with-avocado-cream-sauce/)
+* [Texas Red Chili | Beef Loving Texans | Beef Loving Texans is your one-stop information center for be…](https://beeflovingtexans.com/recipe/texas-red-chili/)
 * [Air Fryer Za’atar Beef Bites with Tahini Sauce | Beef Loving Texans](https://beeflovingtexans.com/recipe/air-fryer-zaatar-beef-bites-with-tahini-sauce/)
 * [Texas-Style Beef Sausage Rolls with Jalapeño and Cheddar | Beef Loving Texans](https://beeflovingtexans.com/recipe/texas-style-beef-sausage-rolls-with-jalapeno-and-cheddar/)
 * [Friday Night Lights Frito Pie | Beef Loving Texans](https://beeflovingtexans.com/recipe/friday-night-lights-frito-pie/)
+* [Beef & Sweet Potato Empanadas with Avocado Cream Sauce | Beef Loving Texans](https://beeflovingtexans.com/recipe/beef-sweet-potato-empanadas-with-avocado-cream-sauce/)
+* [Friday Night Lights Frito Pie | Beef Loving Texans | Beef Loving Texans is your one-stop information…](https://beeflovingtexans.com/recipe/friday-night-lights-frito-pie/)
 
 
 [Back to Top]()
@@ -1145,6 +1285,12 @@
 ### behance.net
 
 * [Game of Thrones Sigil Designs on Behance](https://www.behance.net/gallery/18436459/Game-of-Thrones-Sigil-Designs)
+
+
+[Back to Top]()
+### ben-mini.github.io
+
+* [IMG_0416 - ben-mini](https://ben-mini.github.io/2024/img-0416)
 
 
 [Back to Top]()
@@ -1178,9 +1324,21 @@
 
 
 [Back to Top]()
+### bigbeelittlebee.com
+
+* [SoftShell Snap-Close Silicone Food Storage Container – Big Bee, Little Bee](https://bigbeelittlebee.com/collections/softshell-snap-close-silicone-food-storage-container)
+
+
+[Back to Top]()
 ### bigocheatsheet.com
 
 * [Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell](https://www.bigocheatsheet.com/)
+
+
+[Back to Top]()
+### birddogs.com
+
+* [Hoodies | birddogs](https://www.birddogs.com/collections/hoodies?utm_source=ig&utm_medium=Instagram_Stories&utm_campaign=%231-TESTING&utm_content=09.20.24-HOOD-93.5&fbadid=6644514184241&tw_source=ig&tw_adid=6644516292441&utm_id=6340741769241&utm_term=6644509584441&campaign_id=6644509584441&ad_id=6644516292441)
 
 
 [Back to Top]()
@@ -1229,6 +1387,7 @@
 ### blog.discourse.org
 
 * [How Does Team Discourse Use Discourse? | Blog 2](https://blog.discourse.org/2018/03/how-does-team-discourse-use-discourse/)
+* [How Does Team Discourse Use Discourse?](https://blog.discourse.org/2018/03/how-does-team-discourse-use-discourse/)
 
 
 [Back to Top]()
@@ -1330,8 +1489,8 @@
 [Back to Top]()
 ### boto3.amazonaws.com
 
-* [SSM — Boto 3 Docs 1.12.23 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ssm.html)
 * [S3 — Boto 3 Docs 1.12.22 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html)
+* [SSM — Boto 3 Docs 1.12.23 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ssm.html)
 
 
 [Back to Top]()
@@ -1365,6 +1524,14 @@
 
 
 [Back to Top]()
+### bruntworkwear.com
+
+* [The Martin Pant | Men's Durable Performance Work Pant – BRUNT Workwear](https://bruntworkwear.com/products/the-martin-pant?variant=43512084955294)
+* [The Shevlin 1-4 Zip – BRUNT Workwear](https://bruntworkwear.com/products/shevlin-1-4-zip?variant=44222150377630)
+* [Work Apparel | High-Performance Tops & Bottoms – BRUNT Workwear](https://bruntworkwear.com/collections/apparel?sort=MANUAL&reverse=false)
+
+
+[Back to Top]()
 ### bschaatsbergen.com
 
 * [Pre-jitting in Lambda](https://www.bschaatsbergen.com/pre-jitting-in-lambda)
@@ -1379,13 +1546,32 @@
 [Back to Top]()
 ### bulletpointmountingsolutions.com
 
+* [Bulletpoint Mounting Solutions for Jeep, RAM, Ford, Chevy, GMC, Toyota](https://www.bulletpointmountingsolutions.com/)
 * [Bulletpoint RAM Truck Phone Mount Metal Series 2019-Current - Bulletpoint Mounting Solutions](https://www.bulletpointmountingsolutions.com/collections/2019-ram-truck-1500-2500-3500/products/metal-series-ram-truck-universal-single-dash-phone-mount-new-dash-style)
+
+
+[Back to Top]()
+### bulma.io
+
+* [Bulma- Free, open source, and modern CSS framework based on Flexbox](https://bulma.io/)
 
 
 [Back to Top]()
 ### bun.sh
 
 * [Import a TOML file | Bun Examples](https://bun.sh/guides/runtime/import-toml)
+
+
+[Back to Top]()
+### busy-tag.com
+
+* [The Busy Tag | Busy Tag](https://www.busy-tag.com/product-page/busy-tag-global-version)
+
+
+[Back to Top]()
+### buttondown.com
+
+* [No-nonsense email for everyone.](https://buttondown.com/pricing?count=1000)
 
 
 [Back to Top]()
@@ -1426,6 +1612,12 @@
 
 
 [Back to Top]()
+### cal.com
+
+* [Cal.com | Open Scheduling Infrastructure](https://cal.com/)
+
+
+[Back to Top]()
 ### caldigit.com
 
 * [Tuff nano | USB-C 10G | External Rugged SSD | NVMe – CalDigit](https://www.caldigit.com/tuff-nano/)
@@ -1441,6 +1633,30 @@
 ### capitolatstonebriar.com
 
 * [Capitol at Stonebriar | Apartments in Frisco, TX](https://www.capitolatstonebriar.com/)
+
+
+[Back to Top]()
+### capsapparel.com
+
+* [LOGO FISHERMAN BEANIE. | High quality produced by CAPS.](https://capsapparel.com/products/logo-fisherman-beanie)
+
+
+[Back to Top]()
+### carhartoutlet.store
+
+* [Carhartt® Tactical Drawstring Pocket Hoodie](https://carhartoutlet.store/products/carhartt-tactical-drawstring-pocket-hoodie)
+
+
+[Back to Top]()
+### carryproof.com
+
+* [Minimalist Wallets Reimagined. Form and function meets Professionalism](https://carryproof.com/)
+
+
+[Back to Top]()
+### carsenclamp.com
+
+* [CARSEN CLAMP™ PRO WOOD CLAMP KIT](https://carsenclamp.com/products/sale)
 
 
 [Back to Top]()
@@ -1482,8 +1698,8 @@
 [Back to Top]()
 ### chubbycable.com
 
-* [Chubby 1.0 - The Ultra Thick Fast Charging Cable 120W – Chubbycable](https://www.chubbycable.com/products/silicone-data-cables-120w?variant=41808600301754)
 * [Chubby 1.0 - Fast Charge Cable – Chubbycable](https://www.chubbycable.com/products/silicone-data-cables-120w?variant=41777302339770)
+* [Chubby 1.0 - The Ultra Thick Fast Charging Cable 120W – Chubbycable](https://www.chubbycable.com/products/silicone-data-cables-120w?variant=41808600301754)
 
 
 [Back to Top]()
@@ -1529,17 +1745,29 @@
 
 
 [Back to Top]()
+### codeopinion.com
+
+* [Beware! Anti-patterns in Event-Driven Architecture - CodeOpinion](https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/)
+
+
+[Back to Top]()
 ### codepen.io
 
-* [SVG Radial progress using d3.js](https://codepen.io/shellbryson/pen/KzaKLe)
 * [Nutrition Facts Table in HTML & CSS](http://codepen.io/chriscoyier/pen/egHEK)
 * [Material VCard](https://codepen.io/ariona/pen/JYGzBB)
+* [SVG Radial progress using d3.js](https://codepen.io/shellbryson/pen/KzaKLe)
 
 
 [Back to Top]()
 ### codingwithsam.com
 
 * [CI-CD tips and tricks with AWS Lambda | Coding With Sam](https://codingwithsam.com/posts/sam-cicd-lambda/)
+
+
+[Back to Top]()
+### cognitive-surplus.com
+
+* [Software Engineering Graph Paper Notebook | Engineer Gifts – Cognitive Surplus](https://cognitive-surplus.com/products/software-engineering-bound-pad)
 
 
 [Back to Top]()
@@ -1557,12 +1785,12 @@
 [Back to Top]()
 ### colourlovers.com
 
-* [Palette - Gangster Hat -- COLOURlovers](http://www.colourlovers.com/palette/233096/Gangster_Hat)
-* [Palette : Lake View Sunset -- COLOURlovers](https://www.colourlovers.com/palette/2091467/Lake_View_Sunset)
 * [Palette - Nova Net -- COLOURlovers](https://www.colourlovers.com/palette/1167166/Nova_Net)
 * [Palette - temple 2 colors -- COLOURlovers](http://www.colourlovers.com/palette/1472647/temple_2_colors)
-* [Palette : Developer's Dream -- COLOURlovers](https://www.colourlovers.com/palette/1411463/Developers_Dream)
 * [Palette - * -- COLOURlovers](http://www.colourlovers.com/palette/4237048/*)
+* [Palette - Gangster Hat -- COLOURlovers](http://www.colourlovers.com/palette/233096/Gangster_Hat)
+* [Palette : Developer's Dream -- COLOURlovers](https://www.colourlovers.com/palette/1411463/Developers_Dream)
+* [Palette : Lake View Sunset -- COLOURlovers](https://www.colourlovers.com/palette/2091467/Lake_View_Sunset)
 
 
 [Back to Top]()
@@ -1580,8 +1808,8 @@
 [Back to Top]()
 ### connorgroup.com
 
-* [Highland Park West Lemmon | Apartments in Highland Park Dallas](https://connorgroup.com/apartments-dallas-tx/highland-park/?zgRef=zillow)
 * [Allura Las Colinas Apartment Homes | Luxury Living at its Finest](https://connorgroup.com/apartments-dallas-tx/allura/?zgRef=zillow)
+* [Highland Park West Lemmon | Apartments in Highland Park Dallas](https://connorgroup.com/apartments-dallas-tx/highland-park/?zgRef=zillow)
 
 
 [Back to Top]()
@@ -1615,6 +1843,18 @@
 
 
 [Back to Top]()
+### craft-minds.com
+
+* [CHAMFER PLANE – CRAFTMINDS](https://craft-minds.com/products/chamfer-plane)
+
+
+[Back to Top]()
+### criquetshirts.com
+
+* [Collared Sweatshirt - Heather Ice – Criquet Shirts](https://criquetshirts.com/products/collared-sweatshirt-heather-ice)
+
+
+[Back to Top]()
 ### cs193p.sites.stanford.edu
 
 * [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
@@ -1631,6 +1871,12 @@
 
 * [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Introducing GitHub Actions | CSS-Tricks](https://css-tricks.com/introducing-github-actions/)
+
+
+[Back to Top]()
+### cssgridgenerator.io
+
+* [CSS Grid Generator (Drag & Drop)](https://cssgridgenerator.io/)
 
 
 [Back to Top]()
@@ -1655,6 +1901,12 @@
 ### daan.fyi
 
 * [Static Duck Typing in Python with Protocols | Daan Debie](https://www.daan.fyi/writings/python-protocols)
+
+
+[Back to Top]()
+### dailykairos.com
+
+* [Men's Prayer Journal](https://dailykairos.com/pages/mens-prayer-journal)
 
 
 [Back to Top]()
@@ -1724,6 +1976,12 @@
 
 
 [Back to Top]()
+### dayfortyone.com
+
+* [Hoodie – Day Forty One](https://dayfortyone.com/collections/hoodie)
+
+
+[Back to Top]()
 ### dbdiagram.io
 
 * [Untitled - dbdiagram.io](https://dbdiagram.io/d)
@@ -1739,6 +1997,12 @@
 ### dbushell.com
 
 * [CSS Button Styles You Might Not Know – David Bushell – Freelance Web Design (UK)](https://dbushell.com/2024/03/10/css-button-styles-you-might-not-know/)
+
+
+[Back to Top]()
+### deals.getairmoto.com
+
+* [Easily Inflate Anything in Minutes - Airmoto](https://deals.getairmoto.com/promo?cep=ZnYxqFzIcDK7wrtA-PCkwV7o4L4Tl7_cwQGI37iS3eFxe948ivTZTnpSrtAPhqKEpzjomdXMi4Ibykxp5ILcPA7Xsuz15n14R8qrGwGc3kJHct3wnFYMzVNlzKfcYvVS3uFp_8SNtXXGsBmYoAYDCF8-Vhq2M0IKk3sRp0yYW3hOgYEMX2VYdrntqoOiuvmX_UjBs7Jvmb4smd6b3JQp7bOtfJU4wplYdhN2_WnRxiY5F1eMPe1sdG1UDFyZxe_4nQFwe4SLbz96dcE9cwEL-mMU19xBeijcNAmeDcR8513ojHVXZHtSKV2eBskoIjyPrv8ysKjqsmQAbSajkAgWdLOkUBEr62LGvL7Vj0YFeAC7h9VX_7qqffOCLhBjmUvmooztHSYraTJBd5umEimK4L603lhDjxNiGPmm6PUT2PQUeF0CJh_19g32ra2d7emP9Yo1ViVZlhymygUv3Y-AC9VPdtO6q9nlAayRUb7q5Y6mdsxCkL6E3GgAQchq1EkG0zcVRTZBoeaHK4BpfWr8xB-WW6Wx_qUoWFxIBjyqfUiYuVgqCqmHfLpw-cV5ZovhxVcnT9ZEXreft2ER1vGJk3-Hp-yD7N-nHO0RXz0QHZol3Iwx8hYbuUQ7J3waW9byh9c8CibzLwfAghci9Bdpsa08oSOqFrKFCqfeqMQg5TMJ398r1Inj1xZ8IAoiKP8i8EMgsajd_es6WWlVOD92xRLI2zqgOUFDvwBFv8ONsTe2ZTkh_a0g_OqyMR9KqHpEkY0kVK2rCs7Vitg9MoWdXspKwOMFjHJFVNjKbIhTqMwenzTwE7e6GNtq5oZkSIgS&lptoken=171a3171519a929d1854&utm_source=facebook&utm_medium=social&utm_campaign=120214342773210283&utm_content=120214342790490283&utm_term=120214342790500283&ad_id=120214342790500283&adset_id=120214342790490283&campaign_id=120214342773210283&ad_name=ID1401+-+NIK+-+P01+-+VID+-+4x5+-+AU_GEN+-+AS_PRD+-+AM_GIFT+-+SC399+-+FR_DFT+-+HK_5489+-+HA_AMT+-+HL_HM+-+CA1580+-+TH6961+-+LG30+-+ITNO+-+2024-10-04&adset_name=A%2BA+-+Interest+2+-+Copy&campaign_name=10-24+-+New+Winners+2+-+Interests+-+ABO+-+%24LC&source=ig&placement=Instagram_Stories)
 
 
 [Back to Top]()
@@ -1787,17 +2051,23 @@
 ### desiringgod.org
 
 * [The Scandal of His Confession- Where to Look When Christian Leaders Fall | Desiring God](https://www.desiringgod.org/articles/the-scandal-of-his-confession)
-* [Grace Denied and Supplied | Desiring God](https://www.desiringgod.org/articles/grace-denied-and-supplied)
 * [Sex-Abuse Allegations and the Egalitarian Myth | Desiring God](https://www.desiringgod.org/interviews/sex-abuse-allegations-and-the-egalitarian-myth)
+* [Grace Denied and Supplied | Desiring God](https://www.desiringgod.org/articles/grace-denied-and-supplied)
+
+
+[Back to Top]()
+### deskboardbuddy.com
+
+* [DeskBoard Buddy](https://deskboardbuddy.com/products/deskboardbuddy?utm_source=facebook&utm_medium=paid&utm_campaign=TOF+%7C+DBB+%7C+US+%7C+ABO+%28Sales%29&utm_term=Interest+%3D+sales+%28business+and+finance%29+%7C+US+-+18%2B%2C+Audience%2B+%7C+www+DBB+PDP+-+Nov+7+-+Copy&utm_content=Img+Ad+%3D+185%2C+HDC+%3D+T51+%28944589267673193%29+-+www+DBB+PDP&fbadid=120214796351390759&campaign_id=120201030049620759&ad_id=120214796351390759)
 
 
 [Back to Top]()
 ### dev.to
 
 * [Go - Project Structure and Guidelines - DEV Community](https://dev.to/jinxankit/go-project-structure-and-guidelines-4ccm)
-* [A Complete Guide to Rails Authentication Using JWT - DEV Community](https://dev.to/mohhossain/a-complete-guide-to-rails-authentication-using-jwt-403p)
 * [Lower Your AWS Lambda Bill by Increasing Memory Size— yep! - DEV Community](https://dev.to/dashbird/lower-your-aws-lambda-bill-by-increasing-memory-size-yep-jb1)
 * [Building a simple authentication in Rails 7 from scratch - DEV Community](https://dev.to/kevinluo201/building-a-simple-authentication-in-rails-7-from-scratch-2dhb)
+* [A Complete Guide to Rails Authentication Using JWT - DEV Community](https://dev.to/mohhossain/a-complete-guide-to-rails-authentication-using-jwt-403p)
 
 
 [Back to Top]()
@@ -1810,8 +2080,8 @@
 ### developer.apple.com
 
 * [Start Developing iOS Apps (Swift)- Work with View Controllers](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/WorkWithViewControllers.html#//apple_ref/doc/uid/TP40015214-CH6-SW1)
-* [Start Developing iOS Apps (Swift)- Work with View Controllers](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/WorkWithViewControllers.html)
 * [Creating Launch Daemons and Agents](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html)
+* [Start Developing iOS Apps (Swift)- Work with View Controllers](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/WorkWithViewControllers.html)
 
 
 [Back to Top]()
@@ -1829,8 +2099,8 @@
 [Back to Top]()
 ### developers.docusign.com
 
-* [How-To Embed the DocuSign UI in your App | REST | DocuSign](https://developers.docusign.com/docs/esign-rest-api/how-to/embed-ui/)
 * [Webhook event triggers | DocuSign](https://developers.docusign.com/platform/webhooks/connect/event-triggers/)
+* [How-To Embed the DocuSign UI in your App | REST | DocuSign](https://developers.docusign.com/docs/esign-rest-api/how-to/embed-ui/)
 
 
 [Back to Top]()
@@ -1870,6 +2140,12 @@
 
 
 [Back to Top]()
+### displate.com
+
+* ['Today I choose violence' Poster, picture, metal print, paint by Blanca Vidal | Displate](https://displate.com/displate/7032682)
+
+
+[Back to Top]()
 ### doc.pytest.org
 
 * [Temporary directories and files — pytest documentation](http://doc.pytest.org/en/latest/tmpdir.html)
@@ -1884,54 +2160,54 @@
 [Back to Top]()
 ### docs.ansible.com
 
-* [Frequently Asked Questions](https://docs.ansible.com/ansible/latest/reference_appendices/faq.html)
 * [Best Practices — Ansible Documentation](https://docs.ansible.com/ansible/2.3/playbooks_best_practices.html)
+* [Frequently Asked Questions](https://docs.ansible.com/ansible/latest/reference_appendices/faq.html)
 
 
 [Back to Top]()
 ### docs.aws.amazon.com
 
-* [Best practices for using sort keys to organize data - Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-sort-keys.html)
-* [(Optional) Configuring a webpage redirect - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-page-redirect.html)
+* [Pseudo parameters reference - AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/pseudo-parameter-reference.html)
+* [Class- AWS.S3 — AWS SDK for JavaScript](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#getSignedUrl-property)
 * [Loading data into an Amazon Aurora MySQL DB cluster from text files in an Amazon S3 bucket - Amazon …](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Integrating.LoadFromS3.html)
+* [Class- AWS.S3 — AWS SDK for JavaScript](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html)
+* [Partition projection with Amazon Athena - Amazon Athena](https://docs.aws.amazon.com/athena/latest/ug/partition-projection.html)
+* [AWS Lambda Features - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-features.html)
 * [Developing Producers Using the Amazon Kinesis Data Streams API with the AWS SDK for Java - Amazon Kinesis Data Streams](https://docs.aws.amazon.com/streams/latest/dev/developing-producers-with-sdk.html)
-* [Getting started with a secure static website - Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/getting-started-secure-static-website-cloudformation-template.html)
+* [Best practices for using sort keys to organize data - Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-sort-keys.html)
+* [AWS--ECS--Cluster - AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-ecs-cluster.html)
+* [AWS--Lambda--Function Code - AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-lambda-function-code.html)
+* [Sample Amazon SQS function code - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/with-sqs-create-package.html)
+* [How AWS Control Tower works with roles to create and manage accounts - AWS Control Tower](https://docs.aws.amazon.com/controltower/latest/userguide/roles-how.html)
+* [Saving data from an Amazon Aurora MySQL DB cluster into text files in an Amazon S3 bucket - Amazon A…](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Integrating.SaveIntoS3.html)
 * [IAM Policy Elements- Variables and Tags - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_variables.html)
 * [Checking object integrity - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/checking-object-integrity.html)
-* [Pseudo parameters reference - AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/pseudo-parameter-reference.html)
-* [TUTORIAL- Create a REST API as an Amazon Kinesis Proxy in API Gateway - Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/integrating-api-with-aws-services-kinesis.html)
-* [Using the Amazon SES SMTP Interface to Send Email - Amazon Simple Email Service](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-smtp.html)
-* [AWS--ECS--Cluster - AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-ecs-cluster.html)
-* [Class- AWS.S3 — AWS SDK for JavaScript](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html)
-* [Parameters - AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/parameters-section-structure.html)
-* [Lambda quotas - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html)
-* [How AWS Control Tower works with roles to create and manage accounts - AWS Control Tower](https://docs.aws.amazon.com/controltower/latest/userguide/roles-how.html)
-* [Sample Amazon SQS function code - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/with-sqs-create-package.html)
-* [Saving data from an Amazon Aurora MySQL DB cluster into text files in an Amazon S3 bucket - Amazon A…](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Integrating.SaveIntoS3.html)
-* [AWS Lambda Features - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-features.html)
 * [Environment Variables To Configure the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html)
-* [AWS--Lambda--Function Code - AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-lambda-function-code.html)
-* [Partition projection with Amazon Athena - Amazon Athena](https://docs.aws.amazon.com/athena/latest/ug/partition-projection.html)
-* [Class- AWS.S3 — AWS SDK for JavaScript](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#getSignedUrl-property)
+* [(Optional) Configuring a webpage redirect - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-page-redirect.html)
+* [TUTORIAL- Create a REST API as an Amazon Kinesis Proxy in API Gateway - Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/integrating-api-with-aws-services-kinesis.html)
+* [Lambda quotas - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html)
+* [Parameters - AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/parameters-section-structure.html)
+* [Using the Amazon SES SMTP Interface to Send Email - Amazon Simple Email Service](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-smtp.html)
+* [Getting started with a secure static website - Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/getting-started-secure-static-website-cloudformation-template.html)
 
 
 [Back to Top]()
 ### docs.github.com
 
+* [Workflow commands for GitHub Actions - GitHub Docs](https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions)
+* [Configuring OpenID Connect in Amazon Web Services - GitHub Docs](https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/configuring-openid-connect-in-amazon-web-services)
+* [Automating projects (beta) - GitHub Docs](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/automating-projects)
 * [Workflow syntax for GitHub Actions - GitHub Docs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 * [Expressions - GitHub Docs](https://docs.github.com/en/actions/learn-github-actions/expressions)
-* [Workflow commands for GitHub Actions - GitHub Docs](https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions)
-* [Automating projects (beta) - GitHub Docs](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/automating-projects)
-* [Configuring OpenID Connect in Amazon Web Services - GitHub Docs](https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/configuring-openid-connect-in-amazon-web-services)
 
 
 [Back to Top]()
 ### docs.google.com
 
+* [Plex NAS Compatibility - Google Sheets](https://docs.google.com/spreadsheets/d/1MfYoJkiwSqCXg8cm5-Ac4oOLPRtCkgUxU0jdj3tmMPc/edit)
+* [Page breakdown - Google Sheets](https://docs.google.com/spreadsheets/d/1L_lIQ2xFfv2WQ1wlz3PpUC2EEDfaGujI5Ij1SphHawk/edit)
 * [Star Trek Universe Video List (my copy) - Google Sheets](https://docs.google.com/spreadsheets/d/10240E8BJsMVaYEcvzJXkB-VMg-1B6Z4HGet29ntUmEE/edit)
 * [Plex NAS Compatibility - Google Sheets](https://docs.google.com/spreadsheets/d/1MfYoJkiwSqCXg8cm5-Ac4oOLPRtCkgUxU0jdj3tmMPc/edit#gid=1274624273)
-* [Page breakdown - Google Sheets](https://docs.google.com/spreadsheets/d/1L_lIQ2xFfv2WQ1wlz3PpUC2EEDfaGujI5Ij1SphHawk/edit)
-* [Plex NAS Compatibility - Google Sheets](https://docs.google.com/spreadsheets/d/1MfYoJkiwSqCXg8cm5-Ac4oOLPRtCkgUxU0jdj3tmMPc/edit)
 
 
 [Back to Top]()
@@ -2019,6 +2295,18 @@
 
 
 [Back to Top]()
+### duderobe.com
+
+* [Men’s Hooded Robe, Luxury Loungewear | DudeRobe™ As Seen On Shark Tank](https://duderobe.com/products/luxury-mens-hooded-bathrobe)
+
+
+[Back to Top]()
+### dukecannon.com
+
+* [Duke Cannon Supply Co. | Cold Shower Cooling Field Towels](https://dukecannon.com/products/cold-shower-cooling-field-towels)
+
+
+[Back to Top]()
 ### dzone.com
 
 * [Using YAML for Java Application Configuration - DZone Java](https://dzone.com/articles/using-yaml-java-application)
@@ -2044,10 +2332,16 @@
 
 
 [Back to Top]()
+### eff.org
+
+* [You Really Do Have Some Expectation of Privacy in Public | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2024/09/you-really-do-have-some-expectation-privacy-public)
+
+
+[Back to Top]()
 ### elastic.co
 
-* [Input plugins | Logstash Reference [6.6] | Elastic](https://www.elastic.co/guide/en/logstash/current/input-plugins.html)
 * [Changing Mapping with Zero Downtime | Elastic](https://www.elastic.co/blog/changing-mapping-with-zero-downtime)
+* [Input plugins | Logstash Reference [6.6] | Elastic](https://www.elastic.co/guide/en/logstash/current/input-plugins.html)
 
 
 [Back to Top]()
@@ -2060,6 +2354,12 @@
 ### elmforktx.com
 
 * [The Ranches at Elm Fork Land Property Photo Gallery](https://www.elmforktx.com/gallery.html)
+
+
+[Back to Top]()
+### elory.co
+
+* [Holster Z 2.0 – Elory](https://elory.co/products/holster-z?utm_medium=paid&utm_id=120210827123570259&utm_content=120210999288930259&utm_term=120210827123590259&utm_campaign=120210827123570259&utm_source=facebook&campaign_id=120210827123570259&ad_id=120210999288930259)
 
 
 [Back to Top]()
@@ -2159,6 +2459,12 @@
 
 
 [Back to Top]()
+### fooddy24h.blogspot.com
+
+* [One-Pot Macaroni Cheeseburger Soup](http://fooddy24h.blogspot.com/2024/11/one-pot-macaroni-cheeseburger-soup.html)
+
+
+[Back to Top]()
 ### foodnetwork.com
 
 * [How to Make Cold Brew Coffee Step-by-Step | Cooking School | Food Network](https://www.foodnetwork.com/how-to/packages/food-network-essentials/how-to-make-cold-brew-coffee)
@@ -2185,14 +2491,26 @@
 [Back to Top]()
 ### forums.macrumors.com
 
-* [Booting Windows 10 from an external SSD | MacRumors Forums](https://forums.macrumors.com/threads/booting-windows-10-from-an-external-ssd.2234010/)
 * [How does M1 perform as a server? | MacRumors Forums](https://forums.macrumors.com/threads/how-does-m1-perform-as-a-server.2277779/)
+* [Booting Windows 10 from an external SSD | MacRumors Forums](https://forums.macrumors.com/threads/booting-windows-10-from-an-external-ssd.2234010/)
+
+
+[Back to Top]()
+### foureditors.com
+
+* [All Our Video Editing Packs – Video Editing Effects - FOUR Editors](https://foureditors.com/collections/all-our-bundles?utm_source=facebook&utm_medium=paid&utm_campaign=DDU_ABO_TESTING_US_CPRG&utm_term=Client+Ads_August+28_Declan+UGC%2C+George+UGC%2C+George+Software_Collection+-+Copy&utm_content=George+Softwares&tw_source=ig&tw_adid=120212251793080282&campaign_id=120212251793070282&ad_id=120212251821620282)
 
 
 [Back to Top]()
 ### foxhound.systems
 
 * [Speeding up SQL queries by orders of magnitude using UNION – Foxhound Systems](https://www.foxhound.systems/blog/sql-performance-with-union/)
+
+
+[Back to Top]()
+### fractaledmind.github.io
+
+* [The how and why of optimal performance | Fractaled Mind](https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/)
 
 
 [Back to Top]()
@@ -2306,17 +2624,17 @@
 [Back to Top]()
 ### gist.github.com
 
-* [Installing Windows and Linux into the same partition · GitHub](https://gist.github.com/motorailgun/cc2c573f253d0893f429a165b5f851ee)
-* [Install CoreUtils and Gnu Utils on macOS using Homebrew.sh · GitHub](https://gist.github.com/petergi/b4956b2d20c38db236761a4e6248cebb)
-* [ZSH - split string into array · GitHub](https://gist.github.com/mattmc3/76ad634f362b5a9a54f1779a4737d5ae)
-* [Install node & npm on Mac OS X with Homebrew](https://gist.github.com/rcugut/c7abd2a425bb65da3c61d8341cd4b02d)
-* [Unfollow all on Facebook · GitHub](https://gist.github.com/renestalder/c5b77635bfbec8f94d28)
 * [Raspberry Pi, Static HTTPS site with Docker and Nginx · GitHub](https://gist.github.com/rain-1/2d6033ee2b63c0a3ab802b5572df3ba9)
+* [ZSH - split string into array · GitHub](https://gist.github.com/mattmc3/76ad634f362b5a9a54f1779a4737d5ae)
+* [Unfollow all on Facebook · GitHub](https://gist.github.com/renestalder/c5b77635bfbec8f94d28)
+* [Gemfile · GitHub](https://gist.github.com/dportalesr/de535477362963dcdfc7cc402b9a1665)
+* [Install CoreUtils and Gnu Utils on macOS using Homebrew.sh · GitHub](https://gist.github.com/petergi/b4956b2d20c38db236761a4e6248cebb)
+* [Installing Windows and Linux into the same partition · GitHub](https://gist.github.com/motorailgun/cc2c573f253d0893f429a165b5f851ee)
 * [Install script for a fresh Mac OS · GitHub](https://gist.github.com/daniel-leinweber/7a665eeb1fbad0033b1fe52a9dd08ae4)
+* [getOptions- experimental command line parser for PHP by using attributes · GitHub](https://gist.github.com/tored/43f6f9f2d8b85fc9fbbd82fa9063c76d)
 * [don't know why i wrote this · GitHub](https://gist.github.com/mapehe/ff346c1b9766f5f60e7af3b14763f2e0)
 * [Streaming pandas DataFrame to-from S3 with on-the-fly processing and GZIP compression · GitHub](https://gist.github.com/uhho/a1490ae2abd112b556dcd539750aa151)
-* [Gemfile · GitHub](https://gist.github.com/dportalesr/de535477362963dcdfc7cc402b9a1665)
-* [getOptions- experimental command line parser for PHP by using attributes · GitHub](https://gist.github.com/tored/43f6f9f2d8b85fc9fbbd82fa9063c76d)
+* [Install node & npm on Mac OS X with Homebrew](https://gist.github.com/rcugut/c7abd2a425bb65da3c61d8341cd4b02d)
 
 
 [Back to Top]()
@@ -2347,164 +2665,188 @@
 [Back to Top]()
 ### github.com
 
-* [GitHub - searx-searx- Privacy-respecting metasearch engine](https://github.com/searx/searx)
-* [laravel-.github- Source code of the default community health files for the Laravel organization](https://github.com/laravel/.github)
-* [stimulus-and-react:index.html.erb at master · dbridges:stimulus-and-react](https://github.com/dbridges/stimulus-and-react/blob/master/app/views/home/index.html.erb)
-* [GitHub - BuzonIO-zipfly- Writing large ZIP archives without memory inflation](https://github.com/BuzonIO/zipfly)
-* [undb-xyz:undb- 🚀 Private first, unified, self-hosted no code database](https://github.com/undb-xyz/undb)
-* [awesome-selfhosted:awesome-selfhosted- A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
-* [GitHub - paperless-ngx-paperless-ngx at nerdyarticles.com](https://github.com/paperless-ngx/paperless-ngx)
-* [dotfiles-config at master · dikiaap-dotfiles](https://github.com/dikiaap/dotfiles/blob/master/.i3/config)
-* [webloc-webloc.rb at master · peterc-webloc · GitHub](https://github.com/peterc/webloc/blob/master/lib/webloc.rb)
-* [GitHub - pynamodb-PynamoDB- A pythonic interface to Amazon's DynamoDB](https://github.com/pynamodb/PynamoDB)
-* [GitHub - vijaykothareddy-Data-Engineering- Code for my blogs on Data Engineering](https://github.com/vijaykothareddy/Data-Engineering)
-* [LukasJoswiak:etch- A simple, responsive writing theme for Hugo](https://github.com/LukasJoswiak/etch)
-* [GitHub - johno-pixyll- A simple, beautiful Jekyll theme that's mobile first](https://github.com/johno/pixyll)
-* [csv-to-dynamodb:CSVToDynamo.template at master · aws-samples:csv-to-dynamodb · GitHub](https://github.com/aws-samples/csv-to-dynamodb/blob/master/CloudFormation/CSVToDynamo.template)
-* [ryancdotorg (Ryan Castellucci) - Repositories · GitHub](https://github.com/ryancdotorg?tab=repositories)
-* [GitHub - astashov-liftosaur- Weightlifting tracker app for coders](https://github.com/astashov/liftosaur)
-* [GitHub - JozefJarosciak-AWS-Connect-Manager- Windows tool for connecting to AWS EC2 instances using …](https://github.com/JozefJarosciak/AWS-Connect-Manager)
-* [GitHub - EdiNation-OpenEDI-Specification- The OpenEDI Specification defines a standard, language-agn…](https://github.com/EdiNation/OpenEDI-Specification)
-* [ntk148v:hugo-toigian- A minimal Hugo theme with Tailwind CSS that covers all of the essentials. All you have to do is start typing!](https://github.com/ntk148v/hugo-toigian)
-* [archey-osx-archey at master · obihann-archey-osx · GitHub](https://github.com/obihann/archey-osx/blob/master/bin/archey)
-* [GitHub - opendialogai-opendialog- OpenDialog is a Conversational Experience Platform - the starting …](https://github.com/opendialogai/opendialog)
-* [hashrocket-decent_exposure- A helper for creating declarative interfaces in controllers](https://github.com/hashrocket/decent_exposure)
-* [Action- Can't Response JSON on JSON Post Request · remix-run:remix · Discussion #4491 · GitHub](https://github.com/remix-run/remix/discussions/4491)
-* [GitHub - j0be-PowerDeleteSuite- Power Delete Suite for Reddit](https://github.com/j0be/PowerDeleteSuite)
-* [GitHub - capitalone-DataProfiler- What's in your data? Extract schema, statistics and entities from …](https://github.com/capitalone/DataProfiler)
-* [GitHub - CoorpAcademy-aws-batch-triggering-lambda- AWS Batch Trigger Lambda [ARCHIVED](pre serverles…](https://github.com/CoorpAcademy/aws-batch-triggering-lambda)
-* [GitHub - MohamedYoussouf-Design-Resources- A curated list of design resources from design templates,…](https://github.com/MohamedYoussouf/Design-Resources)
-* [GitHub - rare-magma-guitos- Guitos is a simple budgeting app that helps you figure out where your mo…](https://github.com/rare-magma/guitos)
-* [GitHub - sinatra-sinatra- Classy web-development dressed in a DSL (official - canonical repo)](https://github.com/sinatra/sinatra)
-* [GitHub - facebook-bistro- Bistro is a flexible distributed scheduler, a high-performance framework s…](https://github.com/facebook/bistro)
-* [GitHub - aws-samples-amazon-cloudfront-functions](https://github.com/aws-samples/amazon-cloudfront-functions)
-* [sinatra-compass-compass.rb at master · rkh-sinatra-compass · GitHub](https://github.com/rkh/sinatra-compass/blob/master/lib/sinatra/compass.rb)
-* [GitHub - revarbat-snappy-reprap- The world's most 3D printable 3D printer. (Guinness Book of World R…](https://github.com/revarbat/snappy-reprap)
-* [ansible-for-devops-main.yml at master · geerlingguy-ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops/blob/master/security/main.yml)
-* [tensorflow-models- Models and examples built with TensorFlow](https://github.com/tensorflow/models)
-* [dotfiles-.macos at main · mathiasbynens-dotfiles](https://github.com/mathiasbynens/dotfiles/blob/main/.macos)
-* [GitHub - weavejester-hiccup- Fast library for rendering HTML in Clojure](https://github.com/weavejester/hiccup)
 * [GitHub - microsoft-playwright- Node.js library to automate Chromium, Firefox and WebKit with a singl…](https://github.com/microsoft/playwright)
-* [thebinarysearchtree:flyweight- An ORM for SQLite](https://github.com/thebinarysearchtree/flyweight)
-* [GitHub - SkullTech-aws-solutions-architect-associate-notes- My notes for AWS Solutions Architect Ass…](https://github.com/SkullTech/aws-solutions-architect-associate-notes)
-* [GitHub - traefik-traefik- The Cloud Native Application Proxy](https://github.com/traefik/traefik)
-* [GitHub - snovvcrash-usbrip- Simple command line forensics tool for tracking USB device artifacts (hi…](https://github.com/snovvcrash/usbrip)
-* [charmbracelet_gum A tool for glamorous shell scripts](https://github.com/charmbracelet/gum)
-* [GitHub - glassechidna-actions2aws- Assume AWS IAM roles from GitHub Actions workflows with no stored…](https://github.com/glassechidna/actions2aws)
-* [GitHub - adamstac-sinatra-bootstrap- A simple Sinatra starting point](https://github.com/adamstac/sinatra-bootstrap)
-* [fast-sqlite3-inserts-sqlite3_opt_batched.py at e126bd6f586e5001bac0ec3ab2fe7a8f0e2d335a · avinassh-f…](https://github.com/avinassh/fast-sqlite3-inserts/blob/e126bd6f586e5001bac0ec3ab2fe7a8f0e2d335a/sqlite3_opt_batched.py)
-* [GitHub - AlfiyaZi-example-sinatra-site- An example of a site made using Sinatra, Bootstrap, SASS and…](https://github.com/AlfiyaZi/example-sinatra-site)
-* [dotfiles-dir_colors at master · ramsey-dotfiles · GitHub](https://github.com/ramsey/dotfiles/blob/master/dir_colors)
-* [GitHub - awslabs-aws-cloudformation-templates- A collection of useful CloudFormation templates](https://github.com/awslabs/aws-cloudformation-templates)
-* [Cloud Carbon Footprint · GitHub](https://github.com/cloud-carbon-footprint)
-* [GitHub - stellar-invictus-stellar-invictus- Stellar Invictus Browsergame](https://github.com/stellar-invictus/stellar-invictus/tree/master)
-* [shopify-sinatra-app-example-views-home.erb at master · kevinhughes27-shopify-sinatra-app · GitHub](https://github.com/kevinhughes27/shopify-sinatra-app/blob/master/example/views/home.erb)
-* [canhtran:maverick- A minimal hugo theme focus on content](https://github.com/canhtran/maverick)
-* [GitHub - aws-actions-configure-aws-credentials- Configure AWS credential environment variables for u…](https://github.com/aws-actions/configure-aws-credentials)
-* [SortingThreads-SortingThreads.java at main · strawdawgs-SortingThreads · GitHub](https://github.com/strawdawgs/SortingThreads/blob/main/Sorting_Multithread/SortingThreads.java)
-* [freetonik.github.io-Rakefile at master · freetonik-freetonik.github.io · GitHub](https://github.com/freetonik/freetonik.github.io/blob/master/Rakefile)
-* [ansible_role_gitea-debian.yml at main · roles-ansible-ansible_role_gitea · GitHub](https://github.com/roles-ansible/ansible_role_gitea/blob/main/vars/debian.yml)
-* [aws-cloudformation-github-deploy-action.yml at master · aws-actions-aws-cloudformation-github-deploy…](https://github.com/aws-actions/aws-cloudformation-github-deploy/blob/master/action.yml)
-* [danistefanovic-build-your-own-x- 🤓 Build your own `insert technology here`. A curated collection of…](https://github.com/danistefanovic/build-your-own-x)
-* [GitHub - alliefitter-boto3_type_annotations- Deprecated. A maintained fork is available at https--g…](https://github.com/alliefitter/boto3_type_annotations)
-* [GitHub - dbohdan-structured-text-tools- A list of command line tools for manipulating structured tex…](https://github.com/dbohdan/structured-text-tools)
-* [chartdb-chartdb- Free and open-source database diagrams editor, visualize and design your DB with a …](https://github.com/chartdb/chartdb)
-* [shopify-api-js-docs-guides-rest-resources.md at main · Shopify-shopify-api-js · GitHub](https://github.com/Shopify/shopify-api-js/blob/main/docs/guides/rest-resources.md)
-* [apache:incubator-pegasus- Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store](https://github.com/apache/incubator-pegasus)
-* [rblanchardbell-rblscan](https://github.com/rblanchardbell/rblscan)
-* [BemiHQ:bemi-rails- Robust data change tracking for Rails](https://github.com/BemiHQ/bemi-rails)
-* [will127534-RaspberryPiAtomicNixieClock](https://github.com/will127534/RaspberryPiAtomicNixieClock)
-* [GitHub - tipenehughes-space-x-app- SpaceX app displaying information ranging from individual rocket …](https://github.com/tipenehughes/space-x-app)
-* [level5_app_src_mod_cron at 28fec6acea37cf4701cf15174839034a68752a4b · energyby5_level5](https://github.com/energyby5/level5/tree/28fec6acea37cf4701cf15174839034a68752a4b/app/src/mod/cron)
-* [GitHub - gavv-pull-request-artifacts- GitHub Action to post build artifacts in PR comments](https://github.com/gavv/pull-request-artifacts)
-* [samrobbins85:hugo-developer-portfolio- A theme for a developer portfolio made with Hugo](https://github.com/samrobbins85/hugo-developer-portfolio/tree/master)
-* [GitHub - audreyr-favicon-cheat-sheet- Obsessive cheat sheet to favicon sizes-types. Please contribut…](https://github.com/audreyr/favicon-cheat-sheet)
-* [GitHub - michalc-sqlite-s3-query- Python function to query SQLite files stored on S3 2](https://github.com/michalc/sqlite-s3-query)
-* [GitHub - aws-actions-aws-cloudformation-github-deploy- Deploys AWS CloudFormation Stacks](https://github.com/aws-actions/aws-cloudformation-github-deploy)
-* [abbot:go-http-auth- Basic and Digest HTTP Authentication for golang http](https://github.com/abbot/go-http-auth)
-* [calcom-cal.com- Scheduling infrastructure for absolutely everyone](https://github.com/calcom/cal.com/tree/main)
-* [Shreddit-shredder.py at master · x89-Shreddit · GitHub](https://github.com/x89/Shreddit/blob/master/shreddit/shredder.py)
-* [GitHub - actions-setup-node- Set up your GitHub Actions workflow with a specific version of node.js](https://github.com/actions/setup-node)
-* [GitHub - public-apis-public-apis- A collective list of free APIs](https://github.com/public-apis/public-apis)
-* [GitHub - indice-co-EDI.Net- EDI Serializer-Deserializer. Supports EDIFact, X12 and TRADACOMS formats](https://github.com/indice-co/EDI.Net)
-* [Object remapping from JSON to JSON · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/object-remapping-from-json-to-json)
-* [GitHub - Volmarg-personal-management-system- Your web application for managing personal data. <perso…](https://github.com/Volmarg/personal-management-system)
-* [HumbleForwarder-humble_forwarder.py at master · kjpgit-HumbleForwarder · GitHub](https://github.com/kjpgit/HumbleForwarder/blob/master/humble_forwarder.py)
-* [seata-seata- -fire- Seata is an easy-to-use, high-performance, open source distributed transaction s…](https://github.com/seata/seata)
-* [StreamDeck-Shortcuts-StreamDeck-Shortcuts-main.swift at main · SENTINELITE-StreamDeck-Shortcuts · Gi…](https://github.com/SENTINELITE/StreamDeck-Shortcuts/blob/main/StreamDeck-Shortcuts/main.swift)
-* [GitHub - geerlingguy-ansible-for-devops- Ansible for DevOps examples](https://github.com/geerlingguy/ansible-for-devops)
-* [1Password-to-Keepassx](https://github.com/adamaltman/1Password-to-Keepassx/blob/master/convert.php)
-* [PrefectHQ-prefect- Prefect is a workflow orchestration framework for building resilient data pipelin…](https://github.com/PrefectHQ/prefect)
-* [GitHub - vran-dev-PrettyZoo- Pretty nice Zookeeper GUI, Support Win - Mac - Linux Platform](https://github.com/vran-dev/PrettyZoo)
-* [GitHub - jReddit-jReddit- Java wrapper for Reddit API](https://github.com/jReddit/jReddit)
-* [sinatra-activerecord-schema.rb at master · sinatra-activerecord-sinatra-activerecord · GitHub](https://github.com/sinatra-activerecord/sinatra-activerecord/blob/master/example/sqlite/db/schema.rb)
-* [shiroyasha-blog-source- Personal blog source](https://github.com/shiroyasha/blog-source)
-* [GitHub - MoralCode-pihole-antitelemetry- Research shows Google and Apple are collecting data on you.…](https://github.com/MoralCode/pihole-antitelemetry)
-* [datastation-runner-cmd-dsq at main · multiprocessio-datastation · GitHub](https://github.com/multiprocessio/datastation/tree/main/runner/cmd/dsq)
-* [toddmotto-public-apis- A collective list of public JSON APIs for use in web development.](https://github.com/toddmotto/public-apis)
-* [Checkout · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/checkout)
-* [GitHub - lgg-awesome-keepass- Curated list of KeePass-related projects](https://github.com/lgg/awesome-keepass)
+* [GitHub - capitalone-DataProfiler- What's in your data? Extract schema, statistics and entities from …](https://github.com/capitalone/DataProfiler)
+* [GitHub - opf-openproject- OpenProject is the leading open source project management software.](https://github.com/opf/openproject)
 * [sinatra_catlovers-application_controller.rb at master · wizbeck21-sinatra_catlovers · GitHub](https://github.com/wizbeck21/sinatra_catlovers/blob/master/app/controllers/application_controller.rb)
-* [ananthakumaran:paisa- Paisa – Personal Finance Manager. demo- https-::demo.paisa.fyi](https://github.com/ananthakumaran/paisa)
-* [GitHub - shrinerb-shrine- File Attachment toolkit for Ruby applications](https://github.com/shrinerb/shrine)
-* [Search · scss · GitHub](https://github.com/mattetti/sinatra-web-api-example/search?q=scss)
-* [GitHub - public-apis-public-apis- A collective list of free APIs for use in software and web develop…](https://github.com/public-apis/public-apis#finance)
-* [GitHub - unit8co-darts- A python library for easy manipulation and forecasting of time series](https://github.com/unit8co/darts)
-* [GitHub - dwd0tcom-strava-scriptable-widget- A little script which runs in Scriptable Widget to displ…](https://github.com/dwd0tcom/strava-scriptable-widget)
-* [GitHub - bigprof-software-online-rental-property-manager- Manage your rental properties, units, appl…](https://github.com/bigprof-software/online-rental-property-manager)
-* [GitHub - aws-samples:iot-analytics-athena-ddb](https://github.com/aws-samples/iot-analytics-athena-ddb)
-* [haven-posts_controller.rb at master · havenweb-haven · GitHub](https://github.com/havenweb/haven/blob/master/app/controllers/posts_controller.rb)
-* [bootstrap-email-bootstrap-email- Bootstrap stylesheet, compiler, and inliner for responsive and cons…](https://github.com/bootstrap-email/bootstrap-email)
-* [RandScrshot-rand.py at master · vanillamice-RandScrshot · GitHub](https://github.com/vanillamice/RandScrshot/blob/master/rand.py)
-* [isitup-main.py at master · lord63-isitup · GitHub](https://github.com/lord63/isitup/blob/master/isitup/main.py)
-* [Shopify:turbolinks-jwt-sample-app- A sample app made to demo Shopify's Next-Gen Auth flow using Turbolinks](https://github.com/Shopify/turbolinks-jwt-sample-app/tree/master)
-* [Home · revarbat-snappy-reprap Wiki · GitHub](https://github.com/revarbat/snappy-reprap/wiki)
-* [GitHub - geerlingguy-internet-pi- Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
-* [devforth_hothost Lightweight and minimalistic open-source Servers and HTTP monitor](https://github.com/devforth/hothost)
-* [GitHub - johnkerl-miller- Miller is like awk, sed, cut, join, and sort for name-indexed data such as…](https://github.com/johnkerl/miller)
-* [ideas-for-projects-people-would-use-README.md at main · Divide-By-0-ideas-for-projects-people-would-…](https://github.com/Divide-By-0/ideas-for-projects-people-would-use/blob/main/README.md)
-* [GitHub - laraveli-qr-code](https://github.com/laraveli/qr-code)
-* [gs-rest-service-GreetingController.java at master · spring-guides-gs-rest-service](https://github.com/spring-guides/gs-rest-service/blob/master/complete/src/main/java/hello/GreetingController.java)
-* [mikelxc-Workarounds-for-ARM-mac- This repository describes how I get most of my configurations work …](https://github.com/mikelxc/Workarounds-for-ARM-mac)
-* [adminkit:adminkit- AdminKit is a free & open-source HTML dashboard & admin template based on Bootstrap 5](https://github.com/adminkit/adminkit)
-* [GitHub - djmelik-archey- Archey is a system information tool written in Python.](https://github.com/djmelik/archey)
-* [dikiaap-dotfiles- Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and …](https://github.com/dikiaap/dotfiles)
-* [GitHub - karlicoss-HPI- Human Programming Interface](https://github.com/karlicoss/HPI)
-* [GitHub - FiloSottile-mkcert- A simple zero-config tool to make locally trusted development certifica…](https://github.com/FiloSottile/mkcert)
-* [GitHub - kozakdenys-qr-code-styling- Automaticly generate your styled QR code in your web app.](https://github.com/kozakdenys/qr-code-styling)
-* [simonw (Simon Willison) · GitHub](https://github.com/simonw)
-* [GitHub - aliou-ace- Ace- A Jekyll theme.](https://github.com/aliou/ace)
-* [GitHub - dannysteenman-aws-toolbox- A Collection of Awesome Tools and Scripts for Cloud Engineers](https://github.com/dannysteenman/aws-toolbox)
-* [johnpbloch-wordpress-core-installer- A composer installer for WordPress core so I can stop saying co…](https://github.com/johnpbloch/wordpress-core-installer)
-* [Shopify-discount-app-components- A library of discounts-focused React components to help in building…](https://github.com/Shopify/discount-app-components)
-* [GitHub - mikeroyal_Self-Hosting-Guide Self-Hosting Guide. Learn all about locally hosting(on premises & private web servers)](https://github.com/mikeroyal/Self-Hosting-Guide)
-* [adityatelange:hugo-PaperMod- A fast, clean, responsive Hugo theme](https://github.com/adityatelange/hugo-PaperMod)
-* [GitHub - remileduc-sherver- Pure Bash lightweight web server.](https://github.com/remileduc/sherver)
-* [GitHub - PatMyron-cloudformation-resource-providers- automatically maintained monorepo of all public…](https://github.com/PatMyron/cloudformation-resource-providers)
-* [danmayer:coverband- Ruby production code coverage collection and reporting (line of code usage)](https://github.com/danmayer/coverband)
-* [GitHub - atisawd-boxicons- High Quality web friendly icons](https://github.com/atisawd/boxicons)
-* [cosmopolitan-redbean.c at master · jart-cosmopolitan · GitHub](https://github.com/jart/cosmopolitan/blob/master/tool/net/redbean.c)
-* [php-WebHDFS-WebHDFS.php at a22bd21a97b63e8e83b26e851a140b4dd1647b50 · simpleenergy-php-WebHDFS · Git…](https://github.com/simpleenergy/php-WebHDFS/blob/a22bd21a97b63e8e83b26e851a140b4dd1647b50/src/org/apache/hadoop/WebHDFS.php)
-* [github-update-readme-index.js at main · theboi-github-update-readme · GitHub](https://github.com/theboi/github-update-readme/blob/main/index.js)
+* [GitHub - mkdocstrings-mkdocstrings- -blue_book- Automatic documentation from sources, for MkDocs.](https://github.com/mkdocstrings/mkdocstrings)
 * [Efficiently create many records · Issue #4998 · prisma:prisma](https://github.com/prisma/prisma/issues/4998)
-* [makefile-for-monorepos-Makefile at master · enspirit-makefile-for-monorepos · GitHub](https://github.com/enspirit/makefile-for-monorepos/blob/master/Makefile)
-* [GitHub - woltapp-wolt-python-package-cookiecutter- Cookiecutter for rapidly creating modern & high-q…](https://github.com/woltapp/wolt-python-package-cookiecutter)
+* [RandScrshot-rand.py at master · vanillamice-RandScrshot · GitHub](https://github.com/vanillamice/RandScrshot/blob/master/rand.py)
+* [GitHub - glassechidna-actions2aws- Assume AWS IAM roles from GitHub Actions workflows with no stored…](https://github.com/glassechidna/actions2aws)
+* [GitHub - SparkDevNetwork-Rock- An open source CMS, Relationship Management System (RMS) and Church M…](https://github.com/SparkDevNetwork/Rock/tree/develop)
+* [stimulus-and-react:index.html.erb at master · dbridges:stimulus-and-react](https://github.com/dbridges/stimulus-and-react/blob/master/app/views/home/index.html.erb)
+* [GitHub - awslabs-aws-cloudformation-templates- A collection of useful CloudFormation templates](https://github.com/awslabs/aws-cloudformation-templates)
+* [bootstrap-email-bootstrap-email- Bootstrap stylesheet, compiler, and inliner for responsive and cons…](https://github.com/bootstrap-email/bootstrap-email)
+* [GitHub - michalc-sqlite-s3-query- Python function to query SQLite files stored on S3 2](https://github.com/michalc/sqlite-s3-query)
+* [GitHub - adamstac-sinatra-bootstrap- A simple Sinatra starting point](https://github.com/adamstac/sinatra-bootstrap)
+* [GitHub - j0be-PowerDeleteSuite- Power Delete Suite for Reddit](https://github.com/j0be/PowerDeleteSuite)
+* [danistefanovic-build-your-own-x- 🤓 Build your own `insert technology here`. A curated collection of…](https://github.com/danistefanovic/build-your-own-x)
+* [canhtran:maverick- A minimal hugo theme focus on content](https://github.com/canhtran/maverick)
+* [GitHub - atisawd-boxicons- High Quality web friendly icons](https://github.com/atisawd/boxicons)
 * [GitHub - thomvaill-log4brains- ✍️ Log and publish your architecture decisions (ADR)](https://github.com/thomvaill/log4brains)
-* [aaronsw (aaronsw) - Repositories · GitHub](https://github.com/aaronsw?tab=repositories)
+* [Shopify-discount-app-components- A library of discounts-focused React components to help in building…](https://github.com/Shopify/discount-app-components)
+* [GitHub - unit8co-darts- A python library for easy manipulation and forecasting of time series](https://github.com/unit8co/darts)
+* [GitHub - Volmarg-personal-management-system- Your web application for managing personal data. <perso…](https://github.com/Volmarg/personal-management-system)
+* [GitHub - apecloud-myduckserver- MySQL & Postgres Analytics, Reimagined](https://github.com/apecloud/myduckserver)
+* [thebinarysearchtree:flyweight- An ORM for SQLite](https://github.com/thebinarysearchtree/flyweight)
+* [Action- Can't Response JSON on JSON Post Request · remix-run:remix · Discussion #4491 · GitHub](https://github.com/remix-run/remix/discussions/4491)
+* [GitHub - alliefitter-boto3_type_annotations- Deprecated. A maintained fork is available at https--g…](https://github.com/alliefitter/boto3_type_annotations)
+* [GitHub - audreyr-favicon-cheat-sheet- Obsessive cheat sheet to favicon sizes-types. Please contribut…](https://github.com/audreyr/favicon-cheat-sheet)
+* [GitHub - MoralCode-pihole-antitelemetry- Research shows Google and Apple are collecting data on you.…](https://github.com/MoralCode/pihole-antitelemetry)
+* [GitHub - weavejester-hiccup- Fast library for rendering HTML in Clojure](https://github.com/weavejester/hiccup)
 * [geerlingguy-pi-webcam- Automation to configure a Raspberry Pi as a USB OTG webcam](https://github.com/geerlingguy/pi-webcam)
-* [GitHub - plasma-umass-scalene- Scalene- a high-performance, high-precision CPU, GPU, and memory prof…](https://github.com/plasma-umass/scalene)
-* [GitHub - dylanaraps-neofetch- 🖼️ A command-line system information tool written in bash 3.2+](https://github.com/dylanaraps/neofetch)
-* [GitHub - drduh-YubiKey-Guide- Guide to using YubiKey as a SmartCard for GPG and SSH](https://github.com/drduh/YubiKey-Guide#22-install---macos)
-* [GitHub Issues · Project planning for developers · GitHub](https://github.com/features/issues)
-* [shellharden-how_to_do_things_safely_in_bash.md at master · anordal-shellharden](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
+* [github-update-readme-index.js at main · theboi-github-update-readme · GitHub](https://github.com/theboi/github-update-readme/blob/main/index.js)
+* [GitHub - TomWright-dasel- Select, put and delete data from JSON, TOML, YAML, XML and CSV files with …](https://github.com/TomWright/dasel)
+* [seata-seata- -fire- Seata is an easy-to-use, high-performance, open source distributed transaction s…](https://github.com/seata/seata)
+* [GitHub - djmelik-archey- Archey is a system information tool written in Python.](https://github.com/djmelik/archey)
+* [hashrocket-decent_exposure- A helper for creating declarative interfaces in controllers](https://github.com/hashrocket/decent_exposure)
+* [Cloud Carbon Footprint · GitHub](https://github.com/cloud-carbon-footprint)
+* [haven-posts_controller.rb at master · havenweb-haven · GitHub](https://github.com/havenweb/haven/blob/master/app/controllers/posts_controller.rb)
+* [danmayer:coverband- Ruby production code coverage collection and reporting (line of code usage)](https://github.com/danmayer/coverband)
+* [cosmopolitan-redbean.c at master · jart-cosmopolitan · GitHub](https://github.com/jart/cosmopolitan/blob/master/tool/net/redbean.c)
+* [dotfiles-dir_colors at master · ramsey-dotfiles · GitHub](https://github.com/ramsey/dotfiles/blob/master/dir_colors)
 * [GitHub - drduh-YubiKey-Guide- Guide to using YubiKey as a SmartCard for GPG and SSH](https://github.com/drduh/YubiKey-Guide)
+* [undb-xyz:undb- 🚀 Private first, unified, self-hosted no code database](https://github.com/undb-xyz/undb)
+* [GitHub - AlfiyaZi-example-sinatra-site- An example of a site made using Sinatra, Bootstrap, SASS and…](https://github.com/AlfiyaZi/example-sinatra-site)
+* [GitHub - tipenehughes-space-x-app- SpaceX app displaying information ranging from individual rocket …](https://github.com/tipenehughes/space-x-app)
+* [chartdb-chartdb- Free and open-source database diagrams editor, visualize and design your DB with a …](https://github.com/chartdb/chartdb)
+* [GitHub - lgg-awesome-keepass- Curated list of KeePass-related projects](https://github.com/lgg/awesome-keepass)
+* [GitHub - pynamodb-PynamoDB- A pythonic interface to Amazon's DynamoDB](https://github.com/pynamodb/PynamoDB)
+* [fast-sqlite3-inserts-sqlite3_opt_batched.py at e126bd6f586e5001bac0ec3ab2fe7a8f0e2d335a · avinassh-f…](https://github.com/avinassh/fast-sqlite3-inserts/blob/e126bd6f586e5001bac0ec3ab2fe7a8f0e2d335a/sqlite3_opt_batched.py)
+* [GitHub - aws-actions-configure-aws-credentials- Configure AWS credential environment variables for u…](https://github.com/aws-actions/configure-aws-credentials)
+* [GitHub - aliou-ace- Ace- A Jekyll theme.](https://github.com/aliou/ace)
+* [ananthakumaran:paisa- Paisa – Personal Finance Manager. demo- https-::demo.paisa.fyi](https://github.com/ananthakumaran/paisa)
+* [GitHub - searx-searx- Privacy-respecting metasearch engine](https://github.com/searx/searx)
+* [GitHub - stellar-invictus-stellar-invictus- Stellar Invictus Browsergame](https://github.com/stellar-invictus/stellar-invictus/tree/master)
+* [ntk148v:hugo-toigian- A minimal Hugo theme with Tailwind CSS that covers all of the essentials. All you have to do is start typing!](https://github.com/ntk148v/hugo-toigian)
+* [laravel-.github- Source code of the default community health files for the Laravel organization](https://github.com/laravel/.github)
+* [GitHub - traefik-traefik- The Cloud Native Application Proxy](https://github.com/traefik/traefik)
+* [GitHub - public-apis-public-apis- A collective list of free APIs](https://github.com/public-apis/public-apis)
+* [aaronsw (aaronsw) - Repositories · GitHub](https://github.com/aaronsw?tab=repositories)
+* [GitHub - PatMyron-cloudformation-resource-providers- automatically maintained monorepo of all public…](https://github.com/PatMyron/cloudformation-resource-providers)
+* [aws-cloudformation-github-deploy-action.yml at master · aws-actions-aws-cloudformation-github-deploy…](https://github.com/aws-actions/aws-cloudformation-github-deploy/blob/master/action.yml)
+* [ansible-for-devops-main.yml at master · geerlingguy-ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops/blob/master/security/main.yml)
+* [GitHub - karlicoss-HPI- Human Programming Interface](https://github.com/karlicoss/HPI)
+* [mikelxc-Workarounds-for-ARM-mac- This repository describes how I get most of my configurations work …](https://github.com/mikelxc/Workarounds-for-ARM-mac)
+* [php-WebHDFS-WebHDFS.php at a22bd21a97b63e8e83b26e851a140b4dd1647b50 · simpleenergy-php-WebHDFS · Git…](https://github.com/simpleenergy/php-WebHDFS/blob/a22bd21a97b63e8e83b26e851a140b4dd1647b50/src/org/apache/hadoop/WebHDFS.php)
+* [charmbracelet_gum A tool for glamorous shell scripts](https://github.com/charmbracelet/gum)
+* [samrobbins85:hugo-developer-portfolio- A theme for a developer portfolio made with Hugo](https://github.com/samrobbins85/hugo-developer-portfolio/tree/master)
+* [GitHub - johno-pixyll- A simple, beautiful Jekyll theme that's mobile first](https://github.com/johno/pixyll)
+* [Shreddit-shredder.py at master · x89-Shreddit · GitHub](https://github.com/x89/Shreddit/blob/master/shreddit/shredder.py)
+* [GitHub - yellow-footed-honeyguide-facad- A modern, colorful ls alternative for bringing clarity to t…](https://github.com/yellow-footed-honeyguide/facad)
+* [GitHub - rfinnie-blockbuster- Blockbuster Video VHS insert template](https://github.com/rfinnie/blockbuster)
+* [calcom-cal.com- Scheduling infrastructure for absolutely everyone](https://github.com/calcom/cal.com/tree/main)
+* [GitHub - indice-co-EDI.Net- EDI Serializer-Deserializer. Supports EDIFact, X12 and TRADACOMS formats](https://github.com/indice-co/EDI.Net)
+* [level5_app_src_mod_cron at 28fec6acea37cf4701cf15174839034a68752a4b · energyby5_level5](https://github.com/energyby5/level5/tree/28fec6acea37cf4701cf15174839034a68752a4b/app/src/mod/cron)
+* [webloc-webloc.rb at master · peterc-webloc · GitHub](https://github.com/peterc/webloc/blob/master/lib/webloc.rb)
+* [GitHub - mikeroyal_Self-Hosting-Guide Self-Hosting Guide. Learn all about locally hosting(on premises & private web servers)](https://github.com/mikeroyal/Self-Hosting-Guide)
+* [GitHub - plasma-umass-scalene- Scalene- a high-performance, high-precision CPU, GPU, and memory prof…](https://github.com/plasma-umass/scalene)
+* [GitHub - dbohdan-structured-text-tools- A list of command line tools for manipulating structured tex…](https://github.com/dbohdan/structured-text-tools)
+* [johnpbloch-wordpress-core-installer- A composer installer for WordPress core so I can stop saying co…](https://github.com/johnpbloch/wordpress-core-installer)
+* [GitHub - harshadmanglani-polaris- Polaris- High performance workflow orchestrator for Golang](https://github.com/harshadmanglani/polaris)
+* [StreamDeck-Shortcuts-StreamDeck-Shortcuts-main.swift at main · SENTINELITE-StreamDeck-Shortcuts · Gi…](https://github.com/SENTINELITE/StreamDeck-Shortcuts/blob/main/StreamDeck-Shortcuts/main.swift)
+* [sinatra-activerecord-schema.rb at master · sinatra-activerecord-sinatra-activerecord · GitHub](https://github.com/sinatra-activerecord/sinatra-activerecord/blob/master/example/sqlite/db/schema.rb)
+* [SortingThreads-SortingThreads.java at main · strawdawgs-SortingThreads · GitHub](https://github.com/strawdawgs/SortingThreads/blob/main/Sorting_Multithread/SortingThreads.java)
+* [GitHub - sjdonado-idonthavespotify- Effortlessly convert Spotify links to your preferred streaming s…](https://github.com/sjdonado/idonthavespotify)
+* [Shopify:turbolinks-jwt-sample-app- A sample app made to demo Shopify's Next-Gen Auth flow using Turbolinks](https://github.com/Shopify/turbolinks-jwt-sample-app/tree/master)
+* [GitHub - dannysteenman-aws-toolbox- A Collection of Awesome Tools and Scripts for Cloud Engineers](https://github.com/dannysteenman/aws-toolbox)
+* [GitHub - snovvcrash-usbrip- Simple command line forensics tool for tracking USB device artifacts (hi…](https://github.com/snovvcrash/usbrip)
+* [GitHub - FiloSottile-mkcert- A simple zero-config tool to make locally trusted development certifica…](https://github.com/FiloSottile/mkcert)
+* [GitHub - paperless-ngx-paperless-ngx at nerdyarticles.com](https://github.com/paperless-ngx/paperless-ngx)
+* [shopify-sinatra-app-example-views-home.erb at master · kevinhughes27-shopify-sinatra-app · GitHub](https://github.com/kevinhughes27/shopify-sinatra-app/blob/master/example/views/home.erb)
+* [GitHub - facebook-bistro- Bistro is a flexible distributed scheduler, a high-performance framework s…](https://github.com/facebook/bistro)
+* [GitHub - coekie-flowtracker- Track data flowing through Java programs](https://github.com/coekie/flowtracker)
+* [GitHub - praveenjuge-mynaui-icons- Beautifully crafted open source icons from Myna UI.](https://github.com/praveenjuge/mynaui-icons)
+* [GitHub - aws-samples-amazon-cloudfront-functions](https://github.com/aws-samples/amazon-cloudfront-functions)
+* [Search · scss · GitHub](https://github.com/mattetti/sinatra-web-api-example/search?q=scss)
+* [GitHub - rare-magma-guitos- Guitos is a simple budgeting app that helps you figure out where your mo…](https://github.com/rare-magma/guitos)
+* [GitHub - actions-setup-node- Set up your GitHub Actions workflow with a specific version of node.js](https://github.com/actions/setup-node)
+* [shopify-api-js-docs-guides-rest-resources.md at main · Shopify-shopify-api-js · GitHub](https://github.com/Shopify/shopify-api-js/blob/main/docs/guides/rest-resources.md)
+* [devforth_hothost Lightweight and minimalistic open-source Servers and HTTP monitor](https://github.com/devforth/hothost)
+* [1Password-to-Keepassx](https://github.com/adamaltman/1Password-to-Keepassx/blob/master/convert.php)
+* [HumbleForwarder-humble_forwarder.py at master · kjpgit-HumbleForwarder · GitHub](https://github.com/kjpgit/HumbleForwarder/blob/master/humble_forwarder.py)
+* [ideas-for-projects-people-would-use-README.md at main · Divide-By-0-ideas-for-projects-people-would-…](https://github.com/Divide-By-0/ideas-for-projects-people-would-use/blob/main/README.md)
+* [GitHub - vran-dev-PrettyZoo- Pretty nice Zookeeper GUI, Support Win - Mac - Linux Platform](https://github.com/vran-dev/PrettyZoo)
+* [GitHub - cozis-blogtech- Custom web server for my blog](https://github.com/cozis/blogtech)
+* [ryancdotorg (Ryan Castellucci) - Repositories · GitHub](https://github.com/ryancdotorg?tab=repositories)
+* [tensorflow-models- Models and examples built with TensorFlow](https://github.com/tensorflow/models)
+* [dikiaap-dotfiles- Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and …](https://github.com/dikiaap/dotfiles)
+* [GitHub - nicolasgere-monogo- Go workspace monorepo tool](https://github.com/nicolasgere/monogo)
+* [freetonik.github.io-Rakefile at master · freetonik-freetonik.github.io · GitHub](https://github.com/freetonik/freetonik.github.io/blob/master/Rakefile)
+* [GitHub - getlago-lago- Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Sub…](https://github.com/getlago/lago)
+* [GitHub - johnkerl-miller- Miller is like awk, sed, cut, join, and sort for name-indexed data such as…](https://github.com/johnkerl/miller)
+* [GitHub - aws-aws-sdk-pandas- pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestrea…](https://github.com/aws/aws-sdk-pandas)
+* [Home · revarbat-snappy-reprap Wiki · GitHub](https://github.com/revarbat/snappy-reprap/wiki)
+* [isitup-main.py at master · lord63-isitup · GitHub](https://github.com/lord63/isitup/blob/master/isitup/main.py)
+* [GitHub - aws-actions-aws-cloudformation-github-deploy- Deploys AWS CloudFormation Stacks](https://github.com/aws-actions/aws-cloudformation-github-deploy)
+* [toddmotto-public-apis- A collective list of public JSON APIs for use in web development.](https://github.com/toddmotto/public-apis)
+* [Object remapping from JSON to JSON · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/object-remapping-from-json-to-json)
+* [GitHub - dwd0tcom-strava-scriptable-widget- A little script which runs in Scriptable Widget to displ…](https://github.com/dwd0tcom/strava-scriptable-widget)
+* [BemiHQ:bemi-rails- Robust data change tracking for Rails](https://github.com/BemiHQ/bemi-rails)
+* [Checkout · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/checkout)
+* [GitHub - jReddit-jReddit- Java wrapper for Reddit API](https://github.com/jReddit/jReddit)
+* [GitHub - Stengo-DeskPad- A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
+* [GitHub - astashov-liftosaur- Weightlifting tracker app for coders](https://github.com/astashov/liftosaur)
+* [simonw (Simon Willison) · GitHub](https://github.com/simonw)
+* [GitHub - nicanorflavier-spf-dkim-dmarc-simplified- Email security is a key part of internet communic…](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
+* [GitHub - remileduc-sherver- Pure Bash lightweight web server.](https://github.com/remileduc/sherver)
+* [GitHub - kentonv-lanparty- Netboot a fleet of desktop machines from a single base image](https://github.com/kentonv/lanparty)
+* [PrefectHQ-prefect- Prefect is a workflow orchestration framework for building resilient data pipelin…](https://github.com/PrefectHQ/prefect)
+* [GitHub - opendialogai-opendialog- OpenDialog is a Conversational Experience Platform - the starting …](https://github.com/opendialogai/opendialog)
+* [GitHub - harsxv-tinystatus- Tiny status page generated by a Python script](https://github.com/harsxv/tinystatus)
+* [GitHub - JozefJarosciak-AWS-Connect-Manager- Windows tool for connecting to AWS EC2 instances using …](https://github.com/JozefJarosciak/AWS-Connect-Manager)
+* [GitHub - aws-samples:iot-analytics-athena-ddb](https://github.com/aws-samples/iot-analytics-athena-ddb)
+* [GitHub - BuzonIO-zipfly- Writing large ZIP archives without memory inflation](https://github.com/BuzonIO/zipfly)
+* [GitHub - EdiNation-OpenEDI-Specification- The OpenEDI Specification defines a standard, language-agn…](https://github.com/EdiNation/OpenEDI-Specification)
+* [abbot:go-http-auth- Basic and Digest HTTP Authentication for golang http](https://github.com/abbot/go-http-auth)
+* [adminkit:adminkit- AdminKit is a free & open-source HTML dashboard & admin template based on Bootstrap 5](https://github.com/adminkit/adminkit)
+* [archey-osx-archey at master · obihann-archey-osx · GitHub](https://github.com/obihann/archey-osx/blob/master/bin/archey)
+* [adityatelange:hugo-PaperMod- A fast, clean, responsive Hugo theme](https://github.com/adityatelange/hugo-PaperMod)
+* [shiroyasha-blog-source- Personal blog source](https://github.com/shiroyasha/blog-source)
+* [gs-rest-service-GreetingController.java at master · spring-guides-gs-rest-service](https://github.com/spring-guides/gs-rest-service/blob/master/complete/src/main/java/hello/GreetingController.java)
+* [shellharden-how_to_do_things_safely_in_bash.md at master · anordal-shellharden](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
+* [GitHub - laraveli-qr-code](https://github.com/laraveli/qr-code)
+* [GitHub - geerlingguy-internet-pi- Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
+* [LukasJoswiak:etch- A simple, responsive writing theme for Hugo](https://github.com/LukasJoswiak/etch)
+* [GitHub Issues · Project planning for developers · GitHub](https://github.com/features/issues)
+* [GitHub - drduh-YubiKey-Guide- Guide to using YubiKey as a SmartCard for GPG and SSH](https://github.com/drduh/YubiKey-Guide#22-install---macos)
+* [GitHub - queer-boxxy- boxxy puts bad Linux applications in a box with only their files.](https://github.com/queer/boxxy)
+* [python-training-notebooks at main · jpmorganchase-python-training · GitHub](https://github.com/jpmorganchase/python-training/tree/main/notebooks)
+* [GitHub - dylanaraps-neofetch- 🖼️ A command-line system information tool written in bash 3.2+](https://github.com/dylanaraps/neofetch)
+* [GitHub - woltapp-wolt-python-package-cookiecutter- Cookiecutter for rapidly creating modern & high-q…](https://github.com/woltapp/wolt-python-package-cookiecutter)
+* [ansible_role_gitea-debian.yml at main · roles-ansible-ansible_role_gitea · GitHub](https://github.com/roles-ansible/ansible_role_gitea/blob/main/vars/debian.yml)
+* [makefile-for-monorepos-Makefile at master · enspirit-makefile-for-monorepos · GitHub](https://github.com/enspirit/makefile-for-monorepos/blob/master/Makefile)
+* [GitHub - quarylabs-quary- Open-source BI for engineers](https://github.com/quarylabs/quary)
+* [maverick-assets-scss-styles.scss at main · canhtran-maverick · GitHub](https://github.com/canhtran/maverick/blob/main/assets/scss/styles.scss)
+* [GitHub - geerlingguy-ansible-for-devops- Ansible for DevOps examples](https://github.com/geerlingguy/ansible-for-devops)
+* [GitHub - vijaykothareddy-Data-Engineering- Code for my blogs on Data Engineering](https://github.com/vijaykothareddy/Data-Engineering)
+* [GitHub - kozakdenys-qr-code-styling- Automaticly generate your styled QR code in your web app.](https://github.com/kozakdenys/qr-code-styling)
+* [awesome-selfhosted:awesome-selfhosted- A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [csv-to-dynamodb:CSVToDynamo.template at master · aws-samples:csv-to-dynamodb · GitHub](https://github.com/aws-samples/csv-to-dynamodb/blob/master/CloudFormation/CSVToDynamo.template)
+* [dotfiles-config at master · dikiaap-dotfiles](https://github.com/dikiaap/dotfiles/blob/master/.i3/config)
+* [GitHub - SkullTech-aws-solutions-architect-associate-notes- My notes for AWS Solutions Architect Ass…](https://github.com/SkullTech/aws-solutions-architect-associate-notes)
+* [GitHub - MohamedYoussouf-Design-Resources- A curated list of design resources from design templates,…](https://github.com/MohamedYoussouf/Design-Resources)
+* [GitHub - sinatra-sinatra- Classy web-development dressed in a DSL (official - canonical repo)](https://github.com/sinatra/sinatra)
+* [GitHub - revarbat-snappy-reprap- The world's most 3D printable 3D printer. (Guinness Book of World R…](https://github.com/revarbat/snappy-reprap)
+* [dotfiles-.macos at main · mathiasbynens-dotfiles](https://github.com/mathiasbynens/dotfiles/blob/main/.macos)
+* [will127534-RaspberryPiAtomicNixieClock](https://github.com/will127534/RaspberryPiAtomicNixieClock)
+* [GitHub - CoorpAcademy-aws-batch-triggering-lambda- AWS Batch Trigger Lambda [ARCHIVED](pre serverles…](https://github.com/CoorpAcademy/aws-batch-triggering-lambda)
+* [sinatra-compass-compass.rb at master · rkh-sinatra-compass · GitHub](https://github.com/rkh/sinatra-compass/blob/master/lib/sinatra/compass.rb)
+* [GitHub - public-apis-public-apis- A collective list of free APIs for use in software and web develop…](https://github.com/public-apis/public-apis#finance)
+* [GitHub - gavv-pull-request-artifacts- GitHub Action to post build artifacts in PR comments](https://github.com/gavv/pull-request-artifacts)
+* [GitHub - shrinerb-shrine- File Attachment toolkit for Ruby applications](https://github.com/shrinerb/shrine)
+* [datastation-runner-cmd-dsq at main · multiprocessio-datastation · GitHub](https://github.com/multiprocessio/datastation/tree/main/runner/cmd/dsq)
+* [rblanchardbell-rblscan](https://github.com/rblanchardbell/rblscan)
+* [GitHub - glanceapp-glance- A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
+* [apache:incubator-pegasus- Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store](https://github.com/apache/incubator-pegasus)
+* [GitHub - bigprof-software-online-rental-property-manager- Manage your rental properties, units, appl…](https://github.com/bigprof-software/online-rental-property-manager)
 
 
 [Back to Top]()
 ### github.community
 
-* [Set environment variable based on git branch - Code to Cloud - GitHub Actions - GitHub Community](https://github.community/t/set-environment-variable-based-on-git-branch/17105/9)
 * [ENV interpolation within actions - Code to Cloud - GitHub Actions - GitHub Community](https://github.community/t/env-interpolation-within-actions/120196/2)
+* [Set environment variable based on git branch - Code to Cloud - GitHub Actions - GitHub Community](https://github.community/t/set-environment-variable-based-on-git-branch/17105/9)
 
 
 [Back to Top]()
@@ -2567,6 +2909,12 @@
 ### gocolonial.com
 
 * [Buying Your First Home](https://www.gocolonial.com/Pages/HomeLoans/HomeLoans%E2%80%93BuyingYourFirstHome.aspx)
+
+
+[Back to Top]()
+### godlybible.com
+
+* [Prayer Journal Listicle Version 3 – Godly Bible](https://godlybible.com/pages/prayer-journal-listicle-ver-3?ad_id=120205143180550154&audience=new_customer&campaign_id=120205141847340154&fbadid=120205143180550154&utm_campaign=TOFU%20%7C%20Cost%20Cap%20%7C%20Prayer%20Journal%201%20-%20Mix%20Creatives%20Campaign&utm_content=Prayer%20Journal%20-%20Short%2011s%20-%20NNRZ01127882LQ%20Calmed%20my%20temper%20be%20better%20parent&utm_medium=paid&utm_source=facebook&utm_term=TOFU%20%7C%20Cost%20Cap%20%7C%20Prayer%20Journal%201%20-%20Mix%20Creatives%20Ad%20set)
 
 
 [Back to Top]()
@@ -2633,6 +2981,12 @@
 ### greatfon.com
 
 * [Instagram viewer online - Profiles, stories, followers, tagged posts for free and private](https://greatfon.com/)
+
+
+[Back to Top]()
+### grillrescue.com
+
+* [Grill Brush w- Scraper | The best grill brush | Rescue](https://grillrescue.com/products/grill-brush-w-scraper)
 
 
 [Back to Top]()
@@ -2703,9 +3057,21 @@
 
 
 [Back to Top]()
+### halfdaytravel.com
+
+* [Why Halfday](https://halfdaytravel.com/pages/why-halfday)
+
+
+[Back to Top]()
 ### handsontable.com
 
 * [JavaScript Data Grid - Documentation | Handsontable](https://handsontable.com/docs/javascript-data-grid/)
+
+
+[Back to Top]()
+### hanksbelts.com
+
+* [Quality Leather Goods| Authentic American-Made Belts for Men & Women - Hanks Belts](https://www.hanksbelts.com/collections/all?utm_source=facebook&utm_medium=paid&utm_campaign=05+%7C+Prospecting+%7C+DMA&utm_term=Old+music+%28classic+Rock%29&utm_content=Single+3+-+Evergreen+-+7%2F24%2F24+-+Copy+2&fbadid=6634821509727&campaign_id=6498889380127&ad_id=6634821691727)
 
 
 [Back to Top]()
@@ -2736,8 +3102,8 @@
 [Back to Top]()
 ### help.github.com
 
-* [Workflow syntax for GitHub Actions - GitHub Help](https://help.github.com/en/articles/workflow-syntax-for-github-actions)
 * [Workflow syntax for GitHub Actions - GitHub Help](https://help.github.com/en/articles/workflow-syntax-for-github-actions#jobsjob_idstrategymatrix)
+* [Workflow syntax for GitHub Actions - GitHub Help](https://help.github.com/en/articles/workflow-syntax-for-github-actions)
 
 
 [Back to Top]()
@@ -2833,8 +3199,8 @@
 [Back to Top]()
 ### humblebundle.com
 
-* [Humble Book Bundle- Math for Programmers by Manning Publications (pay what you want and help charity…](https://www.humblebundle.com/books/math-for-programmers-manning-publications-books?partner=asphero)
 * [Humble Book Bundle- Python Programming by No Starch Press (pay what you want and help charity)](https://www.humblebundle.com/books/python-programming-no-starch-books?partner=hotdeals)
+* [Humble Book Bundle- Math for Programmers by Manning Publications (pay what you want and help charity…](https://www.humblebundle.com/books/math-for-programmers-manning-publications-books?partner=asphero)
 
 
 [Back to Top]()
@@ -2911,6 +3277,18 @@
 
 
 [Back to Top]()
+### incase.com
+
+* [MacBook Hardshells – Incase.com](https://www.incase.com/pages/hardshells)
+
+
+[Back to Top]()
+### indiegogo.com
+
+* [GRIDLOCK- A Revolutionary Portable Workbench | Indiegogo](https://www.indiegogo.com/projects/gridlock-a-revolutionary-portable-workbench?utm_medium=paid&utm_id=120210927977470539&utm_content=120211054581570539&utm_campaign=120210927977470539&utm_term=120211054581560539&utm_source=ig#/)
+
+
+[Back to Top]()
 ### infoworld.com
 
 * [Complexity is killing software developers | InfoWorld](https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html)
@@ -2953,6 +3331,12 @@
 
 
 [Back to Top]()
+### ipdx.co
+
+* [Changelog Driven Releases — Save time and mental overhead](https://www.ipdx.co/articles/guides-articles/ipdx-recipe-how-we-saved-time-and-mental-overhead-with-changelog-driven-releases)
+
+
+[Back to Top]()
 ### isapplesiliconready.com
 
 * [List of apps with native Apple silicon support](https://isapplesiliconready.com/for/m1)
@@ -2976,8 +3360,8 @@
 
 * [Improving design systems with SOLID principles. Part I- Separation of Concerns | by Ismayil Khayredi…](https://itnext.io/improving-design-systems-with-solid-principles-part-i-separation-of-concerns-c14088ed09c3)
 * [Dependency Injection in Python. Building flexible and testable… | by Patrick Kalkman | Apr, 2023 | I…](https://itnext.io/dependency-injection-in-python-a1e56ab8bdd0)
-* [Linux Touchpad Gestures](https://itnext.io/linux-touchpad-gestures-2f0179d6e5b0)
 * [Monitor Asus router with webhooks | ITNEXT](https://itnext.io/monitor-your-asus-router-in-python-171693465fc1)
+* [Linux Touchpad Gestures](https://itnext.io/linux-touchpad-gestures-2f0179d6e5b0)
 
 
 [Back to Top]()
@@ -3002,6 +3386,12 @@
 ### jackrutorial.com
 
 * [Creating a Web Application With Spring 4 MVC Example for User Signup, Login and Logout with Password…](https://www.jackrutorial.com/2018/01/creating-a-web-application-with-spring-4-mvc-example-for-user-signup-login-and-logout-with-password-encoder-using-eclipse-mysql-database.html)
+
+
+[Back to Top]()
+### jarosz.dev
+
+* [Writing secure Go code | Jakub Jarosz](https://jarosz.dev/article/writing-secure-go-code/)
 
 
 [Back to Top]()
@@ -3037,9 +3427,9 @@
 [Back to Top]()
 ### jeffgeerling.com
 
-* [Monitor your Internet with a Raspberry Pi | Jeff Geerling](https://www.jeffgeerling.com/blog/2021/monitor-your-internet-raspberry-pi)
 * [Set a static IP address with nmtui on Raspberry Pi OS 12 'Bookworm' | Jeff Geerling](https://www.jeffgeerling.com/blog/2024/set-static-ip-address-nmtui-on-raspberry-pi-os-12-bookworm)
 * [Monitoring my home's air quality (CO2, PM2.5, Temp-Humidity) with AirGradient's DIY sensor | Jeff Ge…](https://www.jeffgeerling.com/blog/2021/airgradient-diy-air-quality-monitor-co2-pm25)
+* [Monitor your Internet with a Raspberry Pi | Jeff Geerling](https://www.jeffgeerling.com/blog/2021/monitor-your-internet-raspberry-pi)
 
 
 [Back to Top]()
@@ -3094,14 +3484,20 @@
 [Back to Top]()
 ### joshwcomeau.com
 
-* [An Interactive Guide to Flexbox in CSS](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 * [Why My Blog is Closed-Source](https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/)
+* [An Interactive Guide to Flexbox in CSS](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 
 
 [Back to Top]()
 ### journal.stuffwithstuff.com
 
 * [What Color is Your Function? – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+
+
+[Back to Top]()
+### joybos.com
+
+* [Joybos® Heavy Duty Foldable Metal Organizer Shelves with Wheels](https://joybos.com/products/joybos%c2%ae-heavy-duty-foldable-metal-organizer-shelves-with-wheels?variant=45271271375128)
 
 
 [Back to Top]()
@@ -3129,6 +3525,12 @@
 
 
 [Back to Top]()
+### karelite.com
+
+* [CornerLocks®-Positioning Clamping Squares – KareLite](https://karelite.com/products/corner)
+
+
+[Back to Top]()
 ### karizma-preview.netlify.app
 
 * [Karizma - Modern vCard - Resume - CV - Portfolio](https://karizma-preview.netlify.app/index_default)
@@ -3143,14 +3545,20 @@
 [Back to Top]()
 ### kinsteadmckinney.com
 
-* [Apt For Rent In McKinney, TX | Kinstead McKinney Apartments](https://kinsteadmckinney.com/gallery/)
 * [A4 | 2 Bedroom Apts McKinney, TX | Kinstead Mckinney Apartments](https://kinsteadmckinney.com/floorplans/a4/)
+* [Apt For Rent In McKinney, TX | Kinstead McKinney Apartments](https://kinsteadmckinney.com/gallery/)
 
 
 [Back to Top]()
 ### kit.svelte.dev
 
 * [Docs • SvelteKit](https://kit.svelte.dev/docs)
+
+
+[Back to Top]()
+### kmtools.com
+
+* [The Katz-Moses Universal No Deflection Stop Block - VERSION 2.0.1](https://kmtools.com/products/the-katz-moses-universal-no-deflection-stop-block-version-2-0-1)
 
 
 [Back to Top]()
@@ -3169,6 +3577,27 @@
 ### kotlinlang.org
 
 * [Creating a RESTful Web Service with Spring Boot - Kotlin Programming Language](https://kotlinlang.org/docs/tutorials/spring-boot-restful.html)
+
+
+[Back to Top]()
+### kregtool.com
+
+* [Kreg Custom Woodworking Benches | KregTool.com Official Store](https://www.kregtool.com/shop/workspace/bench-systems/)
+* [Kreg® Pocket-Hole Jig 520PRO | KregTool.com Official Store](https://www.kregtool.com/shop/pocket-hole-joinery/pocket-hole-jigs/kreg-pocket-hole-jig-520pro/KPHJ520PRO.html)
+* [Kreg Track Saw Cutting & Track Saw Kits | KregTool.com Official Store](https://www.kregtool.com/shop/cutting/track-saw-cutting/)
+* [Kreg Accu-Cut™ XL Circular Saw Guide | KregTool.com Official Store](https://www.kregtool.com/shop/cutting/circular-saw-cutting/accu-cut-xl/KMA3700.html)
+
+
+[Back to Top]()
+### kuxiu.co
+
+* [KUXIU X40 3-in-1 Foldable Magnetic Wireless Charging Station - Gray](https://kuxiu.co/products/kuxiu-x40-stand-gray)
+
+
+[Back to Top]()
+### lackofimagination.org
+
+* [Avoiding if-else Hell- The Functional Style](https://lackofimagination.org/2024/09/avoiding-if-else-hell-the-functional-style/)
 
 
 [Back to Top]()
@@ -3229,6 +3658,12 @@
 ### lenovo.com
 
 * [ThinkPad Z16 AMD (16″) Lenovo US](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadz/thinkpad-z16-(16-inch-amd)/21d4000kus)
+
+
+[Back to Top]()
+### letsjelly.com
+
+* [Jelly- The best way to jam on email as a team](https://letsjelly.com/#why-jelly)
 
 
 [Back to Top]()
@@ -3312,6 +3747,12 @@
 
 
 [Back to Top]()
+### littlestplanet.com
+
+* [🔥Last Day 49% OFF-Innovative Rafter Square Tool](https://littlestplanet.com/products/innovative-rafter-square-tool)
+
+
+[Back to Top]()
 ### liveatbrady.com
 
 * [Luxury Apartment Rentals at Brady in Dallas, TX](https://liveatbrady.com/)
@@ -3354,6 +3795,19 @@
 
 
 [Back to Top]()
+### lowes.com
+
+* [Klein Tools MODbox 16.4-in W x 14.4-in H x 22.3-in D 3-Drawer Multiple Colors-Finishes Plastic-Metal…](https://www.lowes.com/pd/Klein-Tools-MODbox-TM-Three-Drawer-Toolbox/5015154447)
+* [Modbox at Lowes.com- Search Results](https://www.lowes.com/search?searchTerm=modbox)
+
+
+[Back to Top]()
+### lowstresslife.store
+
+* [Biweekly Paycheck Budget GoogleSheets Spreadsheet | Dark Mode – LowStressLife](https://lowstresslife.store/products/biweekly-paycheck-budget-googlesheets-spreadsheet-dark-mode?utm_content=Facebook_UA&utm_source=facebook&variant=48634951827800&utm_medium=paid&campaign_id=120211422121060388&ad_id=120211422121110388)
+
+
+[Back to Top]()
 ### lucasfcosta.com
 
 * [How to replace estimations and guesses with a Monte Carlo simulation](https://lucasfcosta.com/2021/09/20/monte-carlo-forecasts.html)
@@ -3363,6 +3817,12 @@
 ### luminousmen.com
 
 * [Big Data file formats](https://luminousmen.com/post/big-data-file-formats)
+
+
+[Back to Top]()
+### m.sakerplus.com
+
+* [Saker Mini Multi-Functional Table Saw New Checkout](https://m.sakerplus.com/funnel/checkout-mini-table-saw?utm_source=fb&utm_medium=120213059062880057&utm_campaign=Conversion_%E8%BF%B7%E4%BD%A0%E5%8F%B0%E9%94%AF%E9%A1%B6%E9%85%8D%E6%AC%BE_MSP_shy_1012&utm_term=120213059062850057&utm_content=120213059109730057)
 
 
 [Back to Top]()
@@ -3402,6 +3862,12 @@
 
 
 [Back to Top]()
+### magneticbagcompany.com
+
+* [Magnetic Collection – MAGNETIC BAG COMPANY](https://magneticbagcompany.com/collections/frontpage)
+
+
+[Back to Top]()
 ### mailcatcher.me
 
 * [MailCatcher](https://mailcatcher.me/)
@@ -3416,8 +3882,8 @@
 [Back to Top]()
 ### manchesterstatethomas.com
 
-* [Manchester State Thomas is a pet-friendly apartment community in Dallas, TX](https://manchesterstatethomas.com/)
 * [Luxury rentals in Dallas, TX | Manchester State Thomas 2](https://manchesterstatethomas.com/gallery/)
+* [Manchester State Thomas is a pet-friendly apartment community in Dallas, TX](https://manchesterstatethomas.com/)
 
 
 [Back to Top]()
@@ -3442,8 +3908,8 @@
 ### markodenic.com
 
 * [CSS Tips - Marko Denic - Web Developer](https://markodenic.com/css-tips/)
-* [HTML Tips - Marko Denic - Web Developer](https://markodenic.com/html-tips/)
 * [CSS Generators - Marko Denic - Web Developer](https://markodenic.com/css-generators/)
+* [HTML Tips - Marko Denic - Web Developer](https://markodenic.com/html-tips/)
 
 
 [Back to Top]()
@@ -3465,6 +3931,12 @@
 
 
 [Back to Top]()
+### masterhowtolearn.com
+
+* [Incremental Reading- Reading 10 Books at the Same Time - Master How To Learn](https://www.masterhowtolearn.com/2021-02-13-incremental-reading-reading-10-books-at-the-same-time/)
+
+
+[Back to Top]()
 ### mathsisfun.com
 
 * [Compound Interest](http://www.mathsisfun.com/money/compound-interest.html)
@@ -3474,6 +3946,12 @@
 ### matthewsetter.com
 
 * [Setup Step Debugging in PHP with Xdebug 3 and Docker Compose - Matthew Setter](https://matthewsetter.com/setup-step-debugging-php-xdebug3-docker/)
+
+
+[Back to Top]()
+### maxbo.me
+
+* [Reactive HTML notebooks ⋅ Max Bo](https://maxbo.me/a-html-file-is-all-you-need.html)
 
 
 [Back to Top]()
@@ -3491,25 +3969,26 @@
 [Back to Top]()
 ### medium.com
 
-* [9 Python Built-In Decorators That Optimize Your Code Significantly | by Yang Zhou | TechToFreedom | Medium](https://medium.com/techtofreedom/9-python-built-in-decorators-that-optimize-your-code-significantly-bc3f661e9017)
-* [Getting Started with Go- Project Structure | by Mike Dyne | Evendyne | Medium](https://medium.com/evendyne/getting-started-with-go-project-structure-ab8814ded9c3)
-* [Speed up your site with a little machine learning – Hacker Noon](https://medium.com/@david.gilbertson/speed-up-your-site-with-a-little-machine-learning-fa9eb7c86dbb)
-* [Easy peasy RabbitMQ squeezy - Syed Sirajul Islam Anik - Medium](https://medium.com/@sirajul.anik/easy-peasy-rabbitmq-squeezy-820b1c632465)
-* [7 GitHub Integrations for Monorepo | by Tianhao Zhou | An Idea (by Ingenious Piece) | Medium](https://medium.com/an-idea/7-github-integrations-for-monorepo-695e6a526a5e)
-* [AWS VPC Demystified- Best Practices for Effective Design | by J.Mic Mico | Multi-Cloud Networking, T…](https://medium.com/multi-cloud-networking-netdevops/aws-vpc-demystified-best-practices-for-effective-design-d68a0cb22388)
-* [Processing Large S3 Files With AWS Lambda | by HangC | The Startup | Medium](https://medium.com/swlh/processing-large-s3-files-with-aws-lambda-2c5840ae5c91)
-* [How to Structure Your Project in Golang- The Backend Developer’s Guide | by inDrive.Tech | Geek Cult…](https://medium.com/geekculture/how-to-structure-your-project-in-golang-the-backend-developers-guide-31be05c6fdd9)
-* [Ansible, Bastion Host, ProxyCommand | by Paul Skarseth | Medium](https://medium.com/@paulskarseth/ansible-bastion-host-proxycommand-e6946c945d30)
-* [AWS STS for the People. AWS STS for the Hobbyist and Tinkerer | by jesse taylor | Code Securing Code…](https://medium.com/code-securing-code/aws-sts-for-the-people-76821eabe383)
-* [Real-Time Data Streaming with Python + AWS Kinesis — How To… (part 1) | by Tom Thornton | The Startup | Medium](https://medium.com/swlh/real-time-data-streaming-with-python-aws-kinesis-how-to-part-1-cd56feb6fd0f)
+* [AWS S3 Batch Operations- Beginner’s Guide – poka-techblog – Medium](https://medium.com/poka-techblog/aws-s3-batch-operations-beginners-guide-9573017f18db)
 * [JavaScript — Make your Code Cleaner with Decorators – Frontend W](https://medium.com/front-end-hacking/javascript-make-your-code-cleaner-with-decorators-d34fc72af947)
 * [Configuring Github Actions in a multi-directory repository structure | by Owumi Festus | Jul, 2021 |…](https://medium.com/@owumifestus/configuring-github-actions-in-a-multi-directory-repository-structure-c4d2b04e6312)
+* [9 Python Built-In Decorators That Optimize Your Code Significantly | by Yang Zhou | TechToFreedom | Medium](https://medium.com/techtofreedom/9-python-built-in-decorators-that-optimize-your-code-significantly-bc3f661e9017)
 * [Saving Email attachments fully automated to OneDrive | by Artur | Medium](https://medium.com/@arturl/saving-email-attachments-fully-automated-to-onedrive-1e8cc967b6ca)
-* [AWS S3 Batch Operations- Beginner’s Guide – poka-techblog – Medium](https://medium.com/poka-techblog/aws-s3-batch-operations-beginners-guide-9573017f18db)
-* [3 Java Lessons I Learned The Hard Way | by Miloš Živković | Javarevisited | Jul, 2021 | Medium](https://medium.com/javarevisited/3-java-lessons-i-learned-the-hard-way-8c10aa662273)
+* [Easy peasy RabbitMQ squeezy - Syed Sirajul Islam Anik - Medium](https://medium.com/@sirajul.anik/easy-peasy-rabbitmq-squeezy-820b1c632465)
+* [Processing Large S3 Files With AWS Lambda | by HangC | The Startup | Medium](https://medium.com/swlh/processing-large-s3-files-with-aws-lambda-2c5840ae5c91)
+* [7 GitHub Integrations for Monorepo | by Tianhao Zhou | An Idea (by Ingenious Piece) | Medium](https://medium.com/an-idea/7-github-integrations-for-monorepo-695e6a526a5e)
 * [Google Interview Problems- Ratio Finder - Alex Golec - Medium](https://medium.com/@alexgolec/google-interview-problems-ratio-finder-d7aa8bf201e3)
 * [JavaScript — Make your Code Cleaner with Decorators – Frontend W](https://medium.com/front-end-hacking/javascript-make-your-code-cleaner-with-decorators-d34fc72af947#.9u0cl7mtj)
+* [3 Java Lessons I Learned The Hard Way | by Miloš Živković | Javarevisited | Jul, 2021 | Medium](https://medium.com/javarevisited/3-java-lessons-i-learned-the-hard-way-8c10aa662273)
+* [AWS STS for the People. AWS STS for the Hobbyist and Tinkerer | by jesse taylor | Code Securing Code…](https://medium.com/code-securing-code/aws-sts-for-the-people-76821eabe383)
 * [Scrapy and BeautifulSoup web crawler tutorial for ASP.NET based web forms | by Simran Pandey | Mediu…](https://medium.com/@simranpandey97/web-scraper-for-aspx-form-based-webpages-b8828085e4a2)
+* [Real-Time Data Streaming with Python + AWS Kinesis — How To… (part 1) | by Tom Thornton | The Startup | Medium](https://medium.com/swlh/real-time-data-streaming-with-python-aws-kinesis-how-to-part-1-cd56feb6fd0f)
+* [AWS VPC Demystified- Best Practices for Effective Design | by J.Mic Mico | Multi-Cloud Networking, T…](https://medium.com/multi-cloud-networking-netdevops/aws-vpc-demystified-best-practices-for-effective-design-d68a0cb22388)
+* [How to Structure Your Project in Golang- The Backend Developer’s Guide | by inDrive.Tech | Geek Cult…](https://medium.com/geekculture/how-to-structure-your-project-in-golang-the-backend-developers-guide-31be05c6fdd9)
+* [Ansible, Bastion Host, ProxyCommand | by Paul Skarseth | Medium](https://medium.com/@paulskarseth/ansible-bastion-host-proxycommand-e6946c945d30)
+* [Kinesis Firehose GZIP compressed file to S3 bucket is uncompressed | by Rajat Chauhan | Medium](https://medium.com/@rajat-chn/kinesis-firehose-gzip-compressed-file-to-s3-bucket-is-uncompressed-d4e817070abf)
+* [Speed up your site with a little machine learning – Hacker Noon](https://medium.com/@david.gilbertson/speed-up-your-site-with-a-little-machine-learning-fa9eb7c86dbb)
+* [Getting Started with Go- Project Structure | by Mike Dyne | Evendyne | Medium](https://medium.com/evendyne/getting-started-with-go-project-structure-ab8814ded9c3)
 
 
 [Back to Top]()
@@ -3549,10 +4028,16 @@
 
 
 [Back to Top]()
+### metmo.co.uk
+
+* [MetMo Driver Collection | Shop Innovative screw drivers](https://www.metmo.co.uk/collections/metmo-driver)
+
+
+[Back to Top]()
 ### microcenter.com
 
-* [NZXT H210 Tempered Glass Mini-ITX Computer Case - Black - Micro Center](https://www.microcenter.com/product/607647/nzxt-h210-tempered-glass-mini-itx-computer-case-black)
 * [Kanto DMS2000 Dual Desk Mount for Monitors 17- 32 - Micro Center](https://www.microcenter.com/product/503856/kanto-dms2000-dual-desk-mount-for-monitors-17-32)
+* [NZXT H210 Tempered Glass Mini-ITX Computer Case - Black - Micro Center](https://www.microcenter.com/product/607647/nzxt-h210-tempered-glass-mini-itx-computer-case-black)
 
 
 [Back to Top]()
@@ -3571,6 +4056,12 @@
 ### mieleusa.com
 
 * [Welcome to Miele – Immer Besser](https://www.mieleusa.com/)
+
+
+[Back to Top]()
+### mindjournals.com
+
+* [5 Reasons Why Thousands of Men Are Using MindJournal - MindJournal](https://mindjournals.com/pages/5-reasons-to-journal)
 
 
 [Back to Top]()
@@ -3595,6 +4086,12 @@
 ### mmistakes.github.io
 
 * [Quick-Start Guide - Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+
+
+[Back to Top]()
+### mmmrecipes.com
+
+* [Sausage Egg and Cheese Breakfast Roll-Ups - MmmRecipes - Easy and Delicious Recipes](https://mmmrecipes.com/sausage-egg-and-cheese-breakfast-roll-ups/)
 
 
 [Back to Top]()
@@ -3667,8 +4164,8 @@
 [Back to Top]()
 ### news.ycombinator.com
 
-* [DevHub.app – Developer Utilities for macOS | Hacker News](https://news.ycombinator.com/item?id=41468841)
 * [My preferred .NET console stack | Hacker News](https://news.ycombinator.com/item?id=25792422)
+* [DevHub.app – Developer Utilities for macOS | Hacker News](https://news.ycombinator.com/item?id=41468841)
 
 
 [Back to Top]()
@@ -3678,10 +4175,22 @@
 
 
 [Back to Top]()
+### newthingslab.com
+
+* [MEMO | Whiteboard Wallet](https://newthingslab.com/products/memo-whiteboard-wallet-1)
+
+
+[Back to Top]()
+### newtonsfirstclothing.com
+
+* [Newton's First - Premium Big and Tall Athleisure Clothing](https://newtonsfirstclothing.com/)
+
+
+[Back to Top]()
 ### niels-design.com
 
-* [Lounge Chair & Ottoman Welnut, White Pigmented Leather Premium Snow - – Niels Design](https://niels-design.com/collections/all-products/products/lounge-chair-ottoman-welnut-white-pigmented-leather-premium-snow-niels-concept%C2%AE-1954)
 * [Niels Concept® - Since 1954 – Niels Design](https://niels-design.com/)
+* [Lounge Chair & Ottoman Welnut, White Pigmented Leather Premium Snow - – Niels Design](https://niels-design.com/collections/all-products/products/lounge-chair-ottoman-welnut-white-pigmented-leather-premium-snow-niels-concept%C2%AE-1954)
 
 
 [Back to Top]()
@@ -3697,8 +4206,28 @@
 
 
 [Back to Top]()
+### ntietz.com
+
+* [TIL- 8 versions of UUID and when to use them | nicole@web](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/)
+
+
+[Back to Top]()
+### obsproject.com
+
+* [Open Broadcaster Software | OBS](https://obsproject.com/)
+
+
+[Back to Top]()
+### offer.dinosaurized.com
+
+* [Dinosaur 3-in-1 Holster - Special Edition](https://offer.dinosaurized.com/dinosaur-holster?utm_source=facebook&utm_medium=paid&campaign_id=120211964521900041&ad_id=120211964521930041)
+
+
+[Back to Top]()
 ### officialtoolroll.com
 
+* [Official Tool Roll Legacy Bundle Sale](https://officialtoolroll.com/pages/legacysale)
+* [Tool Roll Sale](https://officialtoolroll.com/pages/tool-roll-sale)
 * [Tool Roll Sale – Official Tool Roll](https://officialtoolroll.com/pages/tool-roll-sale)
 
 
@@ -3706,6 +4235,12 @@
 ### online-learning.harvard.edu
 
 * [CS50- Introduction to Computer Science | Harvard University](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+
+
+[Back to Top]()
+### oonogear.com
+
+* [Oono Backpack V2 20L](https://www.oonogear.com/products/adventurepro-backpack-2)
 
 
 [Back to Top]()
@@ -3723,8 +4258,8 @@
 [Back to Top]()
 ### oreilly.com
 
-* [5. Mining Web Pages- Using Natural Language Processing to Understand Human Language, Summarize Blog …](https://www.oreilly.com/library/view/mining-the-social/9781449368180/ch05.html)
 * [4. Query Performance Optimization - High Performance MySQL, 2nd Edition [Book]](https://www.oreilly.com/library/view/high-performance-mysql/9780596101718/ch04.html)
+* [5. Mining Web Pages- Using Natural Language Processing to Understand Human Language, Summarize Blog …](https://www.oreilly.com/library/view/mining-the-social/9781449368180/ch05.html)
 
 
 [Back to Top]()
@@ -3734,9 +4269,27 @@
 
 
 [Back to Top]()
+### othemo.com
+
+* [5 Reasons Why Othemo Headband](https://othemo.com/pages/5-reasons-why-othemo-v3?utm_source=Facebook&utm_medium=ATC+-+IC+%3C+Purchase+%7C+I4&utm_campaign=CBO+%7C+RETARGETING+%7C+BIG+4&utm_content=I4.1&campaign_id=120209714988300279&ad_id=120212003197180279)
+
+
+[Back to Top]()
+### ourtruegod.com
+
+* [Yahweh Trucker Hats](https://www.ourtruegod.com/products/yahweh-trucker-hats)
+
+
+[Back to Top]()
 ### overlandgrove.com
 
 * [Gallery - Overland Grove - Overland Grove](https://overlandgrove.com/gallery/)
+
+
+[Back to Top]()
+### owickstrom.github.io
+
+* [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 
 
 [Back to Top]()
@@ -3752,10 +4305,16 @@
 
 
 [Back to Top]()
+### paper-republic.com
+
+* [embossed leather journals & covers – paper republic](https://www.paper-republic.com/en-us/collections/leather-journals)
+
+
+[Back to Top]()
 ### parkerplano.com
 
-* [— The Parker](https://www.parkerplano.com/floorplans.php)
 * [Upscale Townhome Apartments in Plano — The Parker](https://www.parkerplano.com/)
+* [— The Parker](https://www.parkerplano.com/floorplans.php)
 
 
 [Back to Top]()
@@ -3779,12 +4338,18 @@
 [Back to Top]()
 ### pcpartpicker.com
 
-* [PC Builder - AMD Ryzen 7 3800X, Antec P110 Silent ATX Mid Tower - PCPartPicker](https://pcpartpicker.com/list/pg3Xk9)
+* [System Builder - Ryzen 9 5950X 3.4 GHz 16-Core, GeForce GTX 970 4 GB GAMING, Air 540 ATX Mid Tower -…](https://pcpartpicker.com/list/2r2k3Z)
+* [Magnificent AMD Gaming-Streaming Build - PCPartPicker](https://pcpartpicker.com/guide/QHTwrH/magnificent-amd-gamingstreaming-build)
 * [PC Builder - AMD Ryzen 7 3800X, Fractal Design Meshify S2 ATX Mid Tower - PCPartPicker](https://pcpartpicker.com/list/QjGshk)
 * [System Builder - Ryzen 9 5900X 3.7 GHz 12-Core - PCPartPicker](https://pcpartpicker.com/list/2s3y68)
-* [Magnificent AMD Gaming-Streaming Build - PCPartPicker](https://pcpartpicker.com/guide/QHTwrH/magnificent-amd-gamingstreaming-build)
 * [System Builder - Ryzen 5 3400G 3.7 GHz Quad-Core, Define Mini C MicroATX Mid Tower - PCPartPicker](https://pcpartpicker.com/list/DbLLmk)
-* [System Builder - Ryzen 9 5950X 3.4 GHz 16-Core, GeForce GTX 970 4 GB GAMING, Air 540 ATX Mid Tower -…](https://pcpartpicker.com/list/2r2k3Z)
+* [PC Builder - AMD Ryzen 7 3800X, Antec P110 Silent ATX Mid Tower - PCPartPicker](https://pcpartpicker.com/list/pg3Xk9)
+
+
+[Back to Top]()
+### pecosoutdoor.com
+
+* [Portable Outdoor Tables | PECOS Outdoor](https://pecosoutdoor.com/)
 
 
 [Back to Top]()
@@ -3832,15 +4397,21 @@
 [Back to Top]()
 ### pinterest.com
 
+* [Shipping Container Homes | Container House Design Container House (containerhacker) - Profile | Pint…](https://www.pinterest.com/containerhacker/)
+* [DIY Battery Charging Station - Field Treasure Designs in 2021 | Battery charging station, Tool stora…](https://www.pinterest.com/pin/307159637095759848/)
+* [FitnessHacks101 on Twitter | Gladiator workout, Fitness body, Superhero workout](https://www.pinterest.com/pin/733805333026442159/)
+* [Staircase Design | How to Calculate Number of Riser and Treads of Staircase? in 2021 | Stair plan, S…](https://www.pinterest.com/pin/135037688817506173/)
 * [Power Tool Cabinet | Tool storage diy, Power tool storage, Tool storage cabinets](https://www.pinterest.com/pin/485614772318013418/)
 * [40 Fantastic Wooden Furniture Design Ideas That Wont Disappoint You | Wood furniture design, Pallet …](https://www.pinterest.com/pin/367817494573274302/)
-* [DIY Battery Charging Station - Field Treasure Designs in 2021 | Battery charging station, Tool stora…](https://www.pinterest.com/pin/307159637095759848/)
-* [Shipping Container Homes | Container House Design Container House (containerhacker) - Profile | Pint…](https://www.pinterest.com/containerhacker/)
-* [Staircase Design | How to Calculate Number of Riser and Treads of Staircase? in 2021 | Stair plan, S…](https://www.pinterest.com/pin/135037688817506173/)
-* [FitnessHacks101 on Twitter | Gladiator workout, Fitness body, Superhero workout](https://www.pinterest.com/pin/733805333026442159/)
-* [Pinterest](https://www.pinterest.com/pin/537195061813531764/visual-search/?x=16y=16w=516h=653)
-* [11 Apartment ideas | pallet diy, pallet patio furniture, apartment decorating on a budget](https://www.pinterest.com/alejandraasdfghjkl/apartment-ideas/)
 * [Pinterest 2](https://www.pinterest.com/)
+* [11 Apartment ideas | pallet diy, pallet patio furniture, apartment decorating on a budget](https://www.pinterest.com/alejandraasdfghjkl/apartment-ideas/)
+* [Pinterest](https://www.pinterest.com/pin/537195061813531764/visual-search/?x=16y=16w=516h=653)
+
+
+[Back to Top]()
+### pipevise.com
+
+* [The Micro Stubby (SW72-19). Pouch Included. – Pipe Vise](https://pipevise.com/products/the-micro-stubby-sw72-19-pouch-included)
 
 
 [Back to Top]()
@@ -3898,18 +4469,30 @@
 
 
 [Back to Top]()
+### practiko.co
+
+* [OTIS HANGER 3.0 | PRACTIKO](https://www.practiko.co/product-page/otis-hanger-3-0-1)
+
+
+[Back to Top]()
 ### prepcision.com
 
 * [PREPCISION QUICKDRAW](https://prepcision.com/pages/prepcision)
 
 
 [Back to Top]()
+### presale.getbrighter.co
+
+* [Brighter Lamp](https://presale.getbrighter.co/)
+
+
+[Back to Top]()
 ### preview.themeforest.net
 
-* [Queue - Tailwind CSS Personal Portfolio Template Preview - ThemeForest](https://preview.themeforest.net/item/queue-tailwind-css-personal-portfolio-template/full_screen_preview/49667900)
-* [Erling - Tailwind CSS Personal Portfolio Template Preview - ThemeForest](https://preview.themeforest.net/item/erling-tailwind-css-personal-portfolio-template/full_screen_preview/50083534)
 * [Karizma - Modern vCard - Resume - CV - Portfolio HTML Template Preview - ThemeForest](https://preview.themeforest.net/item/karizma-modern-vcard-resume-cv-portfolio/full_screen_preview/22458480)
 * [Dennis - React Personal Portfolio Template Preview - ThemeForest](https://preview.themeforest.net/item/dennis-react-personal-portfolio-template/full_screen_preview/47534351)
+* [Erling - Tailwind CSS Personal Portfolio Template Preview - ThemeForest](https://preview.themeforest.net/item/erling-tailwind-css-personal-portfolio-template/full_screen_preview/50083534)
+* [Queue - Tailwind CSS Personal Portfolio Template Preview - ThemeForest](https://preview.themeforest.net/item/queue-tailwind-css-personal-portfolio-template/full_screen_preview/49667900)
 
 
 [Back to Top]()
@@ -3928,6 +4511,12 @@
 ### pubag.nal.usda.gov
 
 * [PubAg API Documentation](https://pubag.nal.usda.gov/apidocs/)
+
+
+[Back to Top]()
+### pukingball.com
+
+* [Puking Ball® – pukingball](https://pukingball.com/products/puking-ball-red-slime)
 
 
 [Back to Top]()
@@ -4009,6 +4598,12 @@
 
 
 [Back to Top]()
+### raycue.com
+
+* [RayCue 128K- Retro Style Multifunctional Dock w- Display](https://www.raycue.com/products/raycue-128k-retro-style-multifunctional-dock-w-display)
+
+
+[Back to Top]()
 ### rd.com
 
 * [How to Calculate Gas for a Road Trip — Cost of Gas for Trip](https://www.rd.com/article/calculate-gas-cost-for-trip/?trkid=soc-fhm-facebook)
@@ -4029,27 +4624,27 @@
 [Back to Top]()
 ### reddit.com
 
-* [Work From Home Setup (Software Developer) - macsetups](https://www.reddit.com/r/macsetups/comments/ai2w0u/work_from_home_setup_software_developer/)
-* [overview for secretlittle](https://www.reddit.com/user/secretlittle/)
-* [Left a job with two weeks notice and now they’re contacting me to ask for my computer login informat…](https://www.reddit.com/r/sysadmin/comments/qw1sqd/left_a_job_with_two_weeks_notice_and_now_theyre/)
-* [A couple years ago I got “hacked”. Crazy, right? - AdviceAnimals](https://www.reddit.com/r/AdviceAnimals/comments/b0de3g/a_couple_years_ago_i_got_hacked_crazy_right/)
 * [osmorgan](https://www.reddit.com/user/osmorgan)
+* [overview for secretlittle](https://www.reddit.com/user/secretlittle/)
+* [A couple years ago I got “hacked”. Crazy, right? - AdviceAnimals](https://www.reddit.com/r/AdviceAnimals/comments/b0de3g/a_couple_years_ago_i_got_hacked_crazy_right/)
+* [Left a job with two weeks notice and now they’re contacting me to ask for my computer login informat…](https://www.reddit.com/r/sysadmin/comments/qw1sqd/left_a_job_with_two_weeks_notice_and_now_theyre/)
+* [programming](https://www.reddit.com/r/programming/)
 * [Question on .html extension for static webpage on s3 - aws](https://www.reddit.com/r/aws/comments/crnihk/question_on_html_extension_for_static_webpage_on/)
 * [reddit- the front page of the internet](https://www.reddit.com/)
+* [Work From Home Setup (Software Developer) - macsetups](https://www.reddit.com/r/macsetups/comments/ai2w0u/work_from_home_setup_software_developer/)
 * [Dependency Injection in Python - r-programming](https://www.reddit.com/r/programming/comments/12ltrwr/dependency_injection_in_python/)
-* [programming](https://www.reddit.com/r/programming/)
 
 
 [Back to Top]()
 ### redfin.com
 
-* [3310 Kenwood Ct, Rowlett, TX 75089 | MLS# 20352431 | Redfin](https://www.redfin.com/TX/Rowlett/3310-Kenwood-Ct-75089/home/32001799)
-* [2909 Highwood Dr, Dallas, TX 75228 | MLS# 20365351 | Redfin](https://www.redfin.com/TX/Dallas/2909-Highwood-Dr-75228/home/31003642)
-* [3408 Jonquil Ln, Rowlett, TX 75089 | MLS# 20390433 | Redfin](https://www.redfin.com/TX/Rowlett/3408-Jonquil-Ln-75089/home/31997763)
-* [3505 Malinda Ln, Rowlett, TX 75088 | MLS# 20169143 | Redfin](https://www.redfin.com/TX/Rowlett/3505-Malinda-Ln-75088/home/32026756)
-* [5605 Highgate Ln, Rowlett, TX 75088 | MLS# 20388695 | Redfin](https://www.redfin.com/TX/Rowlett/5605-Highgate-Ln-75088/home/31994726)
 * [2517 Larkspur Ln, Rowlett, TX 75089 | MLS# 20383930 | Redfin](https://www.redfin.com/TX/Rowlett/2517-Larkspur-Ln-75089/home/31996317)
+* [3505 Malinda Ln, Rowlett, TX 75088 | MLS# 20169143 | Redfin](https://www.redfin.com/TX/Rowlett/3505-Malinda-Ln-75088/home/32026756)
+* [3408 Jonquil Ln, Rowlett, TX 75089 | MLS# 20390433 | Redfin](https://www.redfin.com/TX/Rowlett/3408-Jonquil-Ln-75089/home/31997763)
+* [5605 Highgate Ln, Rowlett, TX 75088 | MLS# 20388695 | Redfin](https://www.redfin.com/TX/Rowlett/5605-Highgate-Ln-75088/home/31994726)
+* [3310 Kenwood Ct, Rowlett, TX 75089 | MLS# 20352431 | Redfin](https://www.redfin.com/TX/Rowlett/3310-Kenwood-Ct-75089/home/32001799)
 * [3406 Orchid Ln, Rowlett, TX 75089 | MLS# 20369347 | Redfin](https://www.redfin.com/TX/Rowlett/3406-Orchid-Ln-75089/home/31998056)
+* [2909 Highwood Dr, Dallas, TX 75228 | MLS# 20365351 | Redfin](https://www.redfin.com/TX/Dallas/2909-Highwood-Dr-75228/home/31003642)
 * [9713 Glenshee Dr, Rowlett, TX 75089 | MLS# 20388928 | Redfin 2](https://www.redfin.com/TX/Rowlett/9713-Glenshee-Dr-75089/home/32028262)
 
 
@@ -4090,6 +4685,12 @@
 
 
 [Back to Top]()
+### repost.aws
+
+* [Store Athena query output in a different format | AWS re-Post](https://repost.aws/knowledge-center/athena-query-output-different-format)
+
+
+[Back to Top]()
 ### reprap.org
 
 * [Snappy - RepRap](https://reprap.org/wiki/Snappy)
@@ -4114,6 +4715,18 @@
 
 
 [Back to Top]()
+### rhinousainc.com
+
+* [Retractable Tie-Down Straps - Rhino USA](https://www.rhinousainc.com/collections/retractable?utm_source=facebook&utm_medium=cpc&utm_campaign=t11-l1l2l3l4l5-retractable-ratchet-straps-low-budget-temp-conv-cbo&utm_term=l1l2l3l4l5-int-bant-us-18up-mf-auto-dco-atv-nate-back-in-stock-viral-vid-lpc-pur-7d1d-071024+-+Copy&utm_content=dco-ultr-retractable-ratchet-straps-viral-vid-copy39-copy40-h02-h08-ctashop-lp1-atv-nate-maa-x&campaign_id=23856316982160132&adset_id=120209877106840133&ad_id=120209877106820133&nbt=nb%3Afb%3Aig%3A23856316982160132%3A120209877106840133%3A120209877106820133&nb_placement=Instagram_Stories&utm_id=23856316982160132)
+
+
+[Back to Top]()
+### rhoback.com
+
+* [Homepage | Rhoback](https://rhoback.com/)
+
+
+[Back to Top]()
 ### ridgewallet.com
 
 * [The Ridge Wallet- Slim, RFID blocking metal wallet.](https://www.ridgewallet.com)
@@ -4128,8 +4741,8 @@
 [Back to Top]()
 ### risingracks.com
 
-* [Wall-Mount Enclosures | Buy server racks | Raising Electronics](https://risingracks.com/wall-mount-enclosures/)
 * [Raising Electronics 18U Wall Mount Network Server Cabinet Rack Enclosure Ventilated Door Lock 22.75](https://risingracks.com/raising-electronics-18u-wall-mount-network-server-cabinet-rack-enclosure-ventilated-door-lock-22-75-depth/)
+* [Wall-Mount Enclosures | Buy server racks | Raising Electronics](https://risingracks.com/wall-mount-enclosures/)
 
 
 [Back to Top]()
@@ -4157,9 +4770,24 @@
 
 
 [Back to Top]()
+### ryanmulligan.dev
+
+* [CSS @property and the New Style](https://ryanmulligan.dev/blog/css-property-new-style/)
+
+
+[Back to Top]()
 ### sagrista.info
 
 * [Searx- moving away from DuckDuckGo](https://sagrista.info/blog/2021/searx-or-duckduckgo/)
+
+
+[Back to Top]()
+### sakerplus.com
+
+* [Saker 42 in 1 Magnetic Screwdriver Set – Sakerplus](https://www.sakerplus.com/products/24-in-1-magnetic-screwdriver-set)
+* [Saker 180 In 1 Precision Electric Screwdriver Set – Sakerplus](https://www.sakerplus.com/products/180-in-1-precision-screwdriver-set)
+* [Saker 4 in 1 Drilling Positioning Ruler – Sakerplus](https://www.sakerplus.com/pages/saker-4-in-1-drilling-positioning-ruler)
+* [Saker Multifunctional Handle Holder Grocery Bag Holder – Sakerplus](https://www.sakerplus.com/products/saker-multifunctional-handle-holder-grocery-bag-holder)
 
 
 [Back to Top]()
@@ -4172,6 +4800,12 @@
 ### samsbuffalo.com
 
 * [Buy Buffalo Leather Messenger Briefcase Bag Online in USA at Lowest Prices | Sam's Buffalo](https://samsbuffalo.com/collections/leather-briefcase/products/buffalo-leather-messenger-briefcase-bag)
+
+
+[Back to Top]()
+### satechi.net
+
+* [Satechi® | Apple and PC Electronic Accessories | Free 2 Day Shipping on US Orders over $100](https://satechi.net/)
 
 
 [Back to Top]()
@@ -4260,6 +4894,12 @@
 
 
 [Back to Top]()
+### serremo.com
+
+* [Phantom Hoodie (9 Designs)](https://serremo.com/products/phantom-hoodie)
+
+
+[Back to Top]()
 ### setapp.com
 
 * [Top 10 Apps for Freelancers to Double Your Free Time](https://setapp.com/lifestyle/top-apps-for-freelancers)
@@ -4269,6 +4909,12 @@
 ### sgoel.dev
 
 * [How you can track your personal finances using Python| Siddhant Goel](https://sgoel.dev/posts/how-you-can-track-your-personal-finances-using-python/)
+
+
+[Back to Top]()
+### shadowfoam.com
+
+* [Klein MODbox Small Toolbox Inserts | Shadow Foam](https://shadowfoam.com/products/klein-modbox-small-toolbox-inserts)
 
 
 [Back to Top]()
@@ -4284,6 +4930,18 @@
 
 
 [Back to Top]()
+### shop.intension-design.com
+
+* [Tripod Standing Desk Pro – Intension Design](https://shop.intension-design.com/products/tripod-standing-desk-pro)
+
+
+[Back to Top]()
+### shop.yellowtec.com
+
+* [m!ka Table Stand - The premium desk stand to hold any mic! – Yellowtec Shop](https://shop.yellowtec.com/products/mika-table-stand-mic-arm)
+
+
+[Back to Top]()
 ### shopify.com
 
 * [The 20 Best Atom Packages for Front-End Developers in 2017](https://www.shopify.com/partners/blog/best-atom-packages-2017)
@@ -4292,9 +4950,9 @@
 [Back to Top]()
 ### shopify.dev
 
-* [Theme app extensions framework](https://shopify.dev/docs/apps/online-store/theme-app-extensions/extensions-framework)
 * [Shopify Admin API GraphiQL explorer](https://shopify.dev/docs/apps/tools/graphiql-admin-api)
 * [REST Admin API reference](https://shopify.dev/docs/api/admin-rest)
+* [Theme app extensions framework](https://shopify.dev/docs/apps/online-store/theme-app-extensions/extensions-framework)
 * [Build a Shopify app using Remix](https://shopify.dev/docs/apps/getting-started/build-qr-code-app?languagePreferences=remix)
 
 
@@ -4302,6 +4960,24 @@
 ### shopify.github.io
 
 * [Shopify Open Source > shopify_app](https://shopify.github.io/shopify_app/)
+
+
+[Back to Top]()
+### shoprinova.com
+
+* [Men's Dry Fit Sweatshirt – Rinova](https://www.shoprinova.com/products/mens-dry-fit-sweatshirt)
+
+
+[Back to Top]()
+### shopsmith.com
+
+* [MARK 7 Woodworking Machine | Shopsmith](https://www.shopsmith.com/mark-7)
+
+
+[Back to Top]()
+### showallegiance.com
+
+* [5x8 American Flag | Shop](https://www.showallegiance.com/collections/shop-allegiance/products/5-x-8-allegiance-american-flag)
 
 
 [Back to Top]()
@@ -4313,9 +4989,10 @@
 [Back to Top]()
 ### sidiocrate.com
 
-* [Half Size SidioCrate Bundle Pack](https://sidiocrate.com/collections/half-size-sidiocrate/products/sidiocrate?variant=40213666365499)
 * [SIDIOCRATE Bundle Pack – SidioCrate](https://sidiocrate.com/collections/frontpage/products/sidiocrate?variant=39436601425979)
 * [SidioCrate Basic Pack](https://sidiocrate.com/products/sidiocrate-2-standard-dividers-included?variant=39686392938555)
+* [Half Size SidioCrate Bundle Pack](https://sidiocrate.com/collections/half-size-sidiocrate/products/sidiocrate?variant=40213666365499)
+* [Full Size SidioCrate](https://sidiocrate.com/products/copy-of-full-size-sidiocrate-2-0-builder)
 
 
 [Back to Top]()
@@ -4357,8 +5034,8 @@
 [Back to Top]()
 ### smarthomebeginner.com
 
-* [Docker Media Server Ubuntu 22.04 with 23 Awesome Apps | SHB](https://www.smarthomebeginner.com/docker-media-server-2022/)
 * [60+ Best Docker Containers for Home Server Beginners 2023 | SHB](https://www.smarthomebeginner.com/best-docker-containers-for-home-server/)
+* [Docker Media Server Ubuntu 22.04 with 23 Awesome Apps | SHB](https://www.smarthomebeginner.com/docker-media-server-2022/)
 
 
 [Back to Top]()
@@ -4371,6 +5048,12 @@
 ### smmry.com
 
 * [SMMRY - Summarize Everything](http://smmry.com/favorites://)
+
+
+[Back to Top]()
+### sohl-dickstein.github.io
+
+* [Too much efficiency makes everything worse- overfitting and the strong version of Goodhart’s law | J…](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 
 
 [Back to Top]()
@@ -4394,10 +5077,22 @@
 [Back to Top]()
 ### speedtest.net
 
-* [7053297194.png 350×200 pixels](http://www.speedtest.net/result/7053297194.png)
-* [342327696.png 750×400 pixels](https://www.speedtest.net/result/d/342327696.png)
-* [Speedtest by Ookla - The Global Broadband Speed Test](https://www.speedtest.net/result/d/342327696)
 * [7042629881.png 350×200 pixels](http://www.speedtest.net/result/7042629881.png)
+* [342327696.png 750×400 pixels](https://www.speedtest.net/result/d/342327696.png)
+* [7053297194.png 350×200 pixels](http://www.speedtest.net/result/7053297194.png)
+* [Speedtest by Ookla - The Global Broadband Speed Test](https://www.speedtest.net/result/d/342327696)
+
+
+[Back to Top]()
+### spiralbible.com
+
+* [Spiral Bible Bundles | Spiral Bible](https://spiralbible.com/collections/complete-bible-bundles)
+
+
+[Back to Top]()
+### spreadsheetscrafter.com
+
+* [#1 Personal Finance Tracker - Achieve all your Goals with this Easy to](https://spreadsheetscrafter.com/products/personal-finance-tracker)
 
 
 [Back to Top]()
@@ -4427,23 +5122,23 @@
 [Back to Top]()
 ### stackoverflow.com
 
-* [ruby - Sinatra SASS custom directory - Stack Overflow](https://stackoverflow.com/questions/12268366/sinatra-sass-custom-directory)
 * [amazon web services - How do I get the AccountId as a variable in a serverless.yml file? - Stack Ove](https://stackoverflow.com/questions/42612499/how-do-i-get-the-accountid-as-a-variable-in-a-serverless-yml-file)
-* [swift - Python listens for MacOS global events - Stack Overflow](https://stackoverflow.com/questions/57503441/python-listens-for-macos-global-events)
-* [c# - Read Csv using LINQ - Stack Overflow](https://stackoverflow.com/questions/5116604/read-csv-using-linq)
-* [python - Running unittest with typical test directory structure - Stack Overflow](https://stackoverflow.com/questions/1896918/running-unittest-with-typical-test-directory-structure)
-* [amazon web services - Assumed role in AWS Lambda, access denied on SSM call - Stack Overflow](https://stackoverflow.com/questions/44734572/assumed-role-in-aws-lambda-access-denied-on-ssm-call)
-* [Github Actions - trigger another action after one action is completed - Stack Overflow](https://stackoverflow.com/questions/62750603/github-actions-trigger-another-action-after-one-action-is-completed)
-* [Favicon for Amazon s3 bucket - Stack Overflow](https://stackoverflow.com/questions/28594514/favicon-for-amazon-s3-bucket)
 * [mobile - How do I create an "Add to Home Screen" instruction pag](https://stackoverflow.com/questions/43646568/how-do-i-create-an-add-to-home-screen-instruction-page-for-ios-web-apps)
-* [performance - List of Big-O for PHP functions - Stack Overflow](https://stackoverflow.com/questions/2473989/list-of-big-o-for-php-functions)
-* [deployment - SPA with Backend API and new B2B API - how to deploy - Stack Overflow](https://stackoverflow.com/questions/69490262/spa-with-backend-api-and-new-b2b-api-how-to-deploy)
+* [ruby - Sinatra SASS custom directory - Stack Overflow](https://stackoverflow.com/questions/12268366/sinatra-sass-custom-directory)
 * [python - Trying to split a large TSV file on S3 w- Lambda - Stack Overflow](https://stackoverflow.com/questions/59108434/trying-to-split-a-large-tsv-file-on-s3-w-lambda)
-* [Initialising a multidimensional array in Java - Stack Overflow](https://stackoverflow.com/questions/1067073/initialising-a-multidimensional-array-in-java)
+* [swift - Python listens for MacOS global events - Stack Overflow](https://stackoverflow.com/questions/57503441/python-listens-for-macos-global-events)
 * [mysql - How can I implement single table inheritance using Laravel's Eloquent? - Stack Overflow](https://stackoverflow.com/questions/26691577/how-can-i-implement-single-table-inheritance-using-laravels-eloquent)
-* [Trying to query a .CSV file using Java and MetaModel API - Stack Overflow](https://stackoverflow.com/questions/21870739/trying-to-query-a-csv-file-using-java-and-metamodel-api)
 * [Where are Python libraries installed on Docker container from AWS Lambda Python image? - Stack Overf…](https://stackoverflow.com/questions/66356060/where-are-python-libraries-installed-on-docker-container-from-aws-lambda-python)
+* [amazon web services - Assumed role in AWS Lambda, access denied on SSM call - Stack Overflow](https://stackoverflow.com/questions/44734572/assumed-role-in-aws-lambda-access-denied-on-ssm-call)
+* [python - Running unittest with typical test directory structure - Stack Overflow](https://stackoverflow.com/questions/1896918/running-unittest-with-typical-test-directory-structure)
 * [Java Sudoku Generator(easiest solution) - Stack Overflow](https://stackoverflow.com/questions/6963922/java-sudoku-generatoreasiest-solution)
+* [performance - List of Big-O for PHP functions - Stack Overflow](https://stackoverflow.com/questions/2473989/list-of-big-o-for-php-functions)
+* [Initialising a multidimensional array in Java - Stack Overflow](https://stackoverflow.com/questions/1067073/initialising-a-multidimensional-array-in-java)
+* [Trying to query a .CSV file using Java and MetaModel API - Stack Overflow](https://stackoverflow.com/questions/21870739/trying-to-query-a-csv-file-using-java-and-metamodel-api)
+* [Favicon for Amazon s3 bucket - Stack Overflow](https://stackoverflow.com/questions/28594514/favicon-for-amazon-s3-bucket)
+* [deployment - SPA with Backend API and new B2B API - how to deploy - Stack Overflow](https://stackoverflow.com/questions/69490262/spa-with-backend-api-and-new-b2b-api-how-to-deploy)
+* [c# - Read Csv using LINQ - Stack Overflow](https://stackoverflow.com/questions/5116604/read-csv-using-linq)
+* [Github Actions - trigger another action after one action is completed - Stack Overflow](https://stackoverflow.com/questions/62750603/github-actions-trigger-another-action-after-one-action-is-completed)
 
 
 [Back to Top]()
@@ -4519,6 +5214,12 @@
 
 
 [Back to Top]()
+### strongermannation.com
+
+* [Stronger Man Nation with Josh McPherson | Biblical manhood is calling](https://www.strongermannation.com/)
+
+
+[Back to Top]()
 ### studioneat.com
 
 * [Material Dock | Studio Neat](https://www.studioneat.com/products/dock)
@@ -4528,6 +5229,12 @@
 ### stuffwebuyonline.com
 
 * [How To Install Bitwarden with Docker and Synology | Stuff We Buy Online](https://stuffwebuyonline.com/technology/it-pro/install-bitwarden-docker/)
+
+
+[Back to Top]()
+### stupidsimple.tools
+
+* [Identibolt Pro – Stupid Simple Tools](https://stupidsimple.tools/collections/shop-product/products/identibolt-pro?utm_medium=paid&utm_id=120212265418030164&utm_content=120212265757220164&utm_term=120212265418020164&utm_campaign=120212265418030164&utm_source=facebook&campaign_id=120212265418020164&ad_id=120212265757220164)
 
 
 [Back to Top]()
@@ -4545,8 +5252,8 @@
 [Back to Top]()
 ### support.apple.com
 
-* [Reset NVRAM or PRAM on your Mac - Apple Support](https://support.apple.com/en-us/HT204063)
 * [How to reset the SMC of your Mac - Apple Support](https://support.apple.com/en-us/HT201295)
+* [Reset NVRAM or PRAM on your Mac - Apple Support](https://support.apple.com/en-us/HT204063)
 * [Scan images or documents using your Mac - Apple Support](https://support.apple.com/guide/mac-help/scan-images-or-documents-using-your-mac-mh28032/mac)
 
 
@@ -4576,6 +5283,12 @@
 
 
 [Back to Top]()
+### swoptcleaning.com
+
+* [BFCM Deals](https://www.swoptcleaning.com/collections/bfcm-deals)
+
+
+[Back to Top]()
 ### synoforum.com
 
 * [SynoForum.com - The Unofficial Synology Forum](https://www.synoforum.com/)
@@ -4591,6 +5304,12 @@
 ### tachyonstemplates.com
 
 * [Password Protect your Jekyll site on Netlify for Free - Free HTML Tachyons Templates and Themes](https://www.tachyonstemplates.com/2020/jekyll-netlify-password/)
+
+
+[Back to Top]()
+### tactilian.com
+
+* [USA 3M Adhesive-Backed American Flag - Small (Two-Pack)](https://tactilian.com/products/adhesive-american-flag-badge-set-3d-gloss-on-matte-finish-black-plastic)
 
 
 [Back to Top]()
@@ -4621,6 +5340,13 @@
 ### teamdatascience.com
 
 * [How to process simple data stream and consume with Lambda](https://www.teamdatascience.com/post/how-to-process-simple-data-stream-and-consume-with-lambda)
+
+
+[Back to Top]()
+### teatimewithnaomi.com
+
+* [Chili Cheese Dog Casserole – Naomi's Recipes](https://teatimewithnaomi.com/chili-cheese-dog-casserole/)
+* [Sausage, Egg, and Cheese Breakfast Roll-Ups – Naomi's Recipes](https://teatimewithnaomi.com/sausage-egg-and-cheese-breakfast-roll-ups/)
 
 
 [Back to Top]()
@@ -4730,14 +5456,14 @@
 [Back to Top]()
 ### themeforest.net
 
-* [Flatastic - Ecommerce HTML Template - Site Templates | ThemeFore](http://themeforest.net/item/flatastic-ecommerce-html-template/7221813?s_phrase=templates_rank=4)
-* [Fitness - Retina Responsive HTML Template by MunFactory | ThemeForest](https://themeforest.net/item/fitness-retina-responsive-html-template/7036775?s_rank=19)
 * [Fiziko - Gym & Fitness Template by ProgressionStudios | ThemeForest](https://themeforest.net/item/fiziko-gym-fitness-template/10826154?s_rank=6)
+* [Fitness - Retina Responsive HTML Template by MunFactory | ThemeForest](https://themeforest.net/item/fitness-retina-responsive-html-template/7036775?s_rank=19)
 * [Progressive — Multipurpose Responsive Template - Site Templates | ThemeForest](http://themeforest.net/item/progressive-multipurpose-responsive-template/7197521)
-* [Flatastic - Ecommerce HTML Template - Site Templates | ThemeFore](http://themeforest.net/item/flatastic-ecommerce-html-template/7221813?s_phrase=template&s_rank=4)
 * [Riyad - Resume - CV - Portfolio - vCard HTML Template by ideas_factory](https://themeforest.net/item/riyad-creative-vcard-resume-cv-portfolio/23608354)
 * [Health Coach Blog & Lifestyle Site Template by ThemeREX | ThemeF](https://themeforest.net/item/health-coach-blog-lifestyle-site-template/19798424?s_rank=1)
 * [Vcard - Resume & Cv - Recoba Vcard by TavillaThemes | ThemeFores](https://themeforest.net/item/recoba-vcard-resume-cv/18095802?s_rank=2)
+* [Flatastic - Ecommerce HTML Template - Site Templates | ThemeFore](http://themeforest.net/item/flatastic-ecommerce-html-template/7221813?s_phrase=template&s_rank=4)
+* [Flatastic - Ecommerce HTML Template - Site Templates | ThemeFore](http://themeforest.net/item/flatastic-ecommerce-html-template/7221813?s_phrase=templates_rank=4)
 
 
 [Back to Top]()
@@ -4755,6 +5481,7 @@
 [Back to Top]()
 ### thenokbox.com
 
+* [Nokbox™ Linen | The Nokbox](https://www.thenokbox.com/products/nokbox-fabric?variant=47187659227442)
 * [The Nokbox | The Nokbox](https://www.thenokbox.com/)
 
 
@@ -4798,14 +5525,14 @@
 [Back to Top]()
 ### thingiverse.com
 
-* [Under Desk Slide Out Mount For A Lenovo M700 (also fits the M93p and P330) Tiny PC (With STEP File) …](https://www.thingiverse.com/thing:3839973)
-* [Iphone 12 MagSafe Desk Dock by jazzlw - Thingiverse](https://www.thingiverse.com/thing:4635725)
-* [Brackets for Whiteboard by AkitoNeko - Thingiverse](https://www.thingiverse.com/thing:3452214)
+* [MultiPi -- Raspberry Pi Cluster Case! by jesse76 - Thingiverse](https://www.thingiverse.com/thing:1573414)
+* [Raspberry Pi 4 1U rack-mount bracket by russross - Thingiverse](https://www.thingiverse.com/thing:4125055)
 * [Apple AirTag Keyring and Enclosure Mount by AnonymousHermit - Thingiverse](https://www.thingiverse.com/thing:4835915)
 * [GE Dryer Door Handle Remix, P-N 175D1372 by bobnexus24 - Thingiverse](https://www.thingiverse.com/thing:4804259)
-* [MultiPi -- Raspberry Pi Cluster Case! by jesse76 - Thingiverse](https://www.thingiverse.com/thing:1573414)
+* [Under Desk Slide Out Mount For A Lenovo M700 (also fits the M93p and P330) Tiny PC (With STEP File) …](https://www.thingiverse.com/thing:3839973)
 * [Comments for Raspberry Pi 3 (B:B+), Pi 2 B, and Pi 1 B+ case with VESA mounts and more by 0110-M-P - Thingiverse](https://www.thingiverse.com/thing:922740/comments)
-* [Raspberry Pi 4 1U rack-mount bracket by russross - Thingiverse](https://www.thingiverse.com/thing:4125055)
+* [Brackets for Whiteboard by AkitoNeko - Thingiverse](https://www.thingiverse.com/thing:3452214)
+* [Iphone 12 MagSafe Desk Dock by jazzlw - Thingiverse](https://www.thingiverse.com/thing:4635725)
 
 
 [Back to Top]()
@@ -4859,15 +5586,23 @@
 [Back to Top]()
 ### thuma.co
 
-* [The perfect platform bed frame - The Bed - Thuma](https://www.thuma.co/products/the-bed?variant=28723639779433)
+* [Thuma | Modern Wood Bedroom Furniture with Japanese Joinery](https://www.thuma.co/)
 * [Espresso Queen Bed The Bed with Headboard + Cushion - Beds | Thuma](https://www.thuma.co/products/the-bed?variant=40755646431337)
+* [The perfect platform bed frame - The Bed - Thuma](https://www.thuma.co/products/the-bed?variant=28723639779433)
+
+
+[Back to Top]()
+### thursdayboots.com
+
+* [Men's Lug Sole Captain Lace-Up Boot In Tobacco - Thursday Boot Company](https://thursdayboots.com/products/mens-captain-lace-up-boot-tobacco)
+* [Men's Boots - Lace-Up, Chukka, Chelsea - Thursday Boot Company](https://thursdayboots.com/collections/boots)
 
 
 [Back to Top]()
 ### tiktok.com
 
-* [Autumn Rose (@officialautumnrose) TikTok | Watch Autumn Rose's Newest TikTok Videos](https://www.tiktok.com/@officialautumnrose)
 * [Shauna Dewit (@shaunadewit) TikTok | Watch Shauna Dewit's Newest TikTok Videos](https://www.tiktok.com/@shaunadewit)
+* [Autumn Rose (@officialautumnrose) TikTok | Watch Autumn Rose's Newest TikTok Videos](https://www.tiktok.com/@officialautumnrose)
 * [Jax (@jaxwritessongs) Official TikTok | Watch Jax's Newest TikTok Videos](https://www.tiktok.com/@jaxwritessongs)
 
 
@@ -4905,15 +5640,22 @@
 [Back to Top]()
 ### tooletries.com
 
-* [Back Scrubber & Hook – TOOLETRIES](https://tooletries.com/products/back-scrubber-hook)
 * [Shower Storage & Bathroom Accessories – TOOLETRIES](https://tooletries.com/collections/shop)
+* [Back Scrubber & Hook – TOOLETRIES](https://tooletries.com/products/back-scrubber-hook)
+
+
+[Back to Top]()
+### tooltekt.com
+
+* [Tooltekt® Precision Clamping Squares](https://tooltekt.com/products/precision-clamping-squares)
+* [Tooltekt® Woodworking Square Ruler](https://tooltekt.com/products/tooltekt%c2%ae-woodworking-square-ruler)
 
 
 [Back to Top]()
 ### toostreetz.com
 
-* [Do Do Mian Boxer – toostreetz](https://toostreetz.com/products/do-do-mian-boxer?variant=17730864578658)
 * [Do Do Mian Boxer – toostreetz](https://toostreetz.com/products/do-do-mian-boxer)
+* [Do Do Mian Boxer – toostreetz](https://toostreetz.com/products/do-do-mian-boxer?variant=17730864578658)
 
 
 [Back to Top]()
@@ -4931,8 +5673,8 @@
 [Back to Top]()
 ### towardsdatascience.com
 
-* [Importing 100M+ Records into DynamoDB in Under 30 Minutes | by Paul Singman | Towards Data Science](https://towardsdatascience.com/dynamo-exports-may-get-your-data-out-but-this-is-still-the-fastest-way-to-move-data-in-5bcd9748cc00)
 * [How to download files in lightning speed - Towards Data Science](https://towardsdatascience.com/https-towardsdatascience-com-how-to-download-files-in-a-lightning-speed-a8e8dcc694f7)
+* [Importing 100M+ Records into DynamoDB in Under 30 Minutes | by Paul Singman | Towards Data Science](https://towardsdatascience.com/dynamo-exports-may-get-your-data-out-but-this-is-still-the-fastest-way-to-move-data-in-5bcd9748cc00)
 
 
 [Back to Top]()
@@ -4951,6 +5693,12 @@
 ### trek10.com
 
 * [DynamoDB Pricing- OnDemand, Autoscaled, Provisioned, or… | Trek10](https://www.trek10.com/blog/findev-dynamodb-pricing-analysis)
+
+
+[Back to Top]()
+### trytacnation.com
+
+* [TACNATION MAG-LOADERS – TACNATION USA](https://trytacnation.com/products/tacnation?utm_source=facebook&utm_medium=paid&campaign_id=120212904170170558&ad_id=120212904170150558&utm_id=120212904170170558&utm_content=120212904170150558&utm_term=120212904170190558&utm_campaign=120212904170170558)
 
 
 [Back to Top]()
@@ -4976,8 +5724,8 @@
 [Back to Top]()
 ### twentytwowords.com
 
-* [37 Home Products That Double Your Storage - 22 Words](https://twentytwowords.com/37-home-products-that-double-your-storage/)
 * [37 Budget-Friendly Statement Pieces for Redecorating Your Home - 22 Words](https://twentytwowords.com/37-budget-friendly-statement-pieces-for-redecorating-your-home/)
+* [37 Home Products That Double Your Storage - 22 Words](https://twentytwowords.com/37-home-products-that-double-your-storage/)
 
 
 [Back to Top]()
@@ -5007,8 +5755,8 @@
 [Back to Top]()
 ### unsharpen.com
 
-* [The Best Rollerball Pens of 2021 | Unsharpen](https://unsharpen.com/best-rollerball-pen/)
 * [Stabilo Bionic Rollerball Pen | Unsharpen](https://unsharpen.com/pen/stabilo-bionic/)
+* [The Best Rollerball Pens of 2021 | Unsharpen](https://unsharpen.com/best-rollerball-pen/)
 
 
 [Back to Top]()
@@ -5042,9 +5790,21 @@
 
 
 [Back to Top]()
+### us.strauss.com
+
+* [Cargo Work Pants e.s.vintage | Strauss](https://us.strauss.com/products/worker-cargo-trousers-es-vintage)
+
+
+[Back to Top]()
 ### use-the-index-luke.com
 
 * [SQL Indexing and Tuning e-Book for developers- Use The Index, Luke covers Oracle, MySQL, PostgreSQL,…](https://use-the-index-luke.com/)
+
+
+[Back to Top]()
+### usebruno.com
+
+* [https--www.usebruno.com](https://www.usebruno.com/)
 
 
 [Back to Top]()
@@ -5078,6 +5838,12 @@
 
 
 [Back to Top]()
+### utteranc.es
+
+* [utterances](https://utteranc.es/)
+
+
+[Back to Top]()
 ### v1ce.co
 
 * [V1CE – V1CE](https://v1ce.co/)
@@ -5096,6 +5862,12 @@
 
 
 [Back to Top]()
+### veriatravel.com
+
+* [The Backpack Islanders Savvy – Veria Travel](https://www.veriatravel.com/products/the-backpack-islanders-savvy)
+
+
+[Back to Top]()
 ### veryicon.com
 
 * [Futurama Vol. 1 Icons Pack, Futurama Vol. 1 Free Vector Icons in SVG, PNG Format Download](https://www.veryicon.com/icons/movie--tv/futurama-vol-1/)
@@ -5110,8 +5882,14 @@
 [Back to Top]()
 ### vishnuch.tech
 
-* [4 Service Discovery Patterns for your Microservice](https://vishnuch.tech/4-service-discovery-patterns-for-your-microservice)
 * [Nginx Cheatsheet](https://vishnuch.tech/nginx-cheatsheet)
+* [4 Service Discovery Patterns for your Microservice](https://vishnuch.tech/4-service-discovery-patterns-for-your-microservice)
+
+
+[Back to Top]()
+### visprex.com
+
+* [Visprex](https://visprex.com/#histogram)
 
 
 [Back to Top]()
@@ -5129,14 +5907,14 @@
 [Back to Top]()
 ### vrbo.com
 
-* [Magic Carpet- Sleeps 4. Featured on Married at First Sight - Broken Bow](https://www.vrbo.com/1763425?adultsCount=1arrival=2021-07-11departure=2021-07-17petIncluded=trueunitId=2324932)
-* [New! Upscale, Honeymoon Cabin - Broken Bow](https://www.vrbo.com/1584593?adultsCount=1arrival=2021-10-17departure=2021-10-23unitId=2145870)
-* [New 6 Spruce - Mountain Creek Retreat (1+ Bedrooms-1.5 Baths-Hot Tub, Sleeps 4) - Broken Bow](https://www.vrbo.com/2051219?noDates=truepetIncluded=trueunitId=2615739)
-* [Luxury Honeymoon cabin, jetted tub, tile shower, hot tub, fire pit - Broken Bow](https://www.vrbo.com/1980120?noDates=truepetIncluded=trueunitId=2544637)
-* [Top 50 New Orleans Vacation Rentals | Vrbo.com](https://www.vrbo.com/results?pinnedPropertyListing=321.1838886.2400396)
 * [Top 50 Waco Vacation Rentals | Vrbo.com](https://www.vrbo.com/results?pinnedPropertyListing=121.3698072.3712792)
 * [*New* Relaxation Redefined- Luxury Mid-Century Inspired Couples Cabin Retreat - Broken Bow](https://www.vrbo.com/2012632?adultsCount=1noDates=trueunitId=2577149)
+* [New 6 Spruce - Mountain Creek Retreat (1+ Bedrooms-1.5 Baths-Hot Tub, Sleeps 4) - Broken Bow](https://www.vrbo.com/2051219?noDates=truepetIncluded=trueunitId=2615739)
+* [Magic Carpet- Sleeps 4. Featured on Married at First Sight - Broken Bow](https://www.vrbo.com/1763425?adultsCount=1arrival=2021-07-11departure=2021-07-17petIncluded=trueunitId=2324932)
 * [Highly Reviewed Cabin in Cameron Park Near Magnolia - North Waco](https://www.vrbo.com/3698072ha?adultsCount=1arrival=2021-05-30departure=2021-06-03unitId=3712792)
+* [Top 50 New Orleans Vacation Rentals | Vrbo.com](https://www.vrbo.com/results?pinnedPropertyListing=321.1838886.2400396)
+* [Luxury Honeymoon cabin, jetted tub, tile shower, hot tub, fire pit - Broken Bow](https://www.vrbo.com/1980120?noDates=truepetIncluded=trueunitId=2544637)
+* [New! Upscale, Honeymoon Cabin - Broken Bow](https://www.vrbo.com/1584593?adultsCount=1arrival=2021-10-17departure=2021-10-23unitId=2145870)
 * [WILL HIKE FOR TACOS brand new 2020 construction cabin on a creek sleeps 8 - Broken Bow](https://www.vrbo.com/1973504?noDates=truepetIncluded=trueunitId=2538021)
 
 
@@ -5204,6 +5982,12 @@
 ### windowscentral.com
 
 * [How to make a full backup of your Windows 10 PC | Windows Central](https://www.windowscentral.com/how-make-full-backup-windows-10)
+
+
+[Back to Top]()
+### wisestamp.com
+
+* [Create A Professional Email Signature](https://www.wisestamp.com/lp/fb/professional-email-signature?utm_source=facebook&utm_medium=cpc&utm_campaign=6589511172423&utm_id=6589511172423&utm_content=6624185936623&utm_term=6617665847823)
 
 
 [Back to Top]()
@@ -5293,41 +6077,56 @@
 [Back to Top]()
 ### youtube.com
 
-* [(A Biologist's) St. Patrick's Day Song - YouTube](https://www.youtube.com/watch?v=L6dzUOYTQtQ)
 * [Don't Talk to the Police - YouTube](https://www.youtube.com/watch?v=d-7o9xYp7eE)
-* [Star Trek- Discovery - Friends Intro - YouTube](https://www.youtube.com/watch?v=aHYET-XyjZg)
-* [How to Prepare DJI Osmo Mobile 2 - YouTube](https://www.youtube.com/watch?time_continue=102v=7fWe1o2RjZY)
-* [The Ultimate Mini Server Rack - Size doesn't matter... - YouTube](https://www.youtube.com/watch?v=wJUDhQ7s9HM)
-* [How To Clean- Remington 1187 Shotgun - YouTube](https://www.youtube.com/watch?v=gP19xvTX5T8)
-* [Passion 2013 #7 (Lecrae + Chris Tomlin + John Piper) - YouTube](https://www.youtube.com/watch?v=BIx-AoJaBsQ)
-* [CSS Container Queries in 5 minutes - YouTube](https://www.youtube.com/watch?v=CHKUFsnABw4t=12s)
-* [2019+ Ram 1500 Factory OEM LED Bed Light Upgrade - Easy DIY Plug & Play Installation - YouTube](https://www.youtube.com/watch?v=LWEDrr5ezJQ)
-* [How to Prepare DJI Osmo Mobile 2 - YouTube](https://www.youtube.com/watch?time_continue=102&v=7fWe1o2RjZY)
-* [Work Jazz | Jazz & Bossa Nova Music Playlist For Work, Study, Focus - YouTube](https://www.youtube.com/watch?v=7l16rt1h2tM)
-* [Laravel Controller Code- Move to Model, Service, Action or Job? - YouTube](https://www.youtube.com/watch?v=SoCuPpCFj7Y)
-* [How to install Windows 10 on Mac using an external drive - YouTube](https://www.youtube.com/watch?v=kR28kVtZYJY)
-* [A-Team- The Next Generation - YouTube](https://www.youtube.com/watch?v=GlRz3UYhYUQ)
 * [The Pit - YouTube](https://www.youtube.com/watch?v=gd_HsyT6Q3slist=OLAK5uy_kNQ75mxlaWzHKcvPL-gIVx5H36c1AXBGg)
-* [Make It So - A Parody of Let It Go from Disneys Frozen - YouTube](https://www.youtube.com/watch?v=O7h7Mfe8BDw)
-* [The Guild plays D&D with DM @ThatBronzeGirl! - YouTube](https://www.youtube.com/watch?v=MEtlUObpogA)
-* [Star Trek- Picard - Friends Theme - YouTube](https://www.youtube.com/watch?v=9vyGR4641VQ)
-* [Say Hello to My Little Rack! - YouTube](https://www.youtube.com/watch?v=c8-cdA50bpU)
-* [Smart Meter Hacking - Decoding GPS Coordinates - YouTube](https://www.youtube.com/watch?v=Y_sh605Q7oA)
-* [Kelly and Erin Make a Music Video - The Office - YouTube](https://www.youtube.com/watch?v=GB8e5_hmCNY)
+* [Passion 2013 #7 (Lecrae + Chris Tomlin + John Piper) - YouTube](https://www.youtube.com/watch?v=BIx-AoJaBsQ)
 * [Worlds Cutest Frog - Desert Rain Frog - YouTube](https://www.youtube.com/watch?v=cBkWhkAZ9ds)
-* [Star Trek Deep Space Nine - Quark's Cheers intro - YouTube](https://www.youtube.com/watch?v=f4n7wZpTM-k)
 * [The Guild - I'm the One That's Cool Single - YouTube](https://www.youtube.com/watch?v=a2R5Mx9Jp6c)
-* [Germany- Low Crime, Clean Prisons, Lessons for America | Jeff Rosen | TEDxMountainViewHighSchool - Y…](https://www.youtube.com/watch?v=wtV5ev6813I)
-* [Monads - Part 3 - Applicative Programming - Manual - Point Kleisli Composition - YouTube](https://www.youtube.com/watch?v=svWzDgLCq7Y)
-* [A Bumper Guide to Using Python in Power BI | Importing Data, Transformations, Python Data Viz & More - YouTube](https://www.youtube.com/watch?v=_-T_-1COffA)
+* [Star Trek- Picard - Friends Theme - YouTube](https://www.youtube.com/watch?v=9vyGR4641VQ)
+* [Kelly and Erin Make a Music Video - The Office - YouTube](https://www.youtube.com/watch?v=GB8e5_hmCNY)
+* [A-Team- The Next Generation - YouTube](https://www.youtube.com/watch?v=GlRz3UYhYUQ)
+* [Laravel Controller Code- Move to Model, Service, Action or Job? - YouTube](https://www.youtube.com/watch?v=SoCuPpCFj7Y)
 * [Shame on you - Policeman belittles gawkers after fatal truck accident | BR24 - YouTube](https://www.youtube.com/watch?v=8ffetIbzyK8)
+* [2019+ Ram 1500 Factory OEM LED Bed Light Upgrade - Easy DIY Plug & Play Installation - YouTube](https://www.youtube.com/watch?v=LWEDrr5ezJQ)
+* [How to install Windows 10 on Mac using an external drive - YouTube](https://www.youtube.com/watch?v=kR28kVtZYJY)
 * [Captain Picard sings Make it So (Let it Snow) - YouTube](https://www.youtube.com/watch?v=xteKObnaA2c)
+* [Star Trek Deep Space Nine - Quark's Cheers intro - YouTube](https://www.youtube.com/watch?v=f4n7wZpTM-k)
+* [Work Jazz | Jazz & Bossa Nova Music Playlist For Work, Study, Focus - YouTube](https://www.youtube.com/watch?v=7l16rt1h2tM)
+* [Monads - Part 3 - Applicative Programming - Manual - Point Kleisli Composition - YouTube](https://www.youtube.com/watch?v=svWzDgLCq7Y)
+* [How to Prepare DJI Osmo Mobile 2 - YouTube](https://www.youtube.com/watch?time_continue=102&v=7fWe1o2RjZY)
+* [Make It So - A Parody of Let It Go from Disneys Frozen - YouTube](https://www.youtube.com/watch?v=O7h7Mfe8BDw)
+* [(A Biologist's) St. Patrick's Day Song - YouTube](https://www.youtube.com/watch?v=L6dzUOYTQtQ)
+* [How to Defend Christianity - YouTube](https://www.youtube.com/watch?v=ZM3Ez4l-3RY)
+* [TWCDesign - YouTube](https://www.youtube.com/@twcdesign)
+* [The Ultimate Mini Server Rack - Size doesn't matter... - YouTube](https://www.youtube.com/watch?v=wJUDhQ7s9HM)
+* [Germany- Low Crime, Clean Prisons, Lessons for America | Jeff Rosen | TEDxMountainViewHighSchool - Y…](https://www.youtube.com/watch?v=wtV5ev6813I)
+* [Smart Meter Hacking - Decoding GPS Coordinates - YouTube](https://www.youtube.com/watch?v=Y_sh605Q7oA)
+* [Star Trek- Discovery - Friends Intro - YouTube](https://www.youtube.com/watch?v=aHYET-XyjZg)
+* [The Guild plays D&D with DM @ThatBronzeGirl! - YouTube](https://www.youtube.com/watch?v=MEtlUObpogA)
+* [CSS Container Queries in 5 minutes - YouTube](https://www.youtube.com/watch?v=CHKUFsnABw4t=12s)
+* [How to Prepare DJI Osmo Mobile 2 - YouTube](https://www.youtube.com/watch?time_continue=102v=7fWe1o2RjZY)
+* [Say Hello to My Little Rack! - YouTube](https://www.youtube.com/watch?v=c8-cdA50bpU)
+* [5 Ways to Start Woodworking NOW! - YouTube](https://www.youtube.com/watch?v=hLT1M9O0K0c)
+* [How To Clean- Remington 1187 Shotgun - YouTube](https://www.youtube.com/watch?v=gP19xvTX5T8)
+* [A Bumper Guide to Using Python in Power BI | Importing Data, Transformations, Python Data Viz & More - YouTube](https://www.youtube.com/watch?v=_-T_-1COffA)
+
+
+[Back to Top]()
+### zammad.org
+
+* [Zammad Community | Home & Download](https://zammad.org/)
 
 
 [Back to Top]()
 ### zetcode.com
 
 * [Go csv - read write CSV in Golang](https://zetcode.com/golang/csv/)
+
+
+[Back to Top]()
+### ziggy-lang.io
+
+* [Home - Ziggy Data Language](https://ziggy-lang.io/)
 
 
 [Back to Top]()
