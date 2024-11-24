@@ -4,14 +4,14 @@ markdown: str = "# Bookmarks\n\n"
 
 categories = duckdb.sql("select distinct left(domain, 1) as category from 'bookmarks.csv' order by domain").fetchall()
 
-for category in categories:
-    hash = category[0].replace('.', '')
-    markdown += f"[{category[0].upper()}](#{hash})"
-    if not category == categories[-1]:
-        markdown += " | "
 
-markdown += "\n\nHello World"
-markdown = markdown.strip().rstrip('|').strip()
+top: str = '|' * (len(categories) + 2)
+dividers: list = [':---:'] * (len(categories) + 2)
+links: list = [f"[{c[0].upper()}](#{c[0].upper().replace('.', '')})" for c in categories]
+
+markdown += f"{top}\n"
+markdown += f"|{'|'.join(dividers)}|\n"
+markdown += f"|{'|'.join(links)}|\n"
 
 for category in categories:
     bookmarks = duckdb.sql(f"select title, url from 'bookmarks.csv' where domain like '{category[0]}%'")
